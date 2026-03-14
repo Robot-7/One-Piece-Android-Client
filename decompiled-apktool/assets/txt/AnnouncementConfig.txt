@@ -1,0 +1,7 @@
+﻿AnnouncementId	idName	Title	StartTime	EndTime	timeMsg	Msg	IsHaveButton	ButtonText	ButtonGoPage	ButtonType	AdventureId	changeOrPush	公告图片路径	开服显示截至时间秒数	显示顺序
+215	【活动】	累计消耗	1427958000	1428454800	4月3日11点-4月8日9点	怎么才能最划算？如何才能让钻石价值最大化？消耗累计告诉您如何使1钻石发挥出最大的价值！	0	点击前往	AdventurePage	0	108	0	NoticePrint/Notice_leijixiaofei.jpg	0	215
+216	【活动】	攻打黑胡子	1427958000	1428454800	4月3日11点-4月8日9点	我们深知，勇敢的你需要更多！赶快展示你的实力吧！	0	点击前往	AdventurePage	0	6	0	NoticePrint/Notice_gongdaheihuzi	0	216
+217	【活动】	船员训练次数翻倍	1427958000	1428454800	4月3日11点-4月8日9点	活动期间，各位船长每日可进行双倍次数船员训练。	0	点击前往	AdventurePage	0	134	0	NoticePrint/Notice_chuanyuanxunliancishushuangbei.jpg	0	217
+218	【活动】	超值兑换抽奖券	1427958000	1428454800	4月3日11点-4月8日9点	活动期间，各位船长每天可以花费贝里和钻石兑换转盘幸运奖券或转盘豪华奖券!快行动起来！	0	点击前往	AdventurePage	0	110	0	NoticePrint/Notice_chaozhiduihuan.jpg	0	218
+219	【活动】	幸运大转盘-罗杰	1427958000	1428454800	4月3日11点-4月8日9点	活动期间，各位船长可以通过弗兰奇的幸运转盘进行抽奖!获取意想不到的惊喜！	0	点击前往	AdventurePage	0	117	0	NoticePrint/Notice_xingyundazhuanpan.jpg	0	219
+222	【活动】	首充三倍	1427958000	1428454800	4月3日11点-4月8日9点	活动期间，将重置各位船长的首充优惠！并且在活动期间，玩家的首笔充值将给予三倍的钻石！	0	点击前往	RechargePage	0	0	1	NoticePrint/Notice_shouchongsanbei.jpg	0	222

@@ -1,0 +1,14 @@
+﻿id	名称	icon路径	价格等级	描述个数	描述1	描述2	描述3	描述4	描述5	描述6	描述7	描述8
+1	VIP1	mainScene/b_VIP.png	0	7	购买VIP1礼包	游戏交流QQ群 452120332	客服QQ：969827018
+2	VIP2	mainScene/b_VIP.png	0	6	购买VIP2礼包	游戏交流QQ群 452120332	客服QQ：969827018
+3	VIP3	mainScene/b_VIP.png	0	5	购买VIP3礼包	游戏交流QQ群 452120332	客服QQ：969827018
+4	VIP4	mainScene/b_VIP.png	0	5	购买VIP4礼包	游戏交流QQ群 452120332	客服QQ：969827018
+5	VIP5	mainScene/b_VIP.png	0	5	购买VIP5礼包	游戏交流QQ群 452120332	客服QQ：969827018
+6	VIP6	mainScene/b_VIP.png	0	5	购买VIP6礼包	游戏交流QQ群 452120332	客服QQ：969827018
+7	VIP7	mainScene/b_VIP.png	0	5	购买VIP7礼包	游戏交流QQ群 452120332	客服QQ：969827018
+8	VIP8	mainScene/b_VIP.png	0	5	购买VIP8礼包	游戏交流QQ群 452120332	客服QQ：969827018
+9	VIP9	mainScene/b_VIP.png	0	5	购买VIP9礼包	游戏交流QQ群 452120332	客服QQ：969827018
+10	VIP10	mainScene/b_VIP.png	0	5	购买VIP10礼包	游戏交流QQ群 452120332	客服QQ：969827018
+11	VIP11	mainScene/b_VIP.png	0	5	购买VIP11礼包	游戏交流QQ群 452120332	客服QQ：969827018
+12	VIP12	mainScene/b_VIP.png	200	6	购买VIP12礼包	游戏交流QQ群 452120332	客服QQ：969827018	
+13	VIP13	mainScene/b_VIP.png	500	7	购买VIP13礼包	游戏交流QQ群 452120332	客服QQ：969827018	

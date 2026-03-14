@@ -1,0 +1,3 @@
+﻿id	name	openLevel	unlockCondition	ccbi	seats	maxLevel
+1	万里阳光号	14	none	HullRenovationCard1.ccbi	7	2
+2	黄金梅利号	30	none	HullRenovationCard2.ccbi	7	1

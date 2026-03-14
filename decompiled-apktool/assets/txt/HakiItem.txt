@@ -1,0 +1,4 @@
+﻿霸气ID	霸气名字	初级霸气描述	中级霸气色描述	高级霸王色描述	初级图片	中级图片	高级图片	底图	加成系数1	加成系数2
+12	武装色霸气	初级阶段，可抓住能力者实体，小幅增加普通攻击伤害值	中级阶段，可演化为攻击力，增加普通攻击伤害值	高级阶段，可以缠在武器上加强攻击力道，大幅增加普通攻击伤害值	haki/haki_char_wuzhuangzhiquan1.png	haki/haki_char_wuzhuangzhiquan2.png	haki/haki_char_wuzhuangzhiquan3.png	haki/haki_bg_wuzhuangzhiquan.png	0.5	6000
+13	见闻色霸气	初级阶段，可感应到视线外的敌人，小幅减少所受普通攻击伤害值	中级阶段，可预测对手下一步的动作与位置，减少所受普通攻击伤害值	高级阶段，可凭借此能力听到他人的心声，大幅减少所受普通攻击伤害值	haki/haki_char_jianwenzhiyan1.png	haki/haki_char_jianwenzhiyan2.png	haki/haki_char_jianwenzhiyan3.png	haki/haki_bg_jianwenzhiyan.png	0.6	6000
+14	霸王色霸气	初级阶段，可以靠着自身气魄震摄敌人，小幅减少所受奥义伤害值	中级阶段，在战斗中震慑吓昏敌人，减少所受奥义伤害值	高级阶段，可对众人产生威压效果，大幅减少所受奥义伤害值	haki/haki_char_bawangzhimian1.png	haki/haki_char_bawangzhimian2.png	haki/haki_char_bawangzhimian3.png	haki/haki_bg_bawangzhimian.png	1.2	6000

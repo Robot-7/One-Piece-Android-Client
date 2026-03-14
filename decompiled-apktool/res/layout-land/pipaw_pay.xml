@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/title" android:background="@drawable/pp_title_bg" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@id/back_iv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:src="@drawable/pp_btn_back_selector" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+        <TextView android:textSize="20.0sp" android:textColor="#ffffffff" android:id="@id/title_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+    </RelativeLayout>
+    <ScrollView android:background="@drawable/pp_bg" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:orientation="vertical" android:id="@id/pay_info" android:background="@drawable/pp_pay_info_bg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="10.0dip">
+                <TextView android:textSize="16.0sp" android:textColor="#ff000000" android:id="@id/pay_txt_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_marginTop="5.0dip" android:layout_marginBottom="5.0dip" />
+                <LinearLayout android:orientation="horizontal" android:background="@drawable/pp_divider" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:layout_marginBottom="5.0dip">
+                    <TextView android:textSize="16.0sp" android:textColor="#ff000000" android:id="@id/subject_txt_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="50.0dip" android:layout_marginRight="20.0dip" />
+                    <TextView android:textSize="16.0sp" android:textColor="#ff000000" android:ellipsize="end" android:id="@id/subject_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="5.0dip">
+                    <TextView android:textSize="16.0sp" android:textColor="#ff000000" android:id="@id/price_txt_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="50.0dip" android:layout_marginRight="20.0dip" />
+                    <TextView android:textSize="16.0sp" android:textColor="#ff0096ff" android:id="@id/price_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                    <TextView android:textSize="16.0sp" android:textColor="#ff0096ff" android:id="@id/price_unit_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/pay_info">
+                <TextView android:textSize="16.0sp" android:textColor="#ffffffff" android:id="@id/pay_type_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="25.0dip" />
+                <TextView android:textSize="14.0sp" android:textColor="#ffffffff" android:id="@id/pay_type_tip_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="20.0dip">
+                <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+                    <ImageView android:id="@id/alipay" android:background="@drawable/pp_alipay" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/pp_pay_type_bg_selector" />
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+                    <ImageView android:id="@id/tenpay" android:background="@drawable/pp_tenpay" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/pp_pay_type_bg_selector" />
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+                    <ImageView android:id="@id/unionpay" android:background="@drawable/pp_unionpay" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/pp_pay_type_bg_selector" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="20.0dip">
+                <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+                    <ImageView android:id="@id/heepay_jk" android:background="@drawable/pp_heepay_jk" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/pp_pay_type_bg_selector" />
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+                    <ImageView android:id="@id/heepay_szx" android:background="@drawable/pp_heepay_szx" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/pp_pay_type_bg_selector" />
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+                    <ImageView android:id="@id/heepay_ltk" android:background="@drawable/pp_heepay_ltk" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/pp_pay_type_bg_selector" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="20.0dip">
+                <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+                    <ImageView android:id="@id/heepay_dxk" android:background="@drawable/pp_heepay_dxk" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/pp_pay_type_bg_selector" />
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+                    <ImageView android:id="@id/mo9pay" android:background="@drawable/pp_mo9pay" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/pp_pay_type_bg_selector" />
+                </LinearLayout>
+                <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

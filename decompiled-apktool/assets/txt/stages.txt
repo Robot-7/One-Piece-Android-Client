@@ -1,0 +1,856 @@
+﻿关卡ID	章ID	关卡名称	BOSS类型	体力消耗数量	每日限制攻打成功次数	胜利后奖励经验	胜利后奖励银两	掉落物品	关卡NPC	建议等级	关卡剧情	头像路径	战斗背景	精英类型	关卡解锁等级限制	关卡解锁vip等级限制	关卡解锁的关卡限制	members/head_char_yuzushou.png	topmembers/tophead_char_yuzushou.png	person/poster_char_yuzushou.png	none	none	battleperson/poster_battle_yuzushou.png	fightNormalAttack.mp3	0
+101	0	营救艾斯	0	1	999	80	32	0	101	100	这里，是海军总部？行刑台上的人，是火拳艾斯？！！！	members/head_char_shanzei.png	battle/maoxianliming.png	0	0	0	0	members/head_char_yuzushou.png	topmembers/tophead_char_yuzushou.png	person/poster_char_yuzushou.png	none	none	battleperson/poster_battle_yuzushou.png	fightNormalAttack.mp3	0
+102	0	海军追击	1	1	10	100	57	50000_32_1	102	100	终于赶在行刑前救出了艾斯，大家正准备逃跑的时候，海军追来了……	members/head_char_shanzeitoumu.png	battle/maoxianliming.png	0	0	0	0	members/head_char_yuzushou.png	topmembers/tophead_char_yuzushou.png	person/poster_char_yuzushou.png	none	none	battleperson/poster_battle_yuzushou.png	fightNormalAttack.mp3	0
+103	0	放着别删	1	1	10	100	57	50000_32_1	102	100	终于赶在行刑前救出了艾斯，大家正准备逃跑的时候，海军追来了……	members/head_char_shanzeitoumu.png	battle/maoxianliming.png	0	0	0	0	members/head_char_yuzushou.png	topmembers/tophead_char_yuzushou.png	person/poster_char_yuzushou.png	none	none	battleperson/poster_battle_yuzushou.png	fightNormalAttack.mp3	0
+101	1	酒馆滋事	0	1	999	80	32	0	101	1	本来宁静而充满欢乐的小镇酒馆，闯进一群山贼，并因为没有了美酒而与海贼们产生了争执……	members/head_char_shanzei.png	battle/maoxianliming.png	0	0	0	0	members/head_char_yuzushou.png	topmembers/tophead_char_yuzushou.png	person/poster_char_yuzushou.png	none	none	battleperson/poster_battle_yuzushou.png	fightNormalAttack.mp3	0
+102	1	破碎美酒	1	1	10	100	57	50000_32_1,61001_3609004_1	102	1	作为头号通缉犯的山贼首领，并不接受红发船长赠酒的好意，而是粗暴的将酒瓶砸向了他……	members/head_char_shanzeitoumu.png	battle/maoxianliming.png	0	0	0	0	members/head_char_yuzushou.png	topmembers/tophead_char_yuzushou.png	person/poster_char_yuzushou.png	none	none	battleperson/poster_battle_yuzushou.png	fightNormalAttack.mp3	0
+103	1	再次挑衅	0	1	999	90	36	11001_1001_20	103	1	山贼们扬长而去，红发海贼们却毫不在意，依旧出海了。直到有一天，山贼们再次来到酒馆……	members/head_char_shanzei.png	battle/maoxianliming.png	0	0	0	0	members/head_char_yuzushou.png	topmembers/tophead_char_yuzushou.png	person/poster_char_yuzushou.png	none	none	battleperson/poster_battle_yuzushou.png	fightNormalAttack.mp3	0
+104	1	山贼喽啰	0	1	999	90	36	0	104	1	返航的红发海贼们，恰巧碰到即将抓人离去的山贼，一场战斗就此展开了。	members/head_char_shanzei.png	battle/maoxianliming.png	0	0	0	0	members/head_char_yuzushou.png	topmembers/tophead_char_yuzushou.png	person/poster_char_yuzushou.png	none	none	battleperson/poster_battle_yuzushou.png	fightNormalAttack.mp3	0
+105	1	西格首领	0	1	999	90	36	0	105	1	混战中，西格首领见势不妙，挟持少年落荒而逃，驾着小船驶向大海。	members/head_char_xige.png	battle/maoxianliming.png	0	0	0	0	members/head_char_leiou.png	topmembers/tophead_char_leiou.png	person/poster_char_leiou.png	none	none	battleperson/poster_battle_leiou.png	sound/girl101.mp3	0
+106	1	近海王兽	2	1	5	140	102	50000_28_1,11001_1001_20	106	2	海王来袭。千钧一发之际，一道身影在少年身前化解了危机。只是，红发从此失去了一只手臂。	members/head_char_elong.png	battle/maoxianliming.png	0	0	0	0	members/head_char_leiou.png	topmembers/tophead_char_leiou.png	person/poster_char_leiou.png	none	none	battleperson/poster_battle_leiou.png	sound/girl101.mp3	0
+201	2	陌生海岛	0	1	999	90	36	0	201	2	一群海贼捞起木桶，以为是装满了美酒，兴冲冲的准备打开，木桶却从里面被打破了……	members/head_char_haidao1.png	battle/yingjiusuolong.png	0	0	0	0	members/head_char_leiou.png	topmembers/tophead_char_leiou.png	person/poster_char_leiou.png	none	none	battleperson/poster_battle_leiou.png	sound/girl101.mp3	0
+202	2	初遇海贼	0	1	999	100	40	0	202	2	巨大的响动引起一阵骚乱，木桶也被打飞，旁边还跟着一个戴眼镜的小矮子——克比。	members/head_char_haidao1.png	battle/yingjiusuolong.png	0	0	0	0	members/head_char_leiou.png	topmembers/tophead_char_leiou.png	person/poster_char_leiou.png	none	none	battleperson/poster_battle_leiou.png	sound/girl101.mp3	0
+203	2	铁棒	1	1	10	130	75	50000_62_1,11001_1001_20	203	2	了解到克比希望加入海军的梦想，你决定帮助他，不过要先去解决束缚着她的亚尔丽塔船长。	members/head_char_yaerlita.png	battle/yingjiusuolong.png	0	0	0	0	members/head_char_leiou.png	topmembers/tophead_char_leiou.png	person/poster_char_leiou.png	none	none	battleperson/poster_battle_leiou.png	sound/girl101.mp3	0
+204	2	捆绑的猎人	0	1	999	1000	40	0	204	2	来到海军基地所在的小镇上，广场中央正绑着一名海贼猎人，似乎名气还蛮大的。	members/head_char_haijun1.png	battle/yingjiusuolong.png	0	0	0	0	members/head_char_leiou.png	topmembers/tophead_char_leiou.png	person/poster_char_leiou.png	none	none	battleperson/poster_battle_leiou.png	sound/girl101.mp3	0
+205	2	擅自决定	0	1	999	110	44	0	205	3	真是个顽强的家伙，无论如何，都要把他拉到自己的船上！	members/head_char_haijun1.png	battle/yingjiusuolong.png	0	0	0	0	members/head_char_leiou.png	topmembers/tophead_char_leiou.png	person/poster_char_leiou.png	none	none	battleperson/poster_battle_leiou.png	sound/girl101.mp3	0
+206	2	取回武器	1	1	10	150	86	50000_30_1,11001_1001_20	206	3	他最宝贵的武器被海军收走了，看来只能先帮他取回来才能采取下一步行动，冲向海军基地吧！	members/head_char_beilumeibo.png	battle/yingjiusuolong.png	0	0	0	0	members/head_char_leiou.png	topmembers/tophead_char_leiou.png	person/poster_char_leiou.png	none	none	battleperson/poster_battle_leiou.png	sound/girl101.mp3	0
+207	2	营救索隆	2	1	5	200	146	50000_57_1,11001_1001_20	207	3	蒙卡上校竟然追到了广场，先将索隆的绳索砍断吧，然后再来对付他。	members/head_char_mengka.png	battle/yingjiusuolong.png	0	0	0	0	members/head_char_yuzushou.png	topmembers/tophead_char_yuzushou.png	person/poster_char_yuzushou.png	none	none	battleperson/poster_battle_yuzushou.png	fightNormalAttack.mp3	0
+301	3	美女小偷	0	1	999	110	44	0	301	3	站在四周的海贼在短暂的错愕之后，围了上来，显然不像是在欢迎你，那么动手吧……	members/head_char_haidao2.png	battle/xiaozeimao.png	0	0	0	0	members/head_char_yuzushou.png	topmembers/tophead_char_yuzushou.png	person/poster_char_yuzushou.png	none	none	battleperson/poster_battle_yuzushou.png	fightNormalAttack.mp3	0
+302	3	联手合作	0	1	999	120	48	0	302	3	女孩叫娜美，是一名专偷海贼的小偷，她的下一个目标就是巴基海贼团，你是否要跟她合作呢？	members/head_char_haidao2.png	battle/xiaozeimao.png	0	0	0	0	members/head_char_yuzushou.png	topmembers/tophead_char_yuzushou.png	person/poster_char_yuzushou.png	none	none	battleperson/poster_battle_yuzushou.png	fightNormalAttack.mp3	0
+303	3	巴基海贼团	0	1	999	130	52	0	303	3	娜美说的合作竟然是把你绑起来扔进囚笼，关键时刻，索隆终于赶到，战斗开始了。	members/head_char_haidao2.png	battle/xiaozeimao.png	0	0	0	0	members/head_char_yuzushou.png	topmembers/tophead_char_yuzushou.png	person/poster_char_yuzushou.png	none	none	battleperson/poster_battle_yuzushou.png	fightNormalAttack.mp3	0
+304	3	猛兽秀	1	1	10	170	98	41000_58_1,11001_1001_20	304	4	哎？这个头戴古怪头套的家伙是干啥的？哈哈，他竟然帮你打破了囚笼！	members/head_char_moqi.png	battle/xiaozeimao.png	0	0	0	0	members/head_char_yuzushou.png	topmembers/tophead_char_yuzushou.png	person/poster_char_yuzushou.png	none	none	battleperson/poster_battle_yuzushou.png	fightNormalAttack.mp3	0
+305	3	巴基炮弹	0	1	999	130	52	0	305	4	得知摩奇被打败，气急败坏的巴基准备用巴基炮弹摧毁小镇，必须阻止他！	members/head_char_haidao3.png	battle/xiaozeimao.png	0	0	0	0	members/head_char_yuzushou.png	topmembers/tophead_char_yuzushou.png	person/poster_char_yuzushou.png	none	none	battleperson/poster_battle_yuzushou.png	fightNormalAttack.mp3	0
+306	3	勇气之心	0	1	999	130	52	0	306	4	在小狗秀秀的勇气感召下，村长终于下定决心，挑战巴基，保卫小镇，去帮他把。	members/head_char_haidao3.png	battle/xiaozeimao.png	0	0	0	0	members/head_char_yuzushou.png	topmembers/tophead_char_yuzushou.png	person/poster_char_yuzushou.png	none	none	battleperson/poster_battle_yuzushou.png	fightNormalAttack.mp3	0
+307	3	反击开始	0	1	999	150	60	0	307	4	反击终于开始了，不断的有村民赶来，绝对不能输！	members/head_char_haidao3.png	battle/xiaozeimao.png	0	0	0	0	members/head_char_yuzushou.png	topmembers/tophead_char_yuzushou.png	person/poster_char_yuzushou.png	none	none	battleperson/poster_battle_yuzushou.png	fightNormalAttack.mp3	0
+308	3	杂耍参谋	1	1	10	190	109	50000_63_1,11001_1001_20	308	4	又出现一个骑着独轮车，嘴里喷火的怪家伙，是从马戏团出来的么？	members/head_char_kabaji.png	battle/xiaozeimao.png	0	0	0	0	members/head_char_qingjiao.png	topmembers/tophead_char_qingjiao.png	person/poster_char_qingjiao.png	none	none	battleperson/poster_battle_qingjiao.png	sound/man07.mp3	0
+309	3	四分五裂	2	1	5	260	190	50000_26_1,11001_1001_20	309	5	红鼻子，不要打扰索隆的决斗，来进行1V1的战斗吧。	members/head_char_baji.png	battle/xiaozeimao.png	0	0	0	0	members/head_char_yuzushou.png	topmembers/tophead_char_yuzushou.png	person/poster_char_yuzushou.png	none	none	battleperson/poster_battle_yuzushou.png	fightNormalAttack.mp3	0
+401	4	小鬼的骚扰	0	1	999	150	60	0	401	5	刚刚靠岸，就碰到一群潜伏在树丛中的小鬼，他们拿着弹弓与木剑，是要发动进攻么？	members/head_char_xiaohai1.png	battle/jujizhiwang.png	0	0	0	0	members/head_char_yuzushou.png	topmembers/tophead_char_yuzushou.png	person/poster_char_yuzushou.png	none	none	battleperson/poster_battle_yuzushou.png	fightNormalAttack.mp3	0
+402	4	谎言与真实	0	1	999	150	60	0	402	5	这个长鼻子的家伙真是有趣，拉他入伙吧！只是他牵挂着大宅子里的可雅，一起跟去看看。	members/head_char_zhuangyuanshouwei.png	battle/jujizhiwang.png	0	0	0	0	members/head_char_yuzushou.png	topmembers/tophead_char_yuzushou.png	person/poster_char_yuzushou.png	none	none	battleperson/poster_battle_yuzushou.png	fightNormalAttack.mp3	0
+403	4	教训	0	1	999	160	64	0	403	5	这个庄园的管家真是个大混蛋，丝毫不知道尊重他人，看来必须教训他一下。	members/head_char_zhuangyuanshouwei.png	battle/jujizhiwang.png	0	0	0	0	members/head_char_yuzushou.png	topmembers/tophead_char_yuzushou.png	person/poster_char_yuzushou.png	none	none	battleperson/poster_battle_yuzushou.png	fightNormalAttack.mp3	0
+404	4	催眠大师	1	1	10	210	120	50000_37_1,11001_1001_20	404	6	被可雅赶来出来，却无意中发现一个倒着走的怪人，形迹可疑的徘徊在庄园附近。	members/head_char_zangao.png	battle/jujizhiwang.png	0	0	0	0	members/head_char_yuzushou.png	topmembers/tophead_char_yuzushou.png	person/poster_char_yuzushou.png	none	none	battleperson/poster_battle_yuzushou.png	fightNormalAttack.mp3	0
+405	4	巨大阴谋	0	1	999	160	64	0	405	6	跟踪上去，发现催眠师竟然与管家悄悄碰面，商量着暗杀可雅小姐！	members/head_char_haidao4.png	battle/jujizhiwang.png	0	0	0	0	members/head_char_yuzushou.png	topmembers/tophead_char_yuzushou.png	person/poster_char_yuzushou.png	none	none	battleperson/poster_battle_yuzushou.png	fightNormalAttack.mp3	0
+406	4	原形毕露	0	1	999	170	68	0	406	6	想不到管家竟然是大名鼎鼎的克洛船长，他企图制造海贼抢掠的假象，从而获得整个庄园。	members/head_char_haidao4.png	battle/jujizhiwang.png	0	0	0	0	members/head_char_yuzushou.png	topmembers/tophead_char_yuzushou.png	person/poster_char_yuzushou.png	none	none	battleperson/poster_battle_yuzushou.png	fightNormalAttack.mp3	0
+407	4	黑猫海贼团	0	1	999	180	72	0	407	6	黑猫海贼团已经登岸，村民们不相信乌索普的话，只有靠你来阻止他们了。	members/head_char_haidao4.png	battle/jujizhiwang.png	0	0	0	0	members/head_char_shengwu2.png	topmembers/tophead_char_shengwu2.png	person/poster_char_shengwu2.png	none	none	battleperson/poster_battle_shengwu2.png	fightNormalAttack.mp3	0
+408	4	猫人兄弟一	1	1	10	250	143	41000_50_1,11001_1001_20	408	6	拆下了黑猫海贼船的船头，不料惊动了船上的猫人兄弟，似乎周围的海贼都很怕他们。	members/head_char_buzhi.png	battle/jujizhiwang.png	0	0	0	0	members/head_char_yuzushou.png	topmembers/tophead_char_yuzushou.png	person/poster_char_yuzushou.png	none	none	battleperson/poster_battle_yuzushou.png	fightNormalAttack.mp3	0
+409	4	猫人兄弟二	1	1	10	250	143	50000_60_1,11001_1001_20	409	7	击败了猫人兄弟中的其中一人，剩下的一个也要尽快解决才行。	members/head_char_shanmu.png	battle/jujizhiwang.png	0	0	0	0	members/head_char_yuzushou.png	topmembers/tophead_char_yuzushou.png	person/poster_char_yuzushou.png	none	none	battleperson/poster_battle_yuzushou.png	fightNormalAttack.mp3	0
+410	4	智多星	2	1	5	330	240	41000_52_1,11001_1001_20	410	7	被可雅听到亲口吐露的阴谋，克洛仍毫无悔改之心，将他打飞吧！	members/head_char_keluo.png	battle/jujizhiwang.png	0	0	0	0	members/head_char_yuzushou.png	topmembers/tophead_char_yuzushou.png	person/poster_char_yuzushou.png	none	none	battleperson/poster_battle_yuzushou.png	fightNormalAttack.mp3	0
+501	5	海上餐厅	0	1	999	260	104	0	501	7	听说在海上有一艘海船，拥有最好的厨师，人们称之为海上西餐厅，何不前去看看呢？	members/head_char_chushi1.png	battle/heijiaochushi.png	0	0	0	0	members/head_char_yuzushou.png	topmembers/tophead_char_yuzushou.png	person/poster_char_yuzushou.png	none	none	battleperson/poster_battle_yuzushou.png	fightNormalAttack.mp3	0
+502	5	厨师争斗	0	1	999	270	108	0	502	7	刚一来到，就碰到两名厨师在大声争吵，那个卷眉毛叫香吉士么？看来是名很好的厨师呢。	members/head_char_chushi1.png	battle/heijiaochushi.png	0	0	0	0	members/head_char_yuzushou.png	topmembers/tophead_char_yuzushou.png	person/poster_char_yuzushou.png	none	none	battleperson/poster_battle_yuzushou.png	fightNormalAttack.mp3	0
+503	5	不速之客	0	1	999	290	116	0	503	7	一个海贼被救上船来，狼吞虎咽吃着食物，只是这个叫阿金的海贼后面，跟来一群不速之客。	members/head_char_chushi2.png	battle/heijiaochushi.png	0	0	0	0	members/head_char_yuzushou.png	topmembers/tophead_char_yuzushou.png	person/poster_char_yuzushou.png	none	none	battleperson/poster_battle_yuzushou.png	fightNormalAttack.mp3	0
+504	5	鹰眼的试炼	1	1	10	370	212	50000_32_1,50000_61_1,11001_1001_20	504	7	黑刀乱刃，鹰一般的眼神，站在剑客之路顶点之人，为了大剑豪之名，索隆发起了挑战。	members/head_char_yingyan.png	battle/heijiaochushi.png	0	0	0	0	members/head_char_yuzushou.png	topmembers/tophead_char_yuzushou.png	person/poster_char_yuzushou.png	none	none	battleperson/poster_battle_yuzushou.png	fightNormalAttack.mp3	0
+505	5	东海霸者	0	1	999	350	140	0	505	7	索隆仍有一口气在，而海贼团趁机登上了船，他们自称是东海的霸者——克里克海贼团。	members/head_char_haidao5.png	battle/heijiaochushi.png	0	0	0	0	members/head_char_leiou.png	topmembers/tophead_char_leiou.png	person/poster_char_leiou.png	none	none	battleperson/poster_battle_leiou.png	fightNormalAttack.mp3	0
+506	5	恩将仇报	0	1	999	370	148	0	506	7	克里克海贼团在遭受鹰眼重创后，落荒而逃，酒足饭饱后，开始打起海上餐厅的主意来。	members/head_char_haidao5.png	battle/heijiaochushi.png	0	0	0	0	members/head_char_leiou.png	topmembers/tophead_char_leiou.png	person/poster_char_leiou.png	none	none	battleperson/poster_battle_leiou.png	fightNormalAttack.mp3	0
+507	5	大混战	0	1	999	370	148	0	507	7	随着克里克抢夺海上餐厅的命令下达，厨师们开始奋起反击，一场混战愈演愈烈。	members/head_char_haidao5.png	battle/heijiaochushi.png	0	0	0	0	members/head_char_leiou.png	topmembers/tophead_char_leiou.png	person/poster_char_leiou.png	none	none	battleperson/poster_battle_leiou.png	fightNormalAttack.mp3	0
+508	5	铜墙铁壁	1	1	10	450	258	50000_32_1,11001_1001_20	508	8	61战毫发无伤的巴拉，拥有铁壁称号的海贼正式登场，可为啥他会流鼻血……	members/head_char_bala.png	battle/heijiaochushi.png	0	0	0	0	members/head_char_leiou.png	topmembers/tophead_char_leiou.png	person/poster_char_leiou.png	none	none	battleperson/poster_battle_leiou.png	fightNormalAttack.mp3	0
+509	5	鬼人登场	1	1	10	450	258	50000_60_1,11001_1001_20	509	8	阿金为了报答一饭之恩，击碎了铁壁，并向首领克里克提出要亲自结束这场战斗。	members/head_char_jin.png	battle/heijiaochushi.png	0	0	0	0	members/head_char_leiou.png	topmembers/tophead_char_leiou.png	person/poster_char_leiou.png	none	none	battleperson/poster_battle_leiou.png	fightNormalAttack.mp3	0
+510	5	海贼提督	2	1	5	510	371	41000_59_1,50000_20_1,11001_1001_20	510	8	阿金不忍下手，愤怒的克里克放出毒气。看着将面罩交给香吉士的阿金倒下，怒火在不断燃烧。	members/head_char_kelike.png	battle/heijiaochushi.png	0	0	0	0	members/head_char_leiou.png	topmembers/tophead_char_leiou.png	person/poster_char_leiou.png	none	none	battleperson/poster_battle_leiou.png	fightNormalAttack.mp3	0
+601	6	可可西亚村	0	1	999	390	156	0	601	8	来到阿龙统治的小镇，立刻就碰到一群鱼人的袭击，不由分说，先打倒他们吧。	members/head_char_yuren1.png	battle/elonglingyu.png	0	0	0	0	members/head_char_leiou.png	topmembers/tophead_char_leiou.png	person/poster_char_leiou.png	none	none	battleperson/poster_battle_leiou.png	fightNormalAttack.mp3	0
+602	6	恶龙喽啰	0	1	999	390	156	0	602	8	糟糕，索隆还被绑在船上，这下子恐怕直接被带到阿龙的老巢里了。真是一群恼人的小喽啰啊。	members/head_char_yuren1.png	battle/elonglingyu.png	0	0	0	0	members/head_char_leiou.png	topmembers/tophead_char_leiou.png	person/poster_char_leiou.png	none	none	battleperson/poster_battle_leiou.png	fightNormalAttack.mp3	0
+603	6	恶龙前哨	0	1	999	400	160	0	603	8	阿龙似乎对索隆不以为意，但听到仍有同伙逃走进入小镇，决定亲自处理这件事情……	members/head_char_yuren1.png	battle/elonglingyu.png	0	0	0	0	members/head_char_ziluolan.png	topmembers/tophead_char_ziluolan.png	person/poster_char_ziluolan.png	none	none	battleperson/poster_battle_ziluolan.png	sound/girl104.mp3	0
+604	6	逃脱	0	1	999	410	164	0	604	8	趁着阿龙前往小镇，索隆挣脱了绳索，成功反客为主，等待阿龙的归来。	members/head_char_yuren1.png	battle/elonglingyu.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+605	6	小八	1	1	10	490	280	50000_31_1,50000_61_1,11001_1001_20	605	9	嗯？这只章鱼竟然也是一名剑客，但似乎脑子不太灵光，把索隆当成了来拜访的客人……	members/head_char_xiaoba.png	battle/elonglingyu.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+606	6	重返领域	0	1	999	430	172	0	606	9	得知阿龙以全镇居民姓名为要挟，逼迫娜美为其绘制航海图的恶行后，一定要将娜美救出来。	members/head_char_yuren2.png	battle/elonglingyu.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+607	6	轰击大门	0	1	999	450	180	0	607	9	直接冲向恶龙领域，只是有一扇坚固的大门挡住了去路，轰破它吧！	members/head_char_yuren2.png	battle/elonglingyu.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+608	6	恶龙守卫	0	1	999	460	184	0	608	9	闻声而至的恶龙守卫们，纷纷拔刀相向，击败他们才能继续前行。	members/head_char_yuren2.png	battle/elonglingyu.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+609	6	恶龙战斗员	0	1	999	480	192	0	609	9	几名衣着光鲜的鱼人也加入了战斗，似乎比前面的小喽啰要强不少呢，只是还是不够看的！	members/head_char_yuren2.png	battle/elonglingyu.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+610	6	接吻鱼人	1	1	10	560	320	41000_69_1,50000_37_1,11001_1001_30	610	9	这家伙的嘴真奇怪，是接吻鱼人么？	members/head_char_jiu.png	battle/elonglingyu.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+611	6	软骨鱼人	1	1	10	560	320	50000_60_1,11001_1001_30	611	10	借助水域的优势，克罗欧比将香吉士逼入险境，快想办法解决他！	members/head_char_keluooubi.png	battle/elonglingyu.png	0	0	0	0	members/head_char_zefa.png	topmembers/tophead_char_zefa.png	person/poster_char_zefa.png	none	none	battleperson/poster_battle_zefa.png	sound/man07.mp3	0
+612	6	锯齿鲨鱼	2	1	5	650	473	50000_52_1,50000_59_1,11001_1001_30	612	10	终于见到了阿龙，看着哭泣的娜美，你大声喊出：不许弄哭我的航海士！战斗吧！	members/head_char_along.png	battle/elonglingyu.png	0	0	0	0	members/head_char_haijun2.png	topmembers/tophead_char_haijun2.png	person/poster_char_haijun2.png	none	none	battleperson/poster_battle_haijun2.png	fightNormalAttack.mp3	0
+701	7	罗格镇	0	1	999	490	196	0	701	10	这就是海贼王罗杰出生与被处死的城镇么？好好逛一下吧，但到哪都摆脱不了海贼挑衅的麻烦。	members/head_char_haidao3.png	battle/zhongyushi.png	0	0	0	0	members/head_char_haijun2.png	topmembers/tophead_char_haijun2.png	person/poster_char_haijun2.png	none	none	battleperson/poster_battle_haijun2.png	fightNormalAttack.mp3	0
+702	7	小镇骚乱	0	1	999	490	196	0	702	10	当年的处刑台前聚集了一堆的人，真是热闹，快去看看。	members/head_char_haidao3.png	battle/zhongyushi.png	0	0	0	0	members/head_char_haijun2.png	topmembers/tophead_char_haijun2.png	person/poster_char_haijun2.png	none	none	battleperson/poster_battle_haijun2.png	fightNormalAttack.mp3	0
+703	7	处刑台前	0	1	999	500	200	0	703	10	这就是海贼王看到的景色？站在高台上，望着下面涌动的人流，有一些熟悉的身影渐渐浮现。	members/head_char_haidao3.png	battle/zhongyushi.png	0	0	0	0	members/head_char_haijun2.png	topmembers/tophead_char_haijun2.png	person/poster_char_haijun2.png	none	none	battleperson/poster_battle_haijun2.png	fightNormalAttack.mp3	0
+704	7	冤家路窄	0	1	999	520	208	0	704	10	糟糕，被刑台铐住，无法动弹了，好像要被砍了呢……	members/head_char_haidao3.png	battle/zhongyushi.png	0	0	0	0	members/head_char_haijun2.png	topmembers/tophead_char_haijun2.png	person/poster_char_haijun2.png	none	none	battleperson/poster_battle_haijun2.png	fightNormalAttack.mp3	0
+705	7	行刑者	1	1	10	620	355	50000_32_1,50000_64_1,11001_1001_30	705	11	巴基迫不及待的跳上高台，想亲自进行处刑。闪电落下，击中了巴基，果然还是活下来了呀。	members/head_char_baji.png	battle/zhongyushi.png	0	0	0	0	members/head_char_haijun2.png	topmembers/tophead_char_haijun2.png	person/poster_char_haijun2.png	none	none	battleperson/poster_battle_haijun2.png	fightNormalAttack.mp3	0
+706	7	海军赶到	0	1	999	550	220	0	706	11	海军似乎赶来了，还是趁着大雨，快些逃走吧，可不能在进入伟大航路前就被抓住呢。	members/head_char_haijun2.png	battle/zhongyushi.png	0	0	0	0	members/head_char_haijun2.png	topmembers/tophead_char_haijun2.png	person/poster_char_haijun2.png	none	none	battleperson/poster_battle_haijun2.png	fightNormalAttack.mp3	0
+707	7	大混战	0	1	999	570	228	0	707	11	看来所有的海贼都成了被抓捕的对象，巴基他们也不例外，真是一场混乱的战斗。	members/head_char_haijun2.png	battle/zhongyushi.png	0	0	0	0	members/head_char_qingjiao.png	topmembers/tophead_char_qingjiao.png	person/poster_char_qingjiao.png	none	none	battleperson/poster_battle_qingjiao.png	sound/man07.mp3	0
+708	7	抓捕	0	1	999	600	240	0	708	11	喔唷，巴基他们竟然被抓住了，看来要加快速度了。	members/head_char_haijun2.png	battle/zhongyushi.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+709	7	冲向港湾	0	1	999	610	244	0	709	11	逃过下一个小巷，就可以看到海港了，快跑！	members/head_char_haijun2.png	battle/zhongyushi.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+710	7	女剑士	1	1	10	730	418	50000_37_1,11001_1001_30	710	12	这里有一个女剑士挡住了去路，她也是海军么？既然是剑士，那就交给索隆吧。	members/head_char_dasiqi.png	battle/zhongyushi.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+711	7	白色猎人	1	1	10	750	429	50000_65_1,41000_50_1,11001_1001_30	711	12	这是什么，好大的烟雾，是恶魔果实的能力么？必须赶快找到方向，不能继续纠缠下去了。	members/head_char_simoge.png	battle/zhongyushi.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+712	7	颠倒山	2	1	5	880	640	50000_21_1,50000_24_1,11001_1001_30	712	13	登上梅利号了，已经看到导引灯了，抛下木桶来个下水典礼，庆祝即将迈入伟大航路吧！	members/head_char_labu.png	battle/zhongyushi.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+801	8	抵达海岸	0	1	999	680	272	0	801	13	似乎听到了人的声音，摆脱迷雾，就能靠岸了。	members/head_char_jumin.png	battle/weishijishan.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+802	8	欢迎之城	0	1	999	700	280	0	802	13	海贼来到这里不但没有引起恐慌，还受到热烈欢迎，真是不可思议！	members/head_char_jumin.png	battle/weishijishan.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+803	8	疯狂酒宴	0	1	999	720	288	0	803	13	在镇长的盛情邀请下，一场庞大的欢迎宴会即将举行，只是这种热情有些过头了吧？	members/head_char_jumin.png	battle/weishijishan.png	0	0	0	0	members/head_char_qingjiao.png	topmembers/tophead_char_qingjiao.png	person/poster_char_qingjiao.png	none	none	battleperson/poster_battle_qingjiao.png	sound/man07.mp3	0
+804	8	月光与墓碑	0	1	999	730	292	0	804	13	狂欢过后，醉倒的众人静静躺在皎洁的月光之下，潜藏的恶魔露出獠牙，今夜这里将变成墓地。	members/head_char_jumin.png	battle/weishijishan.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+805	8	星期三	1	1	10	870	498	50000_35_1,50000_64_1,11001_1001_30	805	14	果然这是一个陷阱，赏金猎人组成的庞大组织，想将来到伟大航路的海贼们一网打尽。	members/head_char_wednesday.png	battle/weishijishan.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+806	8	大闹一场	0	1	999	760	304	0	806	14	既然明白了阴谋，就无需留守，在伟大航路的第一站，闹个天翻地覆吧。	members/head_char_shangjinlieren1.png	battle/weishijishan.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+807	8	索隆的表演	0	1	999	780	312	0	807	14	这似乎成了索隆的表演专场，这些三流的赏金猎人，一一倒下。	members/head_char_shangjinlieren1.png	battle/weishijishan.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+808	8	以一敌百	0	1	999	790	316	0	808	14	1V100，完全无法进行有效的反击，完胜！	members/head_char_shangjinlieren1.png	battle/weishijishan.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+809	8	无眠之夜	0	1	999	800	320	0	809	14	注定无法入眠的一夜，即便是巴洛克工作社的成员，也无法忘记今天的梦魇。	members/head_char_shangjinlieren1.png	battle/weishijishan.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+810	8	秘密组织	1	1	10	950	543	41000_50_1,50000_35_1,11001_1001_30	810	14	想不到这个镇的镇长也是巴洛克工作社的成员，亲自导演了今晚的闹剧。	members/head_char_mr8.png	battle/weishijishan.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+811	8	身份泄露	0	1	999	810	324	0	811	14	新敌人切入战局，带来一个消息——Miss.Wednesday竟是阿拉巴斯坦王国公主！	members/head_char_jumin.png	battle/weishijishan.png	0	0	0	0	members/head_char_qiaola.png	topmembers/tophead_char_qiaola.png	person/poster_char_qiaola.png	none	none	battleperson/poster_battle_qiaola.png	sound/girl06.mp3	0
+812	8	一万公斤	1	1	10	950	543	50000_60_1,41000_63_1,11001_1001_30	812	15	原来薇薇公主潜入工作社，是想了解敌人内部的秘密，解救王国。但是现在，秘密暴露了……	members/head_char_valentine.png	battle/weishijishan.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+813	8	爆爆果实	2	1	5	1100	800	41000_40_1,11001_1001_30	813	15	受到公主忠心侍卫的嘱托，决定护送公主回国，把阻挡在眼前的敌人统统击败，履行承诺吧。	members/head_char_mr5.png	battle/weishijishan.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+901	9	古老岛屿	0	1	999	820	328	0	901	15	这座被称为小花园的小岛，是连巴洛克工作社成员都未曾探知的岛屿，不知道里面有什么危险。	members/head_char_konglong1.png	battle/xiaohuayuan.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+902	9	原始丛林	0	1	999	820	328	0	902	15	想不到这个岛屿上，充斥的竟然是十分古老的植物，难道这是一座远古时期遗存下来的岛屿么？	members/head_char_konglong1.png	battle/xiaohuayuan.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+903	9	竞赛	0	1	999	830	332	0	903	15	香吉士需要准备晚餐了，去弄些猎物回来吧，比一下看谁在日落前，能弄到更多的肉！	members/head_char_konglong1.png	battle/xiaohuayuan.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+904	9	狩猎开始	0	1	999	840	336	0	904	15	狩猎正式开始了，四处逛逛，看看有什么猎物。	members/head_char_konglong1.png	battle/xiaohuayuan.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+905	9	远古恐龙	0	1	999	890	356	0	905	15	好多恐龙！这真是一个神奇的岛屿，一展身手吧。	members/head_char_konglong2.png	battle/xiaohuayuan.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+906	9	爆炸的酒	1	1	10	1090	623	50000_33_1,50000_64_1,11001_1001_30	906	17	将随身携带的美酒赠予巨人，不料从他的肚子里传出一阵爆炸声，这下可有解释不清的误会了。	members/head_char_dongli.png	battle/xiaohuayuan.png	0	0	0	0	members/head_char_duofolangmingge.png	topmembers/tophead_char_duofolangmingge.png	person/poster_char_duofolangmingge.png	none	none	battleperson/poster_battle_duofolangmingge.png	sound/man05.mp3	0
+907	9	约战	0	1	999	990	396	0	907	17	与愤怒的巨人经过短暂交锋，忽然传来一阵奇怪的吼叫声，原来是岛上另一个巨人的约战信号！	members/head_char_konglong2.png	battle/xiaohuayuan.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+908	9	隐藏的敌人	0	1	999	1030	412	0	908	17	巨人不顾伤势，毅然决然的奔向约战地点，到底是谁，在暗中卑鄙的炸伤了巨人大叔？！	members/head_char_konglong2.png	battle/xiaohuayuan.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+909	9	汇合	0	1	999	1090	436	0	909	17	抓紧时间与另外的船员汇合，才知道一场大战即将开始，必须尽快去阻止他们。	members/head_char_konglong2.png	battle/xiaohuayuan.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+910	9	娜美失踪	0	1	999	1150	460	0	910	17	突然发现娜美不见了，她是迷路了，还是发生了其它事情？在附近搜寻一下吧，当心那些猛兽！	members/head_char_konglong2.png	battle/xiaohuayuan.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+911	9	晚了一步	0	1	999	1190	476	0	911	17	快赶去将巨人东利受伤的事情告诉布洛基。但最终还是晚了一步，东利已经倒在了地上。	members/head_char_konglong2.png	battle/xiaohuayuan.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+912	9	敌人现身	1	1	10	1450	829	41000_63_1,50000_37_1,11001_1001_30	912	18	当布洛基以复杂的心态迎接胜利时，导致东利受伤的幕后黑手现身，又是巴洛克工作社成员！	members/head_char_mr5.png	battle/xiaohuayuan.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+913	9	真相大白	0	1	999	1250	500	0	913	18	在东利喝的美酒中加入炸药，又使用蜡烛让东利脚下打滑战败，使得知真相的布洛基悲愤莫名。	members/head_char_mr5.png	battle/xiaohuayuan.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+914	9	蜡烛盛宴	2	1	5	1660	1208	41000_38_1,11001_1001_40	914	19	该死的蜡烛人弄出巨大的蜡烛盛宴，在场的所有人即将变成蜡像，快去打掉南瓜头蜡烛！	members/head_char_mr3.png	battle/xiaohuayuan.png	0	0	0	0	members/head_char_duofolangmingge.png	topmembers/tophead_char_duofolangmingge.png	person/poster_char_duofolangmingge.png	none	none	battleperson/poster_battle_duofolangmingge.png	sound/man05.mp3	0
+1001	10	冰雪岛屿	0	1	999	1260	504	0	1001	19	前面有一座岛屿，完完全全被冰雪覆盖，应该就是伟大航路独有的四类岛屿中的冬之岛了。	members/head_char_jumin1.png	battle/dongzhidao.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+1002	10	无名之国	0	1	999	1260	504	0	1002	19	还未靠岸，就遭到了岛上居民的喝止，似乎他们对于海贼抱有极大的敌意。	members/head_char_jumin1.png	battle/dongzhidao.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+1003	10	开枪了	0	1	999	1260	504	0	1003	19	当薇薇公主试图以和平方式登陆海岛时，岛上的居民居然开枪了！这群混蛋……	members/head_char_jumin1.png	battle/dongzhidao.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+1004	10	登上岛屿	0	1	999	1260	504	0	1004	19	单纯靠武力是无法解决所有问题的，惹恼了村民，娜美的病就无人医治了。	members/head_char_jumin1.png	battle/dongzhidao.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+1005	10	魔女传说	0	1	999	1280	512	0	1005	19	进入村子之后，得知这里唯一的医生，是一名性情古怪的医娘，要想治病只能去请她了。	members/head_char_jumin1.png	battle/dongzhidao.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+1006	10	磁鼓山	1	1	10	1530	875	50000_64_1,41000_70_1,11001_1001_40	1006	20	向磁鼓山进发，听说山上有很多奇异的生物，比如说……眼前的这只庞大的兔子。	members/head_char_tuzi.png	battle/dongzhidao.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+1007	10	攀登雪山	0	1	999	1350	540	0	1007	20	真是一座高大的山峰，一路走去，总感觉有什么东西在偷偷窥视着你们。	members/head_char_tuzi.png	battle/dongzhidao.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+1008	10	白色身影	0	1	999	1370	548	0	1008	20	在留心观察了许久之后，发现在白茫茫的雪原上，有一些白色的身影不断起伏，那是什么？	members/head_char_tuzi.png	battle/dongzhidao.png	0	0	0	0	members/head_char_xialuotelingling.png	topmembers/tophead_char_xialuotelingling.png	person/poster_char_xialuotelingling.png	none	none	battleperson/poster_battle_xialuotelingling.png	sound/girl02.mp3	0
+1009	10	肉食兔	0	1	999	1400	560	0	1009	20	我的天，竟然是一群肉食兔，虽然一只兔子的攻击力并不算什么，但是这么一大群……	members/head_char_tuzi.png	battle/dongzhidao.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+1010	10	逃向山顶	0	1	999	1440	576	0	1010	20	经过短暂纠缠，越来越多的肉食兔正在聚集，时间紧迫，还是尽快打开一个缺口，冲到山顶。	members/head_char_tuzi.png	battle/dongzhidao.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+1011	10	打开大门	0	1	999	1940	776	0	1011	20	来到山顶之后，城堡的大门紧闭，跑过去敲开大门吧。	members/head_char_tuzi.png	battle/dongzhidao.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+1012	10	奇怪生物	1	1	10	3040	1738	50000_30_1,50000_63_1,11001_1001_40	1012	21	终于来到山顶，碰到一个似人似鹿奇怪的生物。他是吃了人人果实的驯鹿，跟随医娘学习医术。	members/head_char_qiaoba.png	battle/dongzhidao.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+1013	10	他回来了	0	1	999	2610	1044	0	1013	21	体力逐渐回复，娜美病情也变得稳定，但是乔巴突然紧张起来，似乎是有仇敌回来了。	members/head_char_haidao6.png	battle/dongzhidao.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+1014	10	神射手	1	1	10	3070	1755	41000_70_1,50000_35_1,11001_1001_40	1014	22	原来是谋害了乔巴唯一的朋友兼养父的仇敌，原磁鼓国国王重新回到了这里。	members/head_char_jiesi.png	battle/dongzhidao.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+1015	10	磁鼓国王	2	1	5	3520	2560	50000_56_1,50000_53_1,11001_1001_40	1015	22	这个吃生铁的家伙，不就是在船上被打飞的人么？看来有必要再一次把他打飞！	members/head_char_waboer.png	battle/dongzhidao.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+1101	11	炎热沙漠	0	1	999	2660	1064	0	1101	22	来到沙漠王国后，炎热天气让大家难以忍受，偏偏这时又被海军认了出来，打败他们离开这里。	members/head_char_haijun2.png	battle/shamowangguo.png	0	0	0	0	members/head_char_duofolangmingge.png	topmembers/tophead_char_duofolangmingge.png	person/poster_char_duofolangmingge.png	none	none	battleperson/poster_battle_duofolangmingge.png	sound/man05.mp3	0
+1102	11	行李丢失	0	1	999	2670	1068	0	1102	22	采购完食物，薇薇公主决定穿越沙漠，说服叛军。沙漠中存在着各种危险的野兽，务必小心。	members/head_char_xiyi.png	battle/shamowangguo.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+1103	11	沙暴来袭	0	1	999	2690	1076	0	1103	22	因为沙漠蜥蜴的骚扰，而丢失了行李，使得前进变得更加困难。偏偏此时又遇到了巨大的沙暴。	members/head_char_xiyi.png	battle/shamowangguo.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+1104	11	埋葬绿洲	0	1	999	2700	1080	0	1104	22	来到尤巴，原先的绿洲已经被一片荒漠掩埋，叛军也迁移到别处，只有继续前行了。	members/head_char_xiyi.png	battle/shamowangguo.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+1105	11	敌人来袭	0	1	999	2750	1100	0	1105	22	为了能尽快解救这个王国，必须分头行动，你将带领伙伴们直接向雨城进发，击败克罗克达尔。	members/head_char_jumin.png	battle/shamowangguo.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+1106	11	夺取钥匙	1	1	10	3280	1875	50000_65_1,11001_1001_40	1106	23	来到克罗克达尔的赌场，却落入了陷阱，被囚禁牢笼，钥匙被大砂鳄吞掉了，击败它拿回钥匙。	members/head_char_dashae.png	battle/shamowangguo.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+1107	11	挣脱囚笼	0	1	999	2870	1148	0	1107	23	从牢笼中逃脱，被克罗克达尔的部下不断追击，尽快摆脱他们。	members/head_char_jumin.png	battle/shamowangguo.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+1108	11	路遇阻拦	0	1	999	2930	1172	0	1108	23	又一群百万长者挡在路前，没有路可以走了，只有打飞他们才行。	members/head_char_jumin.png	battle/shamowangguo.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+1109	11	亿万长者	0	1	999	2990	1196	0	1109	23	几名戴墨镜的家伙从侧面围了上来，看样子是更高级的打手，不过这些无法阻拦你前进的步伐。	members/head_char_yiwanzhangzhe.png	battle/shamowangguo.png	0	0	0	0	members/head_char_diyamandi.png	topmembers/tophead_char_diyamandi.png	person/poster_char_diyamandi.png	none	none	battleperson/poster_battle_diyamandi.png	sound/man04.mp3	0
+1110	11	冲向首都	0	1	999	3060	1224	0	1110	23	终于冲出赌场来了，要赶在克罗克达尔之前赶往首都，阻止叛军与国王军的冲突才行。	members/head_char_jumin.png	battle/shamowangguo.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+1111	11	分头行动	0	1	999	3200	1280	0	1111	23	面临重重阻拦，一行人只有再次分开，各自奔赴一个方向，肯定有一人会及时赶到，阻止战争。	members/head_char_jumin.png	battle/shamowangguo.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+1112	11	鼹鼠与棒球	1	1	10	3920	2240	50000_37_1,50000_63_1,11001_1001_40	1112	24	这个一直在地下穿行的家伙是什么，鼹鼠么？还有那个拿棒球的家伙，真是一对奇怪的组合。	members/head_char_mr4.png	battle/shamowangguo.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+1113	11	人妖登场	1	1	10	3980	2275	41000_50_1,50000_36_1,11001_1001_40	1113	24	这不是在船上遇到，可以模仿别人模样的有趣家伙么，想不到竟然会成为敌人！	members/head_char_mr2.png	battle/shamowangguo.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+1114	11	荆棘刀刃	1	1	10	4050	2315	50000_64_1,11001_1001_40	1114	25	这里还有一个恶魔果实能力者，竟然可以让身体的各个部分都变成尖刺，真不好对付。	members/head_char_mr1.png	battle/shamowangguo.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+1115	11	超越	2	1	5	4710	3426	50000_25_1,50000_20_1,11001_1001_40	1115	25	薇薇赌上了自己的性命去拯救国家，作为同伴，一定要击倒眼前的罪魁祸首——克罗克达尔。	members/head_char_keluokedaer.png	battle/shamowangguo.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+1201	12	天国之门	0	1	999	3590	1436	0	1201	25	顺着冲上天空的水注，来到云层之上，雄伟的大门正在打开，原来真的存在空岛！	members/head_char_shengwu1.png	battle/kongdao.png	0	0	0	0	members/head_char_haidao4.png	topmembers/tophead_char_haidao4.png	person/poster_char_haidao4.png	none	none	battleperson/poster_battle_haidao4.png	fightNormalAttack.mp3	0
+1202	12	空中海洋	0	1	999	3640	1456	0	1202	25	不可思议，云彩竟然像海水一样，真是个奇妙的世界，不知道前面会碰到什么更有意思的事情。	members/head_char_shengwu1.png	battle/kongdao.png	0	0	0	0
+1203	12	空岛特产	0	1	999	3700	1480	0	1203	25	哇！云海里竟然还有生物，好大的乌贼，可是乌贼不是生活在水里么……	members/head_char_shengwu2.png	battle/kongdao.png	0	0	0	0
+1204	12	奇异鱼类	0	1	999	3780	1512	0	1204	25	呃……还有鱼，连鳞片都长得像羽毛，这就是罗兰度日记上提到的奇妙的空岛鱼吧。	members/head_char_shengwu2.png	battle/kongdao.png	0	0	0	0
+1205	12	空之骑士	1	1	10	4490	2566	50000_33_1,50000_62_1,11001_1001_40	1205	26	有个像牛的家伙踩着四角云冲过来了，他竟然在云上奔驰，嚷嚷着要除掉你们，是想打架么？	members/head_char_ganfuer.png	battle/kongdao.png	0	0	0	0
+1206	12	彩虹迷雾	0	1	999	3930	1572	0	1206	26	想不到空岛上会有“神”的存在，而他派出了一群神兵，以非法入境的罪名，前来抓人。	members/head_char_shenbing1.png	battle/kongdao.png	0	0	0	0
+1207	12	神之制裁	0	1	999	4000	1600	0	1207	26	被打败的神兵们，再次袭来，并叫嚷着会有神罚降临，真是一群恼人的家伙。	members/head_char_shenbing1.png	battle/kongdao.png	0	0	0	0
+1208	12	活祭品	0	1	999	4080	1632	0	1208	26	不甘失败的神兵们，趁机将独自在外的娜美掳走，声称要当做祭品，献给神。	members/head_char_shenbing1.png	battle/kongdao.png	0	0	0	0
+1209	12	目标神岛	0	1	999	4370	1748	0	1209	26	柯妮丝也被天神的惩罚轰击，一定要将她和娜美救出来，向神岛进发吧。	members/head_char_shenbing1.png	battle/kongdao.png	0	0	0	0
+1210	12	球之试炼	1	1	10	5460	3120	41000_58_1,50000_35_1,11001_1001_40	1210	27	进入神岛森林后，将面临四大试炼，选择了球之试炼后，迎来了一个肥胖的神官。	members/head_char_shadeli.png	battle/kongdao.png	0	0	0	0
+1211	12	遭遇战	0	1	999	5020	2008	0	1211	27	击败了球之试炼的神官，继续前进，碰到神兵长带着一群神兵前来拦截。	members/head_char_shenbingduizhang.png	battle/kongdao.png	0	0	0	0
+1212	12	沼之试练	1	1	10	6270	3583	50000_59_1,41000_52_1,11001_1001_40	1212	27	接下来碰到沼之试炼的神官，整个区域都变成了沼泽，时间已经不多，必须尽快打倒他。	members/head_char_gaidazi.png	battle/kongdao.png	0	0	0	0
+1213	12	绳之试炼	1	1	10	6720	3840	50000_23_1,50000_63_1,11001_1001_40	1213	27	留守的乔巴遭遇到神官之一修罗的袭击，立刻赶去营救他，敌人居然是掌管绳之试炼的神官。	members/head_char_xiula.png	battle/kongdao.png	0	0	0	0
+1214	12	铁之试炼	1	1	10	6760	3863	41000_58_1,50000_30_1,11001_1001_40	1214	27	击败了修拉，又遇到持有能够喷出铁云的‘云贝’，变化多端刀具的铁之试炼神官。	members/head_char_omu.png	battle/kongdao.png	0	0	0	0
+1215	12	遗迹对决	2	1	5	7740	5630	41000_44_1,41000_43_1,11001_1001_40	1215	28	终于来到神岛祭坛，见到了“神”，原来他也是一名恶魔果实能力者——响雷果实的拥有者。	members/head_char_ainilu.png	battle/kongdao.png	0	0	0	0
+1301	13	发现岛屿	0	1	999	5840	2336	0	1301	28	整个岛屿像一个戒指，形成一个细长的圆环，其中一部分似乎还淹没在海洋中。	members/head_char_yeshou.png	battle/changhuanchangdao.png	0	0	0	0
+1302	13	加长生物	0	1	999	5860	2344	0	1302	28	好厉害，岛上所有的生物都是又细又长。这是腊肠狗么？	members/head_char_yeshou.png	battle/changhuanchangdao.png	0	0	0	0
+1303	13	竹子？！	0	1	999	5880	2352	0	1303	28	好长的竹子，都已经生长到云端了，而且竟然会自己逃跑！怎么可以输给一根竹子！	members/head_char_yeshou.png	battle/changhuanchangdao.png	0	0	0	0
+1304	13	踩高跷的人	0	1	999	5910	2364	0	1304	28	竹子断了之后，竟然出现一个白胡子老头，是竹子精灵么？	members/head_char_yeshou.png	battle/changhuanchangdao.png	0	0	0	0
+1305	13	银狐海贼团	0	1	999	5940	2376	0	1305	28	与此同时，梅利号被另外一艘大船给包围起来，船上跳下来的海贼们，发起了抢人大作战挑战。	members/head_char_haidao4.png	battle/changhuanchangdao.png	0	0	0	0
+1306	13	环形船赛	1	1	10	6960	3978	50000_59_1,41000_59_1,11001_1001_40	1306	29	第一场比赛是环形船赛，首先划船绕岛一周到达终点的人，即获得胜利，上吧！	members/head_char_kabodi.png	battle/changhuanchangdao.png	0	0	0	0
+1307	13	珊瑚礁迷宫	0	1	999	5990	2396	0	1307	29	这群可恶的家伙，竟然一开始就使用暴力，打了个措手不及，快追上去。	members/head_char_haidao4.png	battle/changhuanchangdao.png	0	0	0	0
+1308	13	长峡角	0	1	999	6020	2408	0	1308	29	绕过长峡角，就完成一半的航行了，继续加油。	members/head_char_haidao4.png	battle/changhuanchangdao.png	0	0	0	0
+1309	13	假路标	0	1	999	6040	2416	0	1309	29	前面出现了一个右转的指向标，是不是真的需要向右边转呢？	members/head_char_haidao4.png	battle/changhuanchangdao.png	0	0	0	0
+1310	13	长竹林峡角	0	1	999	6070	2428	0	1310	29	看到长竹林峡角了，通过那里就能看到终点了。	members/head_char_haidao4.png	battle/changhuanchangdao.png	0	0	0	0
+1311	13	胜利在望	0	1	999	6170	2468	0	1311	29	即将到达终点，胜利在望，但大家突然慢了下来，发生了什么事情？	members/head_char_haidao4.png	battle/changhuanchangdao.png	0	0	0	0
+1312	13	第一场败北	1	1	10	7310	4178	50000_22_1,50000_63_1,11001_1001_40	1312	30	太卑鄙了，竟然利用缓慢射线将大家的速度变慢，真不甘心。	members/head_char_mengda.png	battle/changhuanchangdao.png	0	0	0	0
+1313	13	火爆斗球	1	1	10	7430	4246	41000_52_1,50000_34_1,11001_1001_40	1313	30	为了营救回输掉的伙伴，第二场火爆斗球，必须要胜利！	members/head_char_hanbao.png	battle/changhuanchangdao.png	0	0	0	0
+1314	13	暴力比赛	1	1	10	7550	4315	50000_51_1,41000_69_1,11001_1001_40	1314	30	果然又是充满暴力的比赛，绝不是单纯的竞技，所以放开手脚大打一场吧。	members/head_char_bigepan.png	battle/changhuanchangdao.png	0	0	0	0
+1315	13	反败为胜	1	1	10	7770	4440	50000_28_1,50000_52_1,11001_1001_40	1315	30	对方的船员配合十分默契，各种阴谋诡计层出不穷……	members/head_char_pikelusi.png	battle/changhuanchangdao.png	0	0	0	0
+1316	13	船长对决	2	1	5	9140	6648	41000_31_1,41000_43_1,11001_1001_40	1316	31	经过千辛万苦，终于取得第二场比赛的胜利，最后一场大决战即将开始。	members/head_char_fukesi.png	battle/changhuanchangdao.png	0	0	0	0
+1401	14	前往水都	0	1	999	7050	2820	0	1401	31	海上竟然会出现火车，太不可思议了。刚要赶过去看看这趟神奇的列车，却碰到了巨大的海怪。	members/head_char_henggang.png	battle/shuizhiqidu.png	0	0	0	0
+1402	14	三亿贝里	0	1	999	7260	2904	0	1402	31	携带着三亿贝里，来到水之都准备维修梅利号。可装满贝里的皮箱却被一群小偷盯上了……	members/head_char_shangjinlieren2.png	battle/shuizhiqidu.png	0	0	0	0
+1403	14	弗兰奇一家	0	1	999	7470	2988	0	1403	31	经过询问才知道，这货小偷是当地赫赫有名的弗兰奇一家的成员，经常做些偷鸡摸狗的事情。	members/head_char_shangjinlieren2.png	battle/shuizhiqidu.png	0	0	0	0
+1404	14	消失的皮箱	0	1	999	7500	3000	0	1404	31	沉浸在讨论如何修复梅利号的问题之中，突然发现有两箱子贝里不见了……	members/head_char_shangjinlieren2.png	battle/shuizhiqidu.png	0	0	0	0
+1405	14	被绑架了	0	1	999	7550	3020	0	1405	31	原来乌索普被弗兰奇一家绑架了，他奋力抵抗，仍然没有夺回被抢走的贝里，还被打成了重伤。	members/head_char_shangjinlieren2.png	battle/shuizhiqidu.png	0	0	0	0
+1406	14	改造人	1	1	10	8850	5058	41000_66_1,50000_26_1,11001_1001_40	1406	32	终于抢回了贝里，这群家伙的老大弗兰奇回来后，勃然大怒，亲自前来挑战了。	members/head_char_shangjinlieren2.png	battle/shuizhiqidu.png	0	0	0	0
+1407	14	栽赃嫁祸	0	1	999	7620	3048	0	1407	32	好不容易解决了与弗兰奇的纠纷，却遭到市政部门发出的通缉令，怎么会变成袭击市长的嫌犯？	members/head_char_gongren.png	battle/shuizhiqidu.png	0	0	0	0
+1408	14	询问真相	0	1	999	7660	3064	0	1408	32	为了调查清楚事情的真相，洗脱自己的嫌疑，半夜悄悄闯入市长居所，当面问个清楚吧。	members/head_char_bali.png	battle/shuizhiqidu.png	0	0	0	0
+1409	14	背叛？！	0	1	999	7700	3080	0	1409	32	好大的房子，不知不觉已经迷路了，还引来了一堆船工的追击，快跑！	members/head_char_gongren.png	battle/shuizhiqidu.png	0	0	0	0
+1410	14	暗杀之夜	0	1	999	7720	3088	0	1410	32	在与船工纠缠的时候，突然传来巨大的响动，顺着声音前行吧，看看发生了什么事情。	members/head_char_gongren.png	battle/shuizhiqidu.png	0	0	0	0
+1411	14	神秘组织	0	1	999	7730	3092	0	1411	32	赶到市长所在的卧室，发现了一伙披着斗篷的神秘黑衣人，或许他们就是幕后元凶，拦住他们。	members/head_char_gongren.png	battle/shuizhiqidu.png	0	0	0	0
+1412	14	真面目	1	1	10	9030	5160	50000_59_1,11001_1001_40	1412	33	市长身边一直非常信任的伙伴，竟是海军政府秘密组织CP9的成员，他们导演了这次刺杀。	members/head_char_bulunuo.png	battle/shuizhiqidu.png	0	0	0	0
+1413	14	上古兵器	1	1	10	9060	5178	50000_28_1,50000_56_1,11001_1001_40	1413	33	为了拿到冥王设计图，他们花费几年时间潜藏在水之都，获得市长信任，终于在今天露出獠牙。	members/head_char_kalifa.png	battle/shuizhiqidu.png	0	0	0	0
+1414	14	设计图	1	1	10	9160	5235	41000_50_1,50000_23_1,11001_1001_40	1414	33	发现设计图是假的，推断出真正的设计图在弗兰奇那里。CP9们开始奔赴弗兰奇所在的地点。	members/head_char_kaku.png	battle/shuizhiqidu.png	0	0	0	0
+1415	14	猫猫果实	1	1	10	9270	5298	50000_52_1,41000_63_1,11001_1001_40	1415	33	得知弗兰奇是托姆的弟子，掌握着冥王设计图纸，CP9们决定将他一起带回大本营慢慢审问。	members/head_char_bulunuo.png	battle/shuizhiqidu.png	0	0	0	0
+1416	14	劫持	2	1	5	10720	7797	50000_12_1,50000_59_1,11001_1001_40	1416	34	尽管知道了对方的阴谋，也明白了罗宾的苦衷，最终还是晚了一步。	members/head_char_luqi.png	battle/shuizhiqidu.png	0	0	0	0
+1501	15	孤身追踪	0	1	999	8130	3252	0	1501	34	在船上的香吉士，挂念着罗宾的安危，开始一个人展开了营救行动。	members/head_char_heiyi1.png	battle/moguisanjiao.png	0	0	0	0
+1502	15	通讯室	0	1	999	8230	3292	0	1502	34	到达通讯室，意外发现了被绑在此处的弗兰奇和乌索普，先救他们出来吧。	members/head_char_jieli.png	battle/moguisanjiao.png	0	0	0	0
+1503	15	营救计划	0	1	999	8320	3328	0	1503	34	三人经过商议，决定先去营救罗宾，然后再想办法离开这里……	members/head_char_heiyi1.png	battle/moguisanjiao.png	0	0	0	0
+1504	15	开始行动	0	1	999	8410	3364	0	1504	34	计划已定，大家开始分头行动，先去把敌人引过来，按照计划将他们……	members/head_char_heiyi1.png	battle/moguisanjiao.png	0	0	0	0
+1505	15	诱敌深入	0	1	999	8510	3404	0	1505	34	越来越多的敌人发现了入侵者，开始朝着最后一节车厢奔来，将他们一网打尽吧。	members/head_char_heiyi1.png	battle/moguisanjiao.png	0	0	0	0
+1506	15	车厢脱节	1	1	10	10030	5732	50000_29_1,50000_53_1,11001_1001_40	1506	35	当所有的人赶到最后一节车厢时，抵挡住他们的首领本恩上校，就可以顺利执行计划了！	members/head_char_benen.png	battle/moguisanjiao.png	0	0	0	0
+1507	15	敌人增援	0	1	999	8700	3480	0	1507	35	将最后一节车厢的海军们封闭在那里，并且断开与前几节车厢的连接后，可以跟他们说再见啦！	members/head_char_heiyi2.png	battle/moguisanjiao.png	0	0	0	0
+1508	15	车厢混战1	0	1	999	8790	3516	0	1508	35	仍然还有许多海军在其他的车厢，可不能放松，继续前进吧。	members/head_char_heiyi2.png	battle/moguisanjiao.png	0	0	0	0
+1509	15	车厢混战2	0	1	999	8890	3556	0	1509	35	果然不出所料，更多的海军开始拥过来，战局越乱越好，这样才能吸引敌人的注意力。	members/head_char_heiyi2.png	battle/moguisanjiao.png	0	0	0	0
+1510	15	车厢混战3	0	1	999	8990	3596	0	1510	35	似乎看到下一节车厢了，摆平这些家伙，就可以通过了。	members/head_char_heiyi2.png	battle/moguisanjiao.png	0	0	0	0
+1511	15	第五节车厢	0	1	999	9090	3636	0	1511	35	来到第五节车厢，怎么看起来像是厨房？还有个推餐车的奇怪家伙。	members/head_char_heiyi2.png	battle/moguisanjiao.png	0	0	0	0
+1512	15	料理格斗家	1	1	10	10710	6120	41000_70_1,50000_28_1,11001_1001_40	1512	35	要面条么？真是恶心的制作方法，赶紧将这个讨厌的家伙打飞吧。	members/head_char_wajie.png	battle/moguisanjiao.png	0	0	0	0
+1513	15	海鼬尼罗	1	1	10	10920	6240	41000_68_1,11001_1001_40	1513	35	又来了一个家伙，貌似是名新人，并不怎么厉害的样子。	members/head_char_nailuo.png	battle/moguisanjiao.png	0	0	0	0
+1514	15	割裂车厢	1	1	10	11130	6360	41000_67_1,50000_54_1,11001_1001_40	1514	35	终于来到CP9主要成员所在的车厢，趁着他们不注意，绕到后面把车厢切断吧。	members/head_char_kaku.png	battle/moguisanjiao.png	0	0	0	0
+1515	15	被拉回来了	1	1	10	11360	6492	41000_68_1,50000_18_1,11001_1001_40	1515	35	糟糕，割裂的车厢竟然被荆棘鞭拉回来了，只有与他们正面冲突了。	members/head_char_kalifa.png	battle/moguisanjiao.png	0	0	0	0
+1516	15	空气门	2	1	5	13230	9622	50000_47_1,50000_27_1,11001_1001_40	1516	36	这家伙什么时候绕到背后的，一点感觉都没有，太危险了。不过罗宾就在眼前，一定要救她走！	members/head_char_bulunuo.png	battle/moguisanjiao.png	0	0	0	0
+1601	16	不夜岛	0	1	999	10120	4048	0	1601	36	眼前就是司法岛了，这座被称作不夜之地的海岛，是海军秘密部队的大本营。	members/head_char_haijun3.png	battle/sifadao.png	0	0	0	0
+1602	16	主岛正门	0	1	999	10150	4060	0	1602	36	望着矗立在海岛前的大门，这就是通往中央广场的唯一途径，准备好战斗了么？	members/head_char_haijun3.png	battle/sifadao.png	0	0	0	0
+1603	16	跨越栅栏	0	1	999	10170	4068	0	1603	36	好大的铁栅栏，打开一道缺口，冲进去吧。	members/head_char_haijun3.png	battle/sifadao.png	0	0	0	0
+1604	16	主岛前门	0	1	999	10210	4084	0	1604	36	来到司法岛的前门，一群卫兵把守在次，击败他们。	members/head_char_haijun3.png	battle/sifadao.png	0	0	0	0
+1605	16	独自突围	0	1	999	10240	4096	0	1605	36	前来的帮忙的伙伴们被阻挡在了门外，但时间紧迫，独自越过栅栏，先进去为他人开路吧。	members/head_char_haijun3.png	battle/sifadao.png	0	0	0	0
+1606	16	巨人门卫	1	1	10	11970	6840	41000_68_1,11001_1001_40	1606	37	来到门前，有两个巨人挡住了去路。不要纠缠，越过他们继续前进吧。	members/head_char_kaxi.png	battle/sifadao.png	0	0	0	0
+1607	16	进入主岛	0	1	999	10290	4116	0	1607	37	打败守卫进入了主岛，又迎来一大批CP9成员的围追堵截。	members/head_char_zhudaoshouwei.png	battle/sifadao.png	0	0	0	0
+1608	16	勇往直前	0	1	999	10330	4132	0	1608	37	这些家伙还真是难缠，有种打不完的感觉。	members/head_char_langgoubudui.png	battle/sifadao.png	0	0	0	0
+1609	16	冲破大门	0	1	999	10350	4140	0	1609	37	终于冲破重重险阻，成功打开了大门，后面的伙伴可以更快的冲进来了。	members/head_char_zhudaoshouwei.png	battle/sifadao.png	0	0	0	0
+1610	16	倒戈相向	0	1	999	10600	4240	0	1610	37	跟上来的伙伴们似乎认识守门的巨人，策反他们，一起帮助进攻司法岛。	members/head_char_langgoubudui.png	battle/sifadao.png	0	0	0	0
+1611	16	主岛法院	0	1	999	10850	4340	0	1611	37	进入主岛法院，好大的院子啊，可是之后要怎么走呢？	members/head_char_langgoubudui.png	battle/sifadao.png	0	0	0	0
+1612	16	大法官	1	1	10	12780	7303	41000_52_1,50000_52_1,11001_1001_40	1612	37	混乱引来了司法岛的大法官。好厉害，竟然长了三个脑袋！	members/head_char_basikabier.png	battle/sifadao.png	0	0	0	0
+1613	16	一分为三	1	1	10	12910	7378	41000_69_1,50000_22_1,11001_1001_40	1613	37	原来只是三个人穿着一个大袍子，装作三个头的骗子……	members/head_char_basikabier.png	battle/sifadao.png	0	0	0	0
+1614	16	法院楼顶	1	1	10	13040	7452	50000_21_1,41000_70_1,11001_1001_40	1614	38	爬上了法院的楼顶，似乎看到司法塔了，罗宾就在那里吧。	members/head_char_bulunuo.png	battle/sifadao.png	0	0	0	0
+1615	16	奥哈拉梦魇	1	1	10	13160	7520	41000_58_1,11001_1001_40	1615	38	站在司法塔上的罗宾，慢慢道出了20年前政府对奥哈拉发动屠魔令的事情……	members/head_char_zhongjiang.png	battle/sifadao.png	0	0	0	0
+1616	16	向世界宣战	2	1	5	15180	11040	41000_38_1,11001_1001_40	1616	39	终于了解到罗宾背负的东西，那就打掉政府旗帜，驱除纠缠着她的梦魇，向整个世界宣战吧！	members/head_char_qizhi.png	battle/sifadao.png	0	0	0	0
+1701	17	飞向瀑布	0	1	999	11440	4576	0	1701	39	越过前面的瀑布沟壑，就可以到达司法塔了。	members/head_char_heiyi1.png	battle/zaijianmeili.png	0	0	0	0
+1702	17	司法塔	0	1	999	11500	4600	0	1702	39	来到司法塔下，斯潘达姆见势不妙，押着罗宾先行逃跑了，快追！	members/head_char_heiyi1.png	battle/zaijianmeili.png	0	0	0	0
+1703	17	塔内迷宫	0	1	999	11550	4620	0	1703	39	这个塔仿佛一座巨大的迷宫，对于路痴来说，实在是……	members/head_char_heiyi1.png	battle/zaijianmeili.png	0	0	0	0
+1704	17	上楼下楼	0	1	999	11610	4644	0	1704	39	上上下下，也不知道绕过了多少弯路，还是找不到出口。	members/head_char_heiyi1.png	battle/zaijianmeili.png	0	0	0	0
+1705	17	兵分多路	0	1	999	11670	4668	0	1705	39	看来只有分头行动了，各自对付前方的敌人，要小心！	members/head_char_heiyi1.png	battle/zaijianmeili.png	0	0	0	0
+1706	17	坚固大门	1	1	10	13680	7818	41000_66_1,41000_59_1,11001_1001_40	1706	40	好坚固的大门，看来这里应该就是出口了，打破它！	members/head_char_damen.png	battle/zaijianmeili.png	0	0	0	0
+1707	17	海底通道	0	1	999	11780	4712	0	1707	40	这个奇怪的通道是建在海底下的么，好厉害啊。	members/head_char_zhudaoshouwei.png	battle/zaijianmeili.png	0	0	0	0
+1708	17	踟蹰之桥	0	1	999	11830	4732	0	1708	40	来到踟蹰之桥，又碰到之前的三头法官，真是阴魂不散。	members/head_char_basikabier.png	battle/zaijianmeili.png	0	0	0	0
+1709	17	手抖了	0	1	999	11890	4756	0	1709	40	与此同时，押送罗宾逃走的斯潘达姆，不小心按下了发动屠魔令的按钮……	members/head_char_zhudaoshouwei.png	battle/zaijianmeili.png	0	0	0	0
+1710	17	屠魔令发动	0	1	999	11950	4780	0	1710	40	海军本部收到了屠魔令发动的信号，开始出动大批军舰和海军向司法岛驶来。	members/head_char_langgoubudui.png	battle/zaijianmeili.png	0	0	0	0
+1711	17	正义之门	0	1	999	12060	4824	0	1711	40	通过了正义之门，就要追上罗宾了，却迎来了CP9主力成员们的阻击。	members/head_char_langgoubudui.png	battle/zaijianmeili.png	0	0	0	0
+1712	17	狩猎猫头鹰	1	1	10	14200	8115	41000_63_1,11001_1001_40	1712	40	好奇怪的家伙，嘴巴像一个拉链，好像是一头猫头鹰啊……	members/head_char_maotouying.png	battle/zaijianmeili.png	0	0	0	0
+1713	17	生命归还	1	1	10	14340	8195	50000_58_1,41000_58_1,11001_1001_40	1713	40	这个像是歌舞伎的家伙，也是CP9的成员么，真是一群古怪的组合。	members/head_char_weiqu.png	battle/zaijianmeili.png	0	0	0	0
+1714	17	泡泡大战	1	1	10	14470	8269	50000_26_1,41000_52_1,11001_1001_40	1714	40	这不是在水之七都见到的市长秘书么，竟然也成了恶魔果实能力者。	members/head_char_kalifa.png	battle/zaijianmeili.png	0	0	0	0
+1715	17	厨师阿修罗	1	1	10	14610	8349	41000_58_1,11001_1001_40	1715	40	面前的这两个人，应该是里面最难缠的角色了吧，前面也已经能看到鸽子男了，找准自己的对手进攻吧。	members/head_char_jiabula.png	battle/zaijianmeili.png	0	0	0	0
+1716	17	决战之桥	2	1	5	16830	12240	41000_44_1,11001_1001_40	1716	41	用尽全力击败鸽子男，身体已经动不了了，而海军的火炮已经瞄准了这里，快想办法！	members/head_char_luqi.png	battle/zaijianmeili.png	0	0	0	0
+1801	18	魔鬼海域	0	1	999	12720	5088	0	1801	41	好大的雾气，整个海域充满着诡异的气氛，真可怕。	members/head_char_elong.png	battle/moguisanjiao.png	0	0	0	0
+1802	18	奇怪木桶	0	1	999	12820	5128	0	1802	41	哇，一只木桶，快捞起来，里面会不会装着财宝？	members/head_char_elong.png	battle/moguisanjiao.png	0	0	0	0
+1803	18	信号弹？！	0	1	999	12920	5168	0	1803	41	打开木桶之后，没有美酒或者财宝，只是有一束烟花冲天而起。	members/head_char_elong.png	battle/moguisanjiao.png	0	0	0	0
+1804	18	幽灵船	0	1	999	13030	5212	0	1804	41	好大的船，怎么会有歌声，这里有一个骷髅，而且竟然在走路，在唱歌！	members/head_char_kuloubing.png	battle/moguisanjiao.png	0	0	0	0
+1805	18	被盯上了	0	1	999	13130	5252	0	1805	41	从这个叫布鲁克的骷髅口中得知，之前的烟花是一个陷阱，你们已经被敌人盯上了。	members/head_char_kuloubing.png	battle/moguisanjiao.png	0	0	0	0
+1806	18	幽灵岛	1	1	10	15490	8852	50000_57_1,50000_22_1,11001_1001_40	1806	42	登上面前这座被称为幽灵岛的小岛，不知道是不是真的会有幽灵……	members/head_char_diyuquan.png	battle/moguisanjiao.png	0	0	0	0
+1807	18	幽灵马车	0	1	999	13440	5376	0	1807	42	果然有幽灵啊，竟然还是拉马车的。车上出来一个怪人。	members/head_char_jiangshi1.png	battle/moguisanjiao.png	0	0	0	0
+1808	18	医生公馆	0	1	999	13600	5440	0	1808	42	想不到在这里竟然能碰到著名的外科医生霍古巴克，这座公馆就是他的医学实验室，只是处处透着诡异。	members/head_char_jiangshi1.png	battle/moguisanjiao.png	0	0	0	0
+1809	18	透明骚扰	0	1	999	13770	5508	0	1809	42	突然听到一声尖叫，似乎是正在洗澡的娜美遭到了袭击！	members/head_char_jiangshi2.png	battle/moguisanjiao.png	0	0	0	0
+1810	18	研究室	0	1	999	13900	5560	0	1810	42	为了追击透明怪人，不小心闯入了严禁入内的实验室，医生的秘密被发现了。	members/head_char_jiangshi2.png	battle/moguisanjiao.png	0	0	0	0
+1811	18	夜袭开始	0	1	999	14030	5612	0	1811	42	一群群的僵尸与幽灵，组成庞大的军队，即将展开夜袭，赶快逃离这里。	members/head_char_jiangshi2.png	battle/moguisanjiao.png	0	0	0	0
+1812	18	外科医生	1	1	10	16520	9440	50000_24_1,41000_70_1,11001_1001_40	1812	43	原来霍古巴克医生是莫利亚手下的三怪人之一，利用高超的医术制造了僵尸大军。	members/head_char_huogubake.png	battle/moguisanjiao.png	0	0	0	0
+1813	18	梦幻庭院	1	1	10	16680	9532	41000_52_1,41000_58_1,11001_1001_40	1813	43	边打边逃，进入了一个美丽的花园，只可惜里面依旧充斥着各种怪物。	members/head_char_peiluona.png	battle/moguisanjiao.png	0	0	0	0
+1814	18	死亡墓园	1	1	10	16840	9623	50000_57_1,41000_70_1,11001_1001_40	1814	43	为了营救被掳走的娜美，来到一座墓园，发现透明人正打算与昏睡的娜美成婚，快阻止他。	members/head_char_aozi.png	battle/moguisanjiao.png	0	0	0	0
+1815	18	魔人战士	1	1	10	16970	9698	50000_28_1,50000_56_1,11001_1001_40	1815	43	击败了阿布萨罗姆，又碰到了身材巨大的魔人战士奥兹，真是个难缠的家伙。	members/head_char_aozi.png	battle/moguisanjiao.png	0	0	0	0
+1816	18	影子集合地	2	1	5	19540	14211	50000_13_1,50000_12_1,11001_1001_40	1816	44	为了夺回大家被夺取的影子，向影子集合地进发，打败月光莫利亚吧。	members/head_char_moliya.png	battle/moguisanjiao.png	0	0	0	0
+1901	19	人鱼小姐	0	1	999	14770	5908	0	1901	44	终于再次见到了红土大陆，伟大航路的旅程已经行进了一半，大家也都有了巨大的成长，真是激动人心。	members/head_char_feiyuqishi1.png	battle/xinshijie.png	0	0	0	0
+1902	19	章鱼烧	0	1	999	14890	5956	0	1902	44	从海兔口中救下了一名叫做凯米的鱼人少女，盛情邀请大家前往她所在的小店品尝章鱼烧。	members/head_char_feiyuqishi1.png	battle/xinshijie.png	0	0	0	0
+1903	19	解救人质	0	1	999	15010	6004	0	1903	44	到达章鱼烧店的时候，才发现店的老板兼主厨，已经被绑走了。	members/head_char_feiyuqishi1.png	battle/xinshijie.png	0	0	0	0
+1904	19	是你？！	0	1	999	15120	6048	0	1904	44	前往营救章鱼烧老板时，才发现他竟然就是阿龙手下的鱼人剑客小八。	members/head_char_feiyuqishi1.png	battle/xinshijie.png	0	0	0	0
+1905	19	章鱼小八	0	1	999	15300	6120	0	1905	44	经过一阵思想斗争，终究还是无法抵御章鱼烧的诱惑，那么化敌为友，救他出来吧。	members/head_char_feiyuqishi2.png	battle/xinshijie.png	0	0	0	0
+1906	19	帅哥团长	1	1	10	18060	10320	41000_50_1,50000_21_1,11001_1001_40	1906	45	大打出手之后，发现飞鱼骑士海贼团的团长，竟然是被误认为是香吉士，画到通缉令上的倒霉蛋。	members/head_char_dibalu.png	battle/xinshijie.png	0	0	0	0
+1907	19	夏波蒂公园	0	1	999	15660	6264	0	1907	45	在成功解决绑架事件之后，为了将凯米送回人鱼岛，来到夏波蒂公园。	members/head_char_tianlongren1.png	battle/xinshijie.png	0	0	0	0
+1908	19	嚣张贵族	0	1	999	15850	6340	0	1908	45	在这片岛屿上，发现了被称为贵族的天龙人，这是一群极度嚣张的家伙。	members/head_char_tianlongren1.png	battle/xinshijie.png	0	0	0	0
+1909	19	凯米被抓	0	1	999	16000	6400	0	1909	45	一不留神，凯米被绑架了，到底是谁抓走了她？	members/head_char_tianlongren2.png	battle/xinshijie.png	0	0	0	0
+1910	19	人贩生意	0	1	999	16150	6460	0	1910	45	经过调查发现，这座岛上盛行着人贩生意，或许他们就是凶手。	members/head_char_tianlongren2.png	battle/xinshijie.png	0	0	0	0
+1911	19	大闹拍卖场	0	1	999	16300	6520	0	1911	45	果然在人贩拍卖场，发现了被囚禁起来当做拍卖品的凯米，救她出来吧。	members/head_char_tianlongren3.png	battle/xinshijie.png	0	0	0	0
+1912	19	大熊？	1	1	10	19200	10972	50000_52_1,41000_63_1,11001_1001_40	1912	46	在大闹拍卖场之后，再次碰到了熊，想不到竟然会追到这里来。	members/head_char_px.png	battle/xinshijie.png	0	0	0	0
+1913	19	改造人	1	1	10	19380	11075	50000_12_1,50000_51_1,11001_1001_40	1913	46	怎么会又出来一个熊？难道这些都不是本尊，而是政府制造的机器人么？	members/head_char_px.png	battle/xinshijie.png	0	0	0	0
+1914	19	最强防御	1	1	10	19520	11155	50000_23_1,50000_55_1,11001_1001_40	1914	46	在与和平主义者纠缠的过程中，又有一个拿着巨大斧头的家伙加入战局，他自称是海军中拥有最强防御的人。	members/head_char_zhantaowan.png	battle/xinshijie.png	0	0	0	0
+1915	19	致命打击	1	1	10	19680	11246	50000_20_1,11001_1001_40	1915	46	这次的熊应该是本人了，他的强大毋庸置疑，尽力抵挡吧。	members/head_char_xiong.png	battle/xinshijie.png	0	0	0	0
+1916	19	闪光人	2	1	5	22660	16480	41000_50_1,41000_61_1,11001_1001_40	1916	47	想不到海军政府这次竟然派出了三大将之一的黄猿，前来执行抓捕任务，这次危险了。	members/head_char_huangyuan.png	battle/xinshijie.png	0	0	0	0
+2001	20	飞落岛屿	0	1	999	17130	6852	0	2001	47	站起来，去岛上四处逛逛吧，先找些吃的东西填饱肚子。	members/head_char_nvzhanshi1.png	battle/nverguo.png	0	0	0	0
+2002	20	奇异蘑菇	0	1	999	17270	6908	0	2002	47	发现一堆奇怪的蘑菇，这下子有东西吃了……啊，为什么吃完之后浑身开始长蘑菇了，头好晕……	members/head_char_nvzhanshi1.png	battle/nverguo.png	0	0	0	0
+2003	20	屋顶逃出	0	1	999	17400	6960	0	2003	47	醒来发现身上的蘑菇都消失了，但是却被关在了一间屋子里，外面全是女人。	members/head_char_nvzhanshi1.png	battle/nverguo.png	0	0	0	0
+2004	20	丛林追踪	0	1	999	17610	7044	0	2004	47	不能呆在这里，还要去寻找伙伴，以及打探艾斯的消息，打破房顶逃出去吧。	members/head_char_nvzhanshi1.png	battle/nverguo.png	0	0	0	0
+2005	20	丛林追踪2	0	1	999	17820	7128	0	2005	47	后面的女战士依旧紧追不舍，跟着你来到了丛林中。	members/head_char_nvzhanshi1.png	battle/nverguo.png	0	0	0	0
+2006	20	政府威胁	1	1	10	21030	12018	50000_52_1,11001_1001_40	2006	48	与此同时，岛外似乎来了一艘海军军舰，中将鼯鼠就在上面……	members/head_char_haijun2.png	battle/nverguo.png	0	0	0	0
+2007	20	女帝归来	0	1	999	18240	7296	0	2007	48	岛上欢声雷动，听说是她们的女王回来了，去看看吧，或许可以要一艘船出海。	members/head_char_nvzhanshi2.png	battle/nverguo.png	0	0	0	0
+2008	20	九蛇城	0	1	999	18410	7364	0	2008	48	重新回到城中，要避开四周的女战士，悄悄接近才行。	members/head_char_nvzhanshi2.png	battle/nverguo.png	0	0	0	0
+2009	20	入浴	0	1	999	18580	7432	0	2009	48	不好，飞过头了，竟然跌落到浴池里了。咦，那里似乎有人在洗澡……	members/head_char_nvzhanshi2.png	battle/nverguo.png	0	0	0	0
+2010	20	背后印记	0	1	999	18750	7500	0	2010	48	背后的印记被发现之后，女人发飙了，开始指挥众人对你展开追捕。	members/head_char_nvzhanshi2.png	battle/nverguo.png	0	0	0	0
+2011	20	重新拘捕	0	1	999	18920	7568	0	2011	48	啊，这是什么，不是铅弹呀……	members/head_char_nvzhanshi2.png	battle/nverguo.png	0	0	0	0
+2012	20	追究责任	1	1	10	22290	12738	50000_19_1,11001_1001_40	2012	49	最终还是失手被擒，被一众女兵押到了广场，与这名女王大人似乎是没法沟通呢。	members/head_char_nvzhanshi2.png	battle/nverguo.png	0	0	0	0
+2013	20	刽子手	1	1	10	23040	13166	50000_49_1,50000_21_1,11001_1001_40	2013	49	要施行惩罚了，判决是——死刑，执行者竟然是一头黑色的大豹子。	members/head_char_bakoula.png	battle/nverguo.png	0	0	0	0
+2014	20	竞技台	1	1	10	23830	13618	41000_68_1,41000_63_1,11001_1001_40	2014	49	轻易解决了豹子，女王决定派出手下的两个姐妹亲自行刑。	members/head_char_boyasangdasuoniya.png	battle/nverguo.png	0	0	0	0
+2015	20	王者资质	1	1	10	24640	14080	50000_59_1,11001_1001_40	2015	49	他们为什么不动了，站着挨打么？那就不客气了。	members/head_char_boyamaligelude.png	battle/nverguo.png	0	0	0	0
+2016	20	致命之疾	2	1	5	29120	21179	41000_58_1,50000_18_1,11001_1001_40	2016	50	被打出去的蛇人姐妹，后背的秘密要被发现了，现在的你会如何选择？	members/head_char_hankuke.png	battle/nverguo.png	0	0	0	0
+2101	21	大监狱	0	1	999	22580	9032	0	2101	50	前面就是深海监狱的入口了，藏在汉库克的长袍里，一起进去吧。	members/head_char_jianyushouwei.png	battle/tuijincheng.png	0	0	0	0
+2102	21	正义之门	0	1	999	23350	9340	0	2102	50	大门两侧站满了卫兵，看来这里防守非常严密。	members/head_char_jianyushouwei.png	battle/tuijincheng.png	0	0	0	0
+2103	21	检查室	0	1	999	24140	9656	0	2103	50	进入监狱里，必须先在检查室接受搜身检查，才能继续前进，看来不能继续藏下去了。	members/head_char_jianyushouwei.png	battle/tuijincheng.png	0	0	0	0
+2104	21	蒙混过关	0	1	999	24960	9984	0	2104	50	利用汉库克的石化能力，迅速离开检查室，接下来只能孤身前进了。	members/head_char_jianyushouwei.png	battle/tuijincheng.png	0	0	0	0
+2105	21	进入监狱	0	1	999	25810	10324	0	2105	50	终于进到牢房里，快打探艾斯的下落吧，小心那些看守监狱的狱卒。	members/head_char_nvjianyushouwei.png	battle/tuijincheng.png	0	0	0	0
+2106	21	再遇巴基	1	1	10	31140	17795	50000_18_1,11001_1001_40	2106	51	来到第一层，突然发现前面有一阵骚乱，这不是巴基么，他也被关在这里？	members/head_char_lanxing.png	battle/tuijincheng.png	0	0	0	0
+2107	21	红莲地狱	0	1	999	26940	10776	0	2107	51	与巴基一起冲开前来追捕的狱卒，他答应带你去前往下一层监狱的入口处。	members/head_char_yuzushou.png	battle/tuijincheng.png	0	0	0	0
+2108	21	猛兽地狱	0	1	999	27190	10876	0	2108	51	来到监狱第二层，这里的守卫全是各种奇怪的猛兽，应该是政府军使用特殊的技术制造出来的。	members/head_char_yuzushou.png	battle/tuijincheng.png	0	0	0	0
+2109	21	饥饿地狱	0	1	999	27450	10980	0	2109	51	在混乱中，从第二层跌进了第三层，竟然意外的碰到了小冯！救他出去吧。	members/head_char_yuzushou.png	battle/tuijincheng.png	0	0	0	0
+2110	21	焦热地狱	0	1	999	27700	11080	0	2110	51	在小冯的帮助下，顺利来到第四层，这里就是署长麦哲伦的办公室了。	members/head_char_yuzushou.png	battle/tuijincheng.png	0	0	0	0
+2111	21	狱长室	0	1	999	27960	11184	0	2111	51	在署长办公室，充斥着炎热与毒气，还有个巨大的……马桶……	members/head_char_yuzushou.png	battle/tuijincheng.png	0	0	0	0
+2112	21	初次交锋	1	1	10	32810	18749	41000_50_1,41000_66_1,11001_1001_40	2112	51	打斗声终于惊动了狱长，这个全身都是剧毒的毒毒果实能力者，是令整个监狱都为之颤抖的存在。	members/head_char_maizhelun.png	battle/tuijincheng.png	0	0	0	0
+2113	21	打破看守室	1	1	10	33000	18858	41000_29_1,11001_1001_40	2113	51	经过一番苦战，败下阵来，并且身中剧毒，还好被伊万科夫以毒攻毒保住了性命，现在要重新杀回去！	members/head_char_xiniu.png	battle/tuijincheng.png	0	0	0	0
+2114	21	冲出监狱	1	1	10	33200	18972	41000_52_1,11001_1001_40	2114	51	在大家的共同努力下，顺利冲出了监狱，与闻讯赶来的狱卒长展开了交锋。	members/head_char_sadi.png	battle/tuijincheng.png	0	0	0	0
+2115	21	副监狱长	1	1	10	33380	19075	41000_52_1,11001_1001_40	2115	51	汉尼拔副署长也赶来了，不过怎么看这家伙都是一副不禁打的样子。	members/head_char_hanniba.png	battle/tuijincheng.png	0	0	0	0
+2116	21	自由世界	2	1	5	38380	27913	50000_58_1,41000_50_1,11001_1001_40	2116	52	再次遇到麦哲伦，阻挡他直到大家顺利离开就可以了。只是所有人都上了船，谁去打开监狱大门呢？	members/head_char_maizhelun.png	battle/tuijincheng.png	0	0	0	0
+2201	22	驶向总部	0	1	999	28950	11580	0	2201	52	距离艾斯被处刑时间只剩不到3个小时，处刑地点海军本部玛林梵多，加速驶向海军总部吧。	members/head_char_haijun3.png	battle/haijunzongbu.png	0	0	0	0
+2202	22	打开正门	0	1	999	29120	11648	0	2202	52	海军总部的正门突然打开了，众多海贼一齐驶进了海军总部马林梵多。	members/head_char_haijun3.png	battle/haijunzongbu.png	0	0	0	0
+2203	22	海贼云集	0	1	999	29290	11716	0	2203	52	同时赶来的总共有43艘海贼船，其中不乏名气显赫的大海贼。现场的气氛越来越紧张了。	members/head_char_haijun3.png	battle/haijunzongbu.png	0	0	0	0
+2204	22	莫比迪克号	0	1	999	29980	11992	0	2204	52	正当战国疑惑之时，莫迪比克号从总部海底出现在世人眼前，白胡子海贼团登场！	members/head_char_haijun3.png	battle/haijunzongbu.png	0	0	0	0
+2205	22	一触即发	0	1	999	30690	12276	0	2205	52	白胡子时代的主角，与海军终于开始了正面对决，大战一触即发。	members/head_char_haijun3.png	battle/haijunzongbu.png	0	0	0	0
+2206	22	大战序幕	1	1	10	36140	20652	50000_18_1,41000_52_1,11001_1001_40	2206	53	为了保证计划顺利进行，战国下令提前处决艾斯，海军中将们充当第一防线，大战一触即发。	members/head_char_zhongjiang.png	battle/haijunzongbu.png	0	0	0	0
+2207	22	全军动员	0	1	999	31260	12504	0	2207	53	双方不约而同的发起了进攻号令，混战开始了。	members/head_char_dazuo.png	battle/haijunzongbu.png	0	0	0	0
+2208	22	钻石巨人	0	1	999	31550	12620	0	2208	53	白胡子的第三队队长，钻石乔治挺身而出，用自己的身体挡住了敌人的犀利攻击。	members/head_char_dazuo.png	battle/haijunzongbu.png	0	0	0	0
+2209	22	攻进港湾	0	1	999	31850	12740	0	2209	53	在双方胶着激战之时，海军大将赤犬出击，利用自己的能力熔炎击碎了冰块，并向白胡子发起挑衅。	members/head_char_dazuo.png	battle/haijunzongbu.png	0	0	0	0
+2210	22	激战	0	1	999	32140	12856	0	2210	53	白胡子海贼团各个队长一齐发动进攻，顿时马林梵多硝烟四起。	members/head_char_dazuo.png	battle/haijunzongbu.png	0	0	0	0
+2211	22	两路包抄	0	1	999	32280	12912	0	2211	53	奥兹冲出海贼群，向着处刑台一路奔去，用自己的巨大身躯冲开一条血路。	members/head_char_dazuo.png	battle/haijunzongbu.png	0	0	0	0
+2212	22	突然袭击	1	1	10	37820	21612	41000_58_1,11001_1001_40	2212	53	顺利赶到的克罗克达尔，突然冲向了白胡子，扬言要	members/head_char_dazuo.png	battle/haijunzongbu.png	0	0	0	0
+2213	22	武海出击	1	1	10	37980	21703	41000_67_1,11001_1001_40	2213	53	七武海也发起了进攻，奥兹成为众七武海的集火目标，奥兹不敌倒在了处刑台前面。	members/head_char_moliya.png	battle/haijunzongbu.png	0	0	0	0
+2214	22	劈斩	1	1	10	38140	21795	50000_54_1,50000_20_1,11001_1001_40	2214	54	王下七武海之一，被称为世界第一剑客朱洛基尔·米霍克，一刀斩向了摸底比克号…	members/head_char_yingyan.png	battle/haijunzongbu.png	0	0	0	0
+2215	22	和平主义	1	1	10	38300	21886	50000_29_1,11001_1001_40	2215	54	以七武海巴索洛缪·熊为原型制造的和平主义战争机器加入战局，白胡子海贼们损失惨重。	members/head_char_px.png	battle/haijunzongbu.png	0	0	0	0
+2216	22	正义必胜	2	1	5	43960	31971	41000_59_1,11001_1001_40	2216	55	七武海唐吉可德将奥兹的一只脚斩断，使奥兹倒在了处刑台前面。而艾斯却突然开口阻止你赶去救援。	members/head_char_duofolangmingge.png	battle/haijunzongbu.png	0	0	0	0
+2301	23	包围圈	0	1	999	33110	13244	0	2301	55	看到一部分海军消失，白胡子立刻命令几位船长向两边突破，果然发现了正在悄悄进行包围的海军。	members/head_char_shaoxiao.png	battle/dingshangjuezhan.png	0	0	0	0
+2302	23	不祥预感	0	1	999	33250	13300	0	2302	55	尽管识破了战国的阴谋，白胡子仍然感到不安，对战国知之甚深的他绝不相信只有如此幼稚的安排。	members/head_char_shaoxiao.png	battle/dingshangjuezhan.png	0	0	0	0
+2303	23	遗漏的人	0	1	999	33390	13356	0	2303	55	大战中，似乎少了一个人的身影，但所有人都已经无暇顾及这种事情。	members/head_char_dazuo.png	battle/dingshangjuezhan.png	0	0	0	0
+2304	23	大圈套	0	1	999	33530	13412	0	2304	55	正当白胡子海贼们一步步逼近处刑台时，史库亚多突然来到白胡子身前……	members/head_char_dazuo.png	battle/dingshangjuezhan.png	0	0	0	0
+2305	23	大圈套2	0	1	999	33670	13468	0	2305	55	站在高台上的战国，目不转睛的望着白胡子，似乎在等待着什么……	members/head_char_dazuo.png	battle/dingshangjuezhan.png	0	0	0	0
+2306	23	反戈相向	1	1	10	39960	22835	50000_52_1,11001_1001_40	2306	56	不可思议，史库亚多竟然转身向白胡子刺去，没有任何防御，白胡子被砍伤了……	members/head_char_dazuo.png	battle/dingshangjuezhan.png	0	0	0	0
+2307	23	血肉之路	0	1	999	34830	13932	0	2307	56	受到挑唆，仇恨冲昏头脑的史库亚多终于想明白了这是海军的诡计，但为时已晚。	members/head_char_zhongjiang.png	battle/dingshangjuezhan.png	0	0	0	0
+2308	23	沸腾之海	0	1	999	35430	14172	0	2308	56	面对步步紧逼的海贼，赤犬利用岩浆果实的能力，将整个海面煮沸，全员必须赶上陆地才行。	members/head_char_zhongjiang.png	battle/dingshangjuezhan.png	0	0	0	0
+2309	23	铜墙铁壁	0	1	999	36030	14412	0	2309	56	当所有人冲上陆地时，周围突然树立起坚硬的铁墙，战国的计策一环扣一环的展开了。	members/head_char_zhongjiang.png	battle/dingshangjuezhan.png	0	0	0	0
+2310	23	飞越	0	1	999	36640	14656	0	2310	56	现在唯一的出口，只有小奥兹身躯所在的狭窄通道，踏着伙伴的身躯，冲出囚笼！	members/head_char_zhongjiang.png	battle/dingshangjuezhan.png	0	0	0	0
+2311	23	进入广场	0	1	999	37270	14908	0	2311	56	付出巨大代价之后，所有人终于冲进了广场，距离处刑台只有一步之遥。	members/head_char_zhongjiang.png	battle/dingshangjuezhan.png	0	0	0	0
+2312	23	处刑台	1	1	10	44220	25269	41000_68_1,41000_59_1,11001_1001_40	2312	56	冲破重重险阻，终于登上处刑台，快去救出艾斯！	members/head_char_qingzhi.png	battle/dingshangjuezhan.png	0	0	0	0
+2313	23	碎裂的钥匙	1	1	10	44980	25703	41000_26_1,11001_1001_40	2313	57	终于抢夺过钥匙来，但尚未给艾斯打开枷锁，一道闪光打碎了钥匙。	members/head_char_huangyuan.png	battle/dingshangjuezhan.png	0	0	0	0
+2314	23	营救成功	1	1	10	45740	26138	50000_52_1,50000_18_1,11001_1001_40	2314	58	强行轰开愤怒追来的战国，总算将艾斯救下了处刑台，在即将离去时，赤犬出现在了身前。	members/head_char_fozhizhanguo.png	battle/dingshangjuezhan.png	0	0	0	0
+2315	23	艾斯之死	1	1	10	46520	26583	50000_27_1,41000_34_1,11001_1001_40	2315	59	对白胡子的不屑一顾，深深的刺伤了艾斯的心，刹那的忧郁，终于丧失了逃离的机会。	members/head_char_chiquan.png	battle/dingshangjuezhan.png	0	0	0	0
+2316	23	白胡子时代	2	1	5	54080	39331	50000_43_1,41000_38_1,11001_1001_40	2316	60	大势已去，看着艾斯倒下，众人伤心不已，白胡子也已经重伤累累，战争即将落下帷幕。	members/head_char_heihuzi.png	battle/dingshangjuezhan.png	0	0	0	0
+2401	24	香波地岛	0	1	999	40740	16296	0	2401	60	刚到岛上，就碰到一个带草帽的家伙挑衅，快解决掉，还要赶路呢。	members/head_char_danmaluobulake.png	battle/battleBG_lawn.png	0	0	1	0
+2402	24	横生枝节	0	1	999	40920	16368	0	2402	60	原来这是一群冒充草帽的团伙，可是那两个人真的很像索隆和香吉士。	members/head_char_duoerdun.png	battle/battleBG_lawn.png	0	0	0	0
+2403	24	海军追捕	0	1	999	41100	16440	0	2403	60	时隔两年，又见到和平主义者和战桃丸了，再较量一番吧。	members/head_char_zhantaowan.png	battle/battleBG_lawn.png	0	0	0	0
+2404	24	准备起航	0	1	999	41280	16512	0	2404	60	全员到齐，谢谢大家的配合，虽然有很多话要说，不过先起航吧！	members/head_char_elong.png	battle/battleBG_lawn.png	0	0	0	0
+2405	24	目标鱼人岛	0	1	999	41460	16584	0	2405	60	在去往鱼人岛的海底中，会经过海王兽密集的区域，要多加小心。	members/head_char_elong.png	battle/battleBG_lawn.png	0	0	0	0
+2406	24	北海巨妖	1	1	10	48580	27760	50000_54_1,11001_1001_40	2406	61	真没想到北海巨妖竟然栖息在这里，驯服它让它给我们拉船。	members/head_char_shengwu1.png	battle/battleBG_lawn.png	0	0	0	0
+2407	24	深海冒险	0	1	999	41820	16728	0	2407	61	阳光号被打飞到黑暗的海沟里了，这里似乎潜伏着更多凶猛的海王。	members/head_char_elong.png	battle/battleBG_lawn.png	0	0	0	0
+2408	24	鱼人岛	0	1	999	42000	16800	0	2408	61	经过重重险阻，来到了鱼人岛，却被当做非法入境者了。	members/head_char_yuren2.png	battle/battleBG_lawn.png	0	0	0	0
+2409	24	新鱼人海贼	0	1	999	42180	16872	0	2409	61	终于解决了入境问题，却被新鱼人海贼团盯上，打败这些来骚扰的小喽啰。	members/head_char_yuren2.png	battle/battleBG_lawn.png	0	0	0	0
+2410	24	飞斧突袭	0	1	999	42360	16944	0	2410	61	你被尼普顿邀请去龙宫做客，误入硬壳塔见到了白星公主，此时一把飞斧突然袭来。	members/head_char_fandaiken.png	battle/battleBG_lawn.png	0	0	0	0
+2411	24	海之森	0	1	999	42490	16996	0	2411	61	了解到白星的窘境，你决定带她去海之森逛逛，并保护她的安全。	members/head_char_labu2.png	battle/battleBG_lawn.png	0	0	0	0
+2412	24	范德戴肯	1	1	10	50160	28663	41000_67_1,41000_58_1,11001_1001_40	2412	62	穷追不舍的范德戴肯九世被白星拒绝后，顿起杀意，开始疯狂进攻。	members/head_char_fandaiken.png	battle/battleBG_lawn.png	0	0	0	0
+2413	24	大清洗	1	1	10	50750	29000	41000_25_1,11001_1001_40	2413	62	趁着龙宫守卫寻找白星公主之际，霍迪琼斯侵占了龙宫，并宣称自己成为新一任国王。	members/head_char_huodiqiongsi.png	battle/battleBG_lawn.png	0	0	0	0
+2414	24	阻挡	1	1	10	51340	29338	50000_51_1,50000_19_1,11001_1001_40	2414	62	你决定立刻回到龙宫去救人，但与你意见相左的甚平，拦在了你前面。	members/head_char_shenping.png	battle/battleBG_lawn.png	0	0	0	0
+2415	24	广场大战	1	1	10	51930	29675	50000_26_1,41000_31_1,11001_1001_40	2415	62	利用甚平的计谋，你终于在鱼人岛民众的呼唤中以英雄的身份登场，去解救国王吧！	members/head_char_huodiqiongsi.png	battle/battleBG_lawn.png	0	0	0	0
+2416	24	诺亚方舟	2	1	5	59810	43499	50000_24_1,41000_27_1,11001_1001_40	2416	63	失去控制的诺亚号正向龙宫驶去，必须阻止霍迪琼斯和范德戴肯九世的阴谋。	members/head_char_huodiqiongsi.png	battle/battleBG_lawn.png	0	0	0	0
+2501	25	燃烧之岛	0	1	999	45210	18084	0	2501	63	作为先遣队来到岛上，发现到处都是燃烧的火焰。前面是什么，竟然是一头龙？！	members/head_char_elong.png	battle/battleBG_ice.png	0	0	0	0
+2502	25	雪山冒险	0	1	999	45560	18224	0	2502	63	一湖之隔，这边是炎热的地域，对面确实寒冷的冰山雪原，呼救的人应该在对面了。	members/head_char_yuzushou.png	battle/battleBG_ice.png	0	0	0	0
+2503	25	催眠瓦斯	0	1	999	45910	18364	0	2503	63	与此同时，留在船上的人员，突然闻到奇怪的味道，不好，是毒气……	members/head_char_yuzushou.png	battle/battleBG_ice.png	0	0	0	0
+2504	25	破墙而出	0	1	999	46260	18504	0	2504	63	在睡梦中被关到了禁闭室中，用射线轰开墙壁吧。	members/head_char_yuzushou.png	battle/battleBG_ice.png	0	0	0	0
+2505	25	小鬼头	0	1	999	46630	18652	0	2505	63	从禁闭室中出来，发现了许多小孩儿，带他们一起逃出去吧。	members/head_char_yuzushou.png	battle/battleBG_ice.png	0	0	0	0
+2506	25	白色追击	1	1	10	54840	31338	50000_20_1,11001_1001_40	2506	64	又见到白色猎人斯摩格了，真是个阴魂不散的家伙。	members/head_char_simoge.png	battle/battleBG_ice.png	0	0	0	0
+2507	25	深河遇险	0	1	999	47370	18948	0	2507	64	另一方面，先遣小队的成员正在渡河，却遭到攻击落入水中，好大的鳄鱼！	members/head_char_dashae.png	battle/battleBG_ice.png	0	0	0	0
+2508	25	抢夺衣物	0	1	999	47740	19096	0	2508	64	从湖水里出来之后，整个人都被冻僵了，看到敌人身上的大衣，去抢过来吧。	members/head_char_shanzei.png	battle/battleBG_ice.png	0	0	0	0
+2509	25	身心互换	0	1	999	48110	19244	0	2509	64	来到禁区入口，发现身为现任七武海的罗也在此地，阴差阳错之下与同伴们互换了身体。	members/head_char_luo.png	battle/battleBG_ice.png	0	0	0	0
+2510	25	雪山杀手	0	1	999	48480	19392	0	2510	64	通过茶胡子，得知我们已经被列入猎杀名单，即将遭到雪山杀手的袭击。	members/head_char_shanzei.png	battle/battleBG_ice.png	0	0	0	0
+2511	25	药物失控	0	1	999	48860	19544	0	2511	64	潜在乔巴身体内的弗兰奇吃下了蓝波球，可是他似乎不会控制这个身体……	members/head_char_qiaoba.png	battle/bankejinqu.png	0	0	0	0
+2512	25	结成同盟	1	1	10	57680	32960	41000_47_1,41000_63_1,11001_1001_40	2512	65	正与雪山杀手混战之际，罗突然出现重创二人，并提出与你联手的建议。	members/head_char_luo.png	battle/bankejinqu.png	0	0	0	0
+2513	25	作战开始	1	1	10	58360	33349	41000_28_1,11001_1001_40	2513	65	确定结盟之后，去寻找被带走的伙伴们，却遇到了烟鬼斯摩格。	members/head_char_simoge.png	battle/bankejinqu.png	0	0	0	0
+2514	25	秘密约会	1	1	10	59050	33743	41000_50_1,11001_1001_40	2514	65	在与海军混战之际，罗也按照原定计划，将莫纳引诱出来……	members/head_char_monai.png	battle/bankejinqu.png	0	0	0	0
+2515	25	瓦斯果实	1	1	10	59710	34120	41000_50_1,11001_1001_40	2515	65	与此同时，“主人”也终于露面了，是个使用各种毒气的瓦斯果实能力者。	members/head_char_kaisa.png	battle/bankejinqu.png	0	0	0	0
+2516	25	死亡国度	2	1	5	68780	50022	50000_57_1,41000_46_1,11001_1001_40	2516	66	凯撒正将充满毒气的史莱姆进行最后的合体，成为杀戮兵器，必须阻止他。	members/head_char_kaisa.png	battle/bankejinqu.png	0	0	0	0
+2601	26	全力进攻	0	1	999	51990	20796	0	2601	63	绝对不能让凯撒的计划成功，但是想要阻止他就要先面对他成群的手下，全力进攻吧！	members/head_char_haidao1.png	battle/bankejinqu.png	0	0	0	0
+2602	26	棋差一招	0	1	999	52390	20956	0	2602	63	就在快要抓到凯撒的时候，海军又来捣乱，忽然所有人都晕倒在地，这究竟是怎么一回事？	members/head_char_haijun1.png	battle/bankejinqu.png	0	0	0	0
+2603	26	不明身影	0	1	999	52800	21120	0	2603	63	另一面，罗的心脏忽然疼了起来，从前面通道的阴影走来一个人，到底是谁？	members/head_char_haijun2.png	battle/bankejinqu.png	0	0	0	0
+2604	26	武士躯体	0	1	999	53200	21280	0	2604	63	山治在湖底发现了武士的另一半，好像被黏在大鲨鱼的身上，把他夺过来吧！	members/head_char_konglong2.png	battle/bankejinqu.png	0	0	0	0
+2605	26	大闹一场	0	1	999	53620	21448	0	2605	63	终于所有人都汇集到了一起，是时候让凯撒他们知道厉害了！	members/head_char_yuzushou.png	battle/bankejinqu.png	0	0	0	0
+2606	26	A栋入口	1	1	10	63050	36029	50000_20_1,11001_1001_40	2606	64	又被一批凯撒的忠心手下拦住了去路，他们似乎十分信任凯撒，完全不知道自己被当做弃子	members/head_char_haidao4.png	battle/bankejinqu.png	0	0	0	0
+2607	26	鬼竹出现	0	1	999	54460	21784	0	2607	64	突然出现的维尔戈中将打倒了达斯琪，响应女士号召的王子香吉士及时参上…	members/head_char_weierge.png	battle/bankejinqu.png	0	0	0	0
+2608	26	鬼竹出现2	0	1	999	54890	21956	0	2608	64	面对强大的维尔戈，香吉士似乎不是对手…	members/head_char_weierge.png	battle/bankejinqu.png	0	0	0	0
+2609	26	无空世界	0	1	999	55310	22124	0	2609	64	路飞和斯摩格一路来到凯撒的研究室，“这次绝不放过你！”拳头伴随声音冲了出去	members/head_char_yuzushou.png	battle/bankejinqu.png	0	0	0	0
+2610	26	熊孩子	0	1	999	55730	22292	0	2610	64	没有糖吃的小孩子们变得狂暴起来，乔巴变身也阻止不了他们的狂暴…	members/head_char_jurenxiaohai2.png	battle/bankejinqu.png	0	0	0	0
+2611	26	雪女堡垒	0	1	999	56160	22464	0	2611	64	逃跑的途中雪女莫奈追了上来，索隆出手，一刀流·大震撼！	members/head_char_monai.png	battle/bankejinqu.png	0	0	0	0
+2612	26	逃出生天	1	1	10	67100	38343	41000_47_1,41000_63_1,11001_1001_40	2612	65	桃之助带着路飞一同从垃圾箱里飞了上来，眼前就是凯撒的手下，找他们问出凯撒的行踪吧	members/head_char_haidao4.png	battle/bankejinqu.png	0	0	0	0
+2613	26	别想逃	1	1	10	68670	39240	41000_28_1	2613	65	就在凯撒准备杀掉茶胡子的时候，路飞的拳头打飞了他所有的手下“这次你可跑不掉了！”	members/head_char_kaisa.png	battle/bankejinqu.png	0	0	0	0
+2614	26	罗的复仇	1	1	10	70250	40143	41000_50_1,11001_1001_40	2614	65	罗和斯摩格直面强大的武装色霸气使用者，同时也是小丑在海军的间谍，鬼竹维尔戈。	members/head_char_weierge.png	battle/bankejinqu.png	0	0	0	0
+2615	26	灰熊枪	1	1	10	71930	41103	41000_50_1	2615	65	凯撒吸收了杀戮瓦斯，变成恐怖的死亡国度状态，却被路飞一记三档灰熊抢彻底击溃。	members/head_char_kaisa.png	battle/bankejinqu.png	0	0	0	0
+2616	26	回收凯撒	2	1	5	86100	62619	50000_57_1,41000_46_1,11001_1001_40	2616	66	多佛朗明哥派出得力干将BABY 5和巴法罗前去抢回凯撒，战斗，一触即发！	members/head_char_baby5.png	battle/bankejinqu.png	0	0	0	0
+2701	27	逢赌必输	0	1	999	64980	25992	0	2701	63	酒馆里遇到了一个爱赌博的失明老爷爷，明明赢了却被酒保欺骗，教训教训酒保吧！	members/head_char_yuzushou.png	battle/jingjichang.png	0	0	0	0
+2702	27	我的刀！	0	1	999	65390	26156	0	2702	63	刚刚还戴在身上的秋水一眨眼就不见了，可恶，妖精别跑！我看到你了！	members/head_char_leiou.png	battle/jingjichang.png	0	0	0	0
+2703	27	挑衅者	0	1	999	65790	26316	0	2703	63	得知竟技场的奖励是烧烧果实之后，路飞化名路西去参加比赛，一进去就遇到了挑衅者…	members/head_char_yuzushou.png	battle/jingjichang.png	0	0	0	0
+2704	27	深仇大恨	0	1	999	66200	26480	0	2704	63	斗技场B区的比赛如火如荼，一位不速之客悄然来到路飞身边	members/head_char_qingjiao.png	battle/jingjichang.png	0	0	0	0
+2705	27	斗鱼群	0	1	999	66600	26640	0	2705	63	罗，乌索普和罗宾，带着凯撒前往和小丑约定好的地点，一群斗鱼不开眼的撞了过来	members/head_char_shengwu2.png	battle/jingjichang.png	0	0	0	0
+2706	27	这是哪里？	1	1	10	78180	44675	50000_20_1,11001_1001_40	2706	64	打败斗鱼来到了一片奇怪的森林，罗宾和乌索普前去侦查，却被迷昏在地	members/head_char_leiou.png	battle/jingjichang.png	0	0	0	0
+2707	27	为了爱	0	1	999	67410	26964	0	2707	64	坠入爱河的香吉士万万没想到，怀中美女竟是多佛朗明哥手下的杀手，紫罗兰维奥莱特。	members/head_char_ziluolan.png	battle/jingjichang.png	0	0	0	0
+2708	27	小试牛刀	0	1	999	67820	27128	0	2708	64	自以为计谋成功，却被反将一军，大将藤虎毫无顾忌，一出手就对罗和小丑展开强力攻击	members/head_char_zefa.png	battle/jingjichang.png	0	0	0	0
+2709	27	C区激战	0	1	999	68220	27288	0	2709	64	路飞在竞技场轻松击败众人，只剩一个拥有霸王色霸气的超级海贼，八宝海军前栋梁，青椒。	members/head_char_qingjiao.png	battle/jingjichang.png	0	0	0	0
+2710	27	C区激战2	0	1	999	68630	27452	0	2710	64	不愧是前大海贼，实力深不可测，但是两年后的路飞，有着更加强大的实力！	members/head_char_qingjiao.png	battle/jingjichang.png	0	0	0	0
+2711	27	艺术和音乐	0	1	999	69030	27612	0	2711	64	船上的娜美一行不小心被乔拉变成了艺术品，多亏布鲁克急击败了她，使大家恢复原状	members/head_char_qiaola.png	battle/jingjichang.png	0	0	0	0
+2712	27	火烈鸟	1	1	10	81010	46292	41000_47_1,41000_63_1,11001_1001_40	2712	65	多佛朗明哥追杀逃走的罗时发现了万里阳光号，及时赶来的香吉士又一次救了大家	members/head_char_duofolangmingge.png	battle/jingjichang.png	0	0	0	0
+2713	27	火烈鸟2	1	1	10	81480	46560	41000_28_1,11001_1001_40	2713	65	一记风来喷射万里阳光号脱离危险，罗决定独力对抗小丑	members/head_char_duofolangmingge.png	battle/jingjichang.png	0	0	0	0
+2714	27	反击	1	1	10	81960	46835	41000_50_1,11001_1001_40	2714	65	四面八方都是敌人，万里阳光号也遭到BIG MOM战舰的攻击，不能再等下去了，反击！	members/head_char_xialuotelingling.png	battle/jingjichang.png	0	0	0	0
+2715	27	藤虎的实力	1	1	10	82430	47103	41000_50_1,11001_1001_40	2715	65	眼见罗被小丑踩在脚下，索隆想要上前救援，却被藤虎沉重的剑彻底压制	members/head_char_duofolangmingge.png	battle/jingjichang.png	0	0	0	0
+2716	27	艾斯的意志	2	1	5	94740	68902	50000_57_1,41000_46_1,11001_1001_40	2716	66	竞技场内，萨波穿上了路飞的装备代替路飞出战，凶险的一战，对决王牌，迪亚曼蒂！	members/head_char_diyamandi.png	battle/jingjichang.png	0	0	0	0
+2801	28	女神动力	0	1	999	97470	38988	0	2801	63	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_yuzushou.png	battle/jingjichang.png	1	0	0	0
+2802	28	女神动力1	0	1	999	98090	39234	0	2802	63	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_leiou.png	battle/jingjichang.png	1	0	0	0
+2803	28	女神动力2	0	1	999	98690	39474	0	2803	63	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_yuzushou.png	battle/jingjichang.png	1	0	0	0
+2804	28	女神动力3	0	1	999	99280	39720	0	2804	63	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_qingjiao.png	battle/jingjichang.png	1	0	0	0
+2805	28	女神动力4	0	1	999	99900	39960	0	2805	63	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_shengwu2.png	battle/jingjichang.png	1	0	0	0
+2806	28	女神动力5	1	2	10	117270	67013	11001_1002_280000,11001_1001_100	2806	64	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_leiou.png	battle/jingjichang.png	1	0	0	0
+2807	28	女神动力6	0	1	999	101120	40446	0	2807	64	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_ziluolan.png	battle/jingjichang.png	1	0	0	0
+2808	28	女神动力7	0	1	999	101728	40692	0	2808	64	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_zefa.png	battle/jingjichang.png	1	0	0	0
+2809	28	女神动力8	0	1	999	102328	40932	0	2809	64	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_qingjiao.png	battle/jingjichang.png	1	0	0	0
+2810	28	女神动力9	0	1	999	2850	41178	0	2810	64	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_qingjiao.png	battle/jingjichang.png	1	0	0	0
+2811	28	女神动力10	0	1	999	103550	41418	0	2811	64	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_qiaola.png	battle/jingjichang.png	1	0	0	0
+2812	28	女神动力11	1	3	10	121520	69438	61001_5001023_1,61001_5001021_1,11001_1001_100	2812	65	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_duofolangmingge.png	battle/jingjichang.png	1	0	0	0
+2813	28	女神动力12	1	3	10	122220	69840	61001_5001022_1,61001_5001021_1,11001_1001_100	2813	65	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_duofolangmingge.png	battle/jingjichang.png	1	0	0	0
+2814	28	女神动力13	1	3	10	122940	70253	61001_5001021_1,61001_5001023_1,11001_1001_100	2814	65	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_xialuotelingling.png	battle/jingjichang.png	1	0	0	0
+2815	28	女神动力14	1	3	10	123650	70655	61001_5002801_1	2815	65	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_duofolangmingge.png	battle/jingjichang.png	1	0	0	0
+2816	28	女神动力15	2	5	5	142110	103353	61001_1505003_1	2816	66	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_diyamandi.png	battle/jingjichang.png	1	0	0	0
+2901	29	女神逍遥	0	1	999	97470	38988	0	2901	63	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_yuzushou.png	battle/jingjichang.png	1	0	0	0
+2902	29	女神逍遥1	0	1	999	98090	39234	0	2902	63	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_leiou.png	battle/jingjichang.png	1	0	0	0
+2903	29	女神逍遥2	0	1	999	98690	39474	0	2903	63	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_yuzushou.png	battle/jingjichang.png	1	0	0	0
+2904	29	女神逍遥3	0	1	999	99290	39720	0	2904	63	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_qingjiao.png	battle/jingjichang.png	1	0	0	0
+2905	29	女神逍遥4	0	1	999	99900	39960	0	2905	63	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_shengwu2.png	battle/jingjichang.png	1	0	0	0
+2906	29	女神逍遥5	1	2	10	117270	67013	11001_1002_290000,11001_1001_100	2906	64	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_leiou.png	battle/jingjichang.png	1	0	0	0
+2907	29	女神逍遥6	0	1	999	101120	40446	0	2907	64	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_ziluolan.png	battle/jingjichang.png	1	0	0	0
+2908	29	女神逍遥7	0	1	999	101729	40692	0	2908	64	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_zefa.png	battle/jingjichang.png	1	0	0	0
+2909	29	女神逍遥8	0	1	999	102329	40932	0	2909	64	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_qingjiao.png	battle/jingjichang.png	1	0	0	0
+2910	29	女神逍遥9	0	1	999	2950	41178	0	2910	64	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_qingjiao.png	battle/jingjichang.png	1	0	0	0
+2911	29	女神逍遥10	0	1	999	103550	41418	0	2911	64	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_qiaola.png	battle/jingjichang.png	1	0	0	0
+2912	29	女神逍遥11	1	3	10	121520	69438	61001_5001023_1,61001_5001021_1,11001_1001_100	2912	65	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_duofolangmingge.png	battle/jingjichang.png	1	0	0	0
+2913	29	女神逍遥12	1	3	10	122220	69840	61001_5001022_1,61001_5001021_1,11001_1001_100	2913	65	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_duofolangmingge.png	battle/jingjichang.png	1	0	0	0
+2914	29	女神逍遥13	1	3	10	122940	70253	61001_5001021_1,61001_5001023_1,11001_1001_100	2914	65	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_xialuotelingling.png	battle/jingjichang.png	1	0	0	0
+2915	29	女神逍遥14	1	3	10	123650	70655	61001_5002901_1	2915	65	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_duofolangmingge.png	battle/jingjichang.png	1	0	0	0
+2916	29	女神逍遥15	2	5	5	142110	103353	61001_1505003_1	2916	66	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_diyamandi.png	battle/jingjichang.png	1	0	0	0
+3001	30	女神海皇	0	1	999	97470	38988	0	3001	63	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_yuzushou.png	battle/jingjichang.png	1	0	0	0
+3002	30	女神海皇1	0	1	999	98090	39234	0	3002	63	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_leiou.png	battle/jingjichang.png	1	0	0	0
+3003	30	女神海皇2	0	1	999	98690	39474	0	3003	63	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_yuzushou.png	battle/jingjichang.png	1	0	0	0
+3004	30	女神海皇3	0	1	999	99300	39720	0	3004	63	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_qingjiao.png	battle/jingjichang.png	1	0	0	0
+3005	30	女神海皇4	0	1	999	99900	39960	0	3005	63	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_shengwu2.png	battle/jingjichang.png	1	0	0	0
+3006	30	女神海皇5	1	2	10	117270	67013	11001_1002_300000,11001_1001_200	3006	64	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_leiou.png	battle/jingjichang.png	1	0	0	0
+3007	30	女神海皇6	0	1	999	101120	40446	0	3007	64	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_ziluolan.png	battle/jingjichang.png	1	0	0	0
+3008	30	女神海皇7	0	1	999	101730	40692	0	3008	64	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_zefa.png	battle/jingjichang.png	1	0	0	0
+3009	30	女神海皇8	0	1	999	102330	40932	0	3009	64	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_qingjiao.png	battle/jingjichang.png	1	0	0	0
+3010	30	女神海皇9	0	1	999	3050	41178	0	3010	64	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_qingjiao.png	battle/jingjichang.png	1	0	0	0
+3011	30	女神海皇10	0	1	999	103550	41418	0	3011	64	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_qiaola.png	battle/jingjichang.png	1	0	0	0
+3012	30	女神海皇11	1	3	10	121520	69438	61001_5001023_1,61001_5001021_1,11001_1001_200	3012	65	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_duofolangmingge.png	battle/jingjichang.png	1	0	0	0
+3013	30	女神海皇12	1	3	10	122220	69840	61001_5001022_1,61001_5001021_1,11001_1001_200	3013	65	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_duofolangmingge.png	battle/jingjichang.png	1	0	0	0
+3014	30	女神海皇13	1	3	10	122940	70253	61001_5001021_1,61001_5001023_1,11001_1001_200	3014	65	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_xialuotelingling.png	battle/jingjichang.png	1	0	0	0
+3015	30	女神海皇14	1	3	10	123650	70655	61001_5003001_1	3015	65	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_duofolangmingge.png	battle/jingjichang.png	1	0	0	0
+3016	30	女神海皇15	2	5	5	142110	103353	61001_1505003_1	3016	66	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_diyamandi.png	battle/jingjichang.png	1	0	0	0
+100101	1001	酒馆滋事	0	1	10	120	48	0	100101	1	本来宁静而充满欢乐的小镇酒馆，闯进一群山贼，并因为没有了美酒而与海贼们产生了争执……	members/head_char_shanzei.png	battle/maoxianliming.png	1	0	0	106
+100102	1001	破碎美酒	0	1	5	150	85	0	100102	1	作为头号通缉犯的山贼首领，并不接受红发船长赠酒的好意，而是粗暴的将酒瓶砸向了他……	members/head_char_shanzeitoumu.png	battle/maoxianliming.png	1	0	0	0
+100103	1001	再次挑衅	0	1	10	130	54	0	100103	1	山贼们扬长而去，红发海贼们却毫不在意，依旧出海了。直到有一天，山贼们再次来到酒馆……	members/head_char_shanzei.png	battle/maoxianliming.png	1	0	0	0
+100104	1001	山贼喽啰	0	1	10	130	54	0	100104	1	返航的红发海贼们，恰巧碰到即将抓人离去的山贼，一场战斗就此展开了。	members/head_char_shanzei.png	battle/maoxianliming.png	1	0	0	0
+100105	1001	西格首领	0	1	10	130	54	0	100105	1	混战中，西格首领见势不妙，挟持少年落荒而逃，驾着小船驶向大海。	members/head_char_xige.png	battle/maoxianliming.png	1	0	0	0
+100106	1001	近海王兽	2	1	3	210	153	0	100106	2	海王来袭。千钧一发之际，一道身影在少年身前化解了危机。只是，红发从此失去了一只手臂。	members/head_char_elong.png	battle/maoxianliming.png	1	0	0	0
+100201	1002	陌生海岛	0	1	10	130	54	0	100201	2	一群海贼捞起木桶，以为是装满了美酒，兴冲冲的准备打开，木桶却从里面被打破了……	members/head_char_haidao1.png	battle/yingjiusuolong.png	1	0	0	207
+100202	1002	初遇海贼	0	1	10	150	60	0	100202	2	巨大的响动引起一阵骚乱，木桶也被打飞，旁边还跟着一个戴眼镜的小矮子——克比。	members/head_char_haidao1.png	battle/yingjiusuolong.png	1	0	0	0
+100203	1002	铁棒	1	1	5	190	112	0	100203	2	了解到克比希望加入海军的梦想，你决定帮助他，不过要先去解决束缚着她的亚尔丽塔船长。	members/head_char_yaerlita.png	battle/yingjiusuolong.png	1	0	0	0
+100204	1002	捆绑的猎人	0	1	10	150	60	0	100204	2	来到海军基地所在的小镇上，广场中央正绑着一名海贼猎人，似乎名气还蛮大的。	members/head_char_haijun1.png	battle/yingjiusuolong.png	1	0	0	0
+100205	1002	擅自决定	0	1	10	160	66	0	100205	3	真是个顽强的家伙，无论如何，都要把他拉到自己的船上！	members/head_char_haijun1.png	battle/yingjiusuolong.png	1	0	0	0
+100206	1002	取回武器	1	1	5	220	129	0	100206	3	他最宝贵的武器被海军收走了，看来只能先帮他取回来才能采取下一步行动，冲向海军基地吧！	members/head_char_beilumeibo.png	battle/yingjiusuolong.png	1	0	0	0
+100207	1002	营救索隆	2	1	3	300	219	0	100207	3	蒙卡上校竟然追到了广场，先将索隆的绳索砍断吧，然后再来对付他。	members/head_char_mengka.png	battle/yingjiusuolong.png	1	0	0	0
+100301	1003	美女小偷	0	1	10	160	66	0	100301	3	站在四周的海贼在短暂的错愕之后，围了上来，显然不像是在欢迎你，那么动手吧……	members/head_char_haidao2.png	battle/xiaozeimao.png	1	0	0	309
+100302	1003	联手合作	0	1	10	180	72	0	100302	3	女孩叫娜美，是一名专偷海贼的小偷，她的下一个目标就是巴基海贼团，你是否要跟她合作呢？	members/head_char_haidao2.png	battle/xiaozeimao.png	1	0	0	0
+100303	1003	巴基海贼团	0	1	10	190	78	0	100303	3	娜美说的合作竟然是把你绑起来扔进囚笼，关键时刻，索隆终于赶到，战斗开始了。	members/head_char_haidao2.png	battle/xiaozeimao.png	1	0	0	0
+100304	1003	猛兽秀	1	1	5	250	147	0	100304	4	哎？这个头戴古怪头套的家伙是干啥的？哈哈，他竟然帮你打破了囚笼！	members/head_char_moqi.png	battle/xiaozeimao.png	1	0	0	0
+100305	1003	巴基炮弹	0	1	10	190	78	0	100305	4	得知摩奇被打败，气急败坏的巴基准备用巴基炮弹摧毁小镇，必须阻止他！	members/head_char_haidao3.png	battle/xiaozeimao.png	1	0	0	0
+100306	1003	勇气之心	0	1	10	190	78	0	100306	4	在小狗秀秀的勇气感召下，村长终于下定决心，挑战巴基，保卫小镇，去帮他把。	members/head_char_haidao3.png	battle/xiaozeimao.png	1	0	0	0
+100307	1003	反击开始	0	1	10	220	90	0	100307	4	反击终于开始了，不断的有村民赶来，绝对不能输！	members/head_char_haidao3.png	battle/xiaozeimao.png	1	0	0	0
+100308	1003	杂耍参谋	1	1	5	280	163	0	100308	4	又出现一个骑着独轮车，嘴里喷火的怪家伙，是从马戏团出来的么？	members/head_char_kabaji.png	battle/xiaozeimao.png	1	0	0	0
+100309	1003	四分五裂	2	1	3	390	285	0	100309	5	红鼻子，不要打扰索隆的决斗，来进行1V1的战斗吧。	members/head_char_baji.png	battle/xiaozeimao.png	1	0	0	0
+100401	1004	小鬼的骚扰	0	1	10	220	90	0	100401	5	刚刚靠岸，就碰到一群潜伏在树丛中的小鬼，他们拿着弹弓与木剑，是要发动进攻么？	members/head_char_xiaohai1.png	battle/jujizhiwang.png	1	0	0	410
+100402	1004	谎言与真实	0	1	10	220	90	0	100402	5	这个长鼻子的家伙真是有趣，拉他入伙吧！只是他牵挂着大宅子里的可雅，一起跟去看看。	members/head_char_zhuangyuanshouwei.png	battle/jujizhiwang.png	1	0	0	0
+100403	1004	教训	0	1	10	240	96	0	100403	5	这个庄园的管家真是个大混蛋，丝毫不知道尊重他人，看来必须教训他一下。	members/head_char_zhuangyuanshouwei.png	battle/jujizhiwang.png	1	0	0	0
+100404	1004	催眠大师	1	1	5	310	180	0	100404	6	被可雅赶来出来，却无意中发现一个倒着走的怪人，形迹可疑的徘徊在庄园附近。	members/head_char_zangao.png	battle/jujizhiwang.png	1	0	0	0
+100405	1004	巨大阴谋	0	1	10	240	96	0	100405	6	跟踪上去，发现催眠师竟然与管家悄悄碰面，商量着暗杀可雅小姐！	members/head_char_haidao4.png	battle/jujizhiwang.png	1	0	0	0
+100406	1004	原形毕露	0	1	10	250	102	0	100406	6	想不到管家竟然是大名鼎鼎的克洛船长，他企图制造海贼抢掠的假象，从而获得整个庄园。	members/head_char_haidao4.png	battle/jujizhiwang.png	1	0	0	0
+100407	1004	黑猫海贼团	0	1	10	270	108	0	100407	6	黑猫海贼团已经登岸，村民们不相信乌索普的话，只有靠你来阻止他们了。	members/head_char_haidao4.png	battle/jujizhiwang.png	1	0	0	0
+100408	1004	猫人兄弟一	1	1	5	370	214	0	100408	6	拆下了黑猫海贼船的船头，不料惊动了船上的猫人兄弟，似乎周围的海贼都很怕他们。	members/head_char_buzhi.png	battle/jujizhiwang.png	1	0	0	0
+100409	1004	猫人兄弟二	1	1	5	370	214	0	100409	7	击败了猫人兄弟中的其中一人，剩下的一个也要尽快解决才行。	members/head_char_shanmu.png	battle/jujizhiwang.png	1	0	0	0
+100410	1004	智多星	2	1	3	490	360	0	100410	7	被可雅听到亲口吐露的阴谋，克洛仍毫无悔改之心，将他打飞吧！	members/head_char_keluo.png	battle/jujizhiwang.png	1	0	0	0
+100501	1005	海上餐厅	0	1	10	390	156	0	100501	7	听说在海上有一艘海船，拥有最好的厨师，人们称之为海上西餐厅，何不前去看看呢？	members/head_char_chushi1.png	battle/heijiaochushi.png	1	0	0	510
+100502	1005	厨师争斗	0	1	10	400	162	0	100502	7	刚一来到，就碰到两名厨师在大声争吵，那个卷眉毛叫香吉士么？看来是名很好的厨师呢。	members/head_char_chushi1.png	battle/heijiaochushi.png	1	0	0	0
+100503	1005	不速之客	0	1	10	430	174	0	100503	7	一个海贼被救上船来，狼吞虎咽吃着食物，只是这个叫阿金的海贼后面，跟来一群不速之客。	members/head_char_chushi2.png	battle/heijiaochushi.png	1	0	0	0
+100504	1005	鹰眼的试炼	1	1	5	550	318	0	100504	7	黑刀乱刃，鹰一般的眼神，站在剑客之路顶点之人，为了大剑豪之名，索隆发起了挑战。	members/head_char_yingyan.png	battle/heijiaochushi.png	1	0	0	0
+100505	1005	东海霸者	0	1	10	520	210	0	100505	7	索隆仍有一口气在，而海贼团趁机登上了船，他们自称是东海的霸者——克里克海贼团。	members/head_char_haidao5.png	battle/heijiaochushi.png	1	0	0	0
+100506	1005	恩将仇报	0	1	10	550	222	0	100506	7	克里克海贼团在遭受鹰眼重创后，落荒而逃，酒足饭饱后，开始打起海上餐厅的主意来。	members/head_char_haidao5.png	battle/heijiaochushi.png	1	0	0	0
+100507	1005	大混战	0	1	10	550	222	0	100507	7	随着克里克抢夺海上餐厅的命令下达，厨师们开始奋起反击，一场混战愈演愈烈。	members/head_char_haidao5.png	battle/heijiaochushi.png	1	0	0	0
+100508	1005	铜墙铁壁	1	1	5	670	387	0	100508	8	61战毫发无伤的巴拉，拥有铁壁称号的海贼正式登场，可为啥他会流鼻血……	members/head_char_bala.png	battle/heijiaochushi.png	1	0	0	0
+100509	1005	鬼人登场	1	1	5	670	387	0	100509	8	阿金为了报答一饭之恩，击碎了铁壁，并向首领克里克提出要亲自结束这场战斗。	members/head_char_jin.png	battle/heijiaochushi.png	1	0	0	0
+100510	1005	海贼提督	2	1	3	760	556	61001_1505001_2,11001_1001_500	100510	8	阿金不忍下手，愤怒的克里克放出毒气。看着将面罩交给香吉士的阿金倒下，怒火在不断燃烧。	members/head_char_kelike.png	battle/heijiaochushi.png	1	0	0	0
+100601	1006	可可西亚村	0	1	10	580	234	0	100601	8	来到阿龙统治的小镇，立刻就碰到一群鱼人的袭击，不由分说，先打倒他们吧。	members/head_char_yuren1.png	battle/elonglingyu.png	1	0	0	612
+100602	1006	恶龙喽啰	0	1	10	580	234	0	100602	8	糟糕，索隆还被绑在船上，这下子恐怕直接被带到阿龙的老巢里了。真是一群恼人的小喽啰啊。	members/head_char_yuren1.png	battle/elonglingyu.png	1	0	0	0
+100603	1006	恶龙前哨	0	1	10	600	240	0	100603	8	阿龙似乎对索隆不以为意，但听到仍有同伙逃走进入小镇，决定亲自处理这件事情……	members/head_char_yuren1.png	battle/elonglingyu.png	1	0	0	0
+100604	1006	逃脱	0	1	10	610	246	0	100604	8	趁着阿龙前往小镇，索隆挣脱了绳索，成功反客为主，等待阿龙的归来。	members/head_char_yuren1.png	battle/elonglingyu.png	1	0	0	0
+100605	1006	小八	1	1	5	730	420	11001_1002_300000,11001_1001_500	100605	9	嗯？这只章鱼竟然也是一名剑客，但似乎脑子不太灵光，把索隆当成了来拜访的客人……	members/head_char_xiaoba.png	battle/elonglingyu.png	1	0	0	0
+100606	1006	重返领域	0	1	10	640	258	0	100606	9	得知阿龙以全镇居民姓名为要挟，逼迫娜美为其绘制航海图的恶行后，一定要将娜美救出来。	members/head_char_yuren2.png	battle/elonglingyu.png	1	0	0	0
+100607	1006	轰击大门	0	1	10	670	270	0	100607	9	直接冲向恶龙领域，只是有一扇坚固的大门挡住了去路，轰破它吧！	members/head_char_yuren2.png	battle/elonglingyu.png	1	0	0	0
+100608	1006	恶龙守卫	0	1	10	690	276	0	100608	9	闻声而至的恶龙守卫们，纷纷拔刀相向，击败他们才能继续前行。	members/head_char_yuren2.png	battle/elonglingyu.png	1	0	0	0
+100609	1006	恶龙战斗员	0	1	10	720	288	0	100609	9	几名衣着光鲜的鱼人也加入了战斗，似乎比前面的小喽啰要强不少呢，只是还是不够看的！	members/head_char_yuren2.png	battle/elonglingyu.png	1	0	0	0
+100610	1006	接吻鱼人	1	1	5	840	480	0	100610	9	这家伙的嘴真奇怪，是接吻鱼人么？	members/head_char_jiu.png	battle/elonglingyu.png	1	0	0	0
+100611	1006	软骨鱼人	1	1	5	840	480	61001_3002002_2,11001_1001_500	100611	10	借助水域的优势，克罗欧比将香吉士逼入险境，快想办法解决他！	members/head_char_keluooubi.png	battle/elonglingyu.png	1	0	0	0
+100612	1006	锯齿鲨鱼	2	1	3	970	709	61001_1505001_2,11001_1001_500	100612	10	终于见到了阿龙，看着哭泣的娜美，你大声喊出：不许弄哭我的航海士！战斗吧！	members/head_char_along.png	battle/elonglingyu.png	1	0	0	0
+100701	1007	罗格镇	0	1	10	730	294	0	100701	10	这就是海贼王罗杰出生与被处死的城镇么？好好逛一下吧，但到哪都摆脱不了海贼挑衅的麻烦。	members/head_char_haidao3.png	battle/zhongyushi.png	1	0	0	712
+100702	1007	小镇骚乱	0	1	10	730	294	0	100702	10	当年的处刑台前聚集了一堆的人，真是热闹，快去看看。	members/head_char_haidao3.png	battle/zhongyushi.png	1	0	0	0
+100703	1007	处刑台前	0	1	10	750	300	0	100703	10	这就是海贼王看到的景色？站在高台上，望着下面涌动的人流，有一些熟悉的身影渐渐浮现。	members/head_char_haidao3.png	battle/zhongyushi.png	1	0	0	0
+100704	1007	冤家路窄	0	1	10	780	312	0	100704	10	糟糕，被刑台铐住，无法动弹了，好像要被砍了呢……	members/head_char_haidao3.png	battle/zhongyushi.png	1	0	0	0
+100705	1007	行刑者	1	2	5	930	532	11001_1002_300000,11001_1001_500	100705	11	巴基迫不及待的跳上高台，想亲自进行处刑。闪电落下，击中了巴基，果然还是活下来了呀。	members/head_char_baji.png	battle/zhongyushi.png	1	0	0	0
+100706	1007	海军赶到	0	1	10	820	330	0	100706	11	海军似乎赶来了，还是趁着大雨，快些逃走吧，可不能在进入伟大航路前就被抓住呢。	members/head_char_haijun2.png	battle/zhongyushi.png	1	0	0	0
+100707	1007	大混战	0	1	10	850	342	0	100707	11	看来所有的海贼都成了被抓捕的对象，巴基他们也不例外，真是一场混乱的战斗。	members/head_char_haijun2.png	battle/zhongyushi.png	1	0	0	0
+100708	1007	抓捕	0	1	10	900	360	0	100708	11	喔唷，巴基他们竟然被抓住了，看来要加快速度了。	members/head_char_haijun2.png	battle/zhongyushi.png	1	0	0	0
+100709	1007	冲向港湾	0	1	10	910	366	0	100709	11	逃过下一个小巷，就可以看到海港了，快跑！	members/head_char_haijun2.png	battle/zhongyushi.png	1	0	0	0
+100710	1007	女剑士	1	2	5	1090	627	0	100710	12	这里有一个女剑士挡住了去路，她也是海军么？既然是剑士，那就交给索隆吧。	members/head_char_dasiqi.png	battle/zhongyushi.png	1	0	0	0
+100711	1007	白色猎人	1	2	5	1120	643	61001_3001004_3,11001_1001_500	100711	12	这是什么，好大的烟雾，是恶魔果实的能力么？必须赶快找到方向，不能继续纠缠下去了。	members/head_char_simoge.png	battle/zhongyushi.png	1	0	0	0
+100712	1007	颠倒山	2	4	3	1320	960	42002_44_1,11001_1001_500	100712	13	登上梅利号了，已经看到导引灯了，抛下木桶来个下水典礼，庆祝即将迈入伟大航路吧！	members/head_char_labu.png	battle/zhongyushi.png	1	0	0	0
+100801	1008	抵达海岸	0	1	10	1020	408	0	100801	13	似乎听到了人的声音，摆脱迷雾，就能靠岸了。	members/head_char_jumin.png	battle/weishijishan.png	1	0	0	813
+100802	1008	欢迎之城	0	1	10	1050	420	0	100802	13	海贼来到这里不但没有引起恐慌，还受到热烈欢迎，真是不可思议！	members/head_char_jumin.png	battle/weishijishan.png	1	0	0	0
+100803	1008	疯狂酒宴	0	1	10	1080	432	0	100803	13	在镇长的盛情邀请下，一场庞大的欢迎宴会即将举行，只是这种热情有些过头了吧？	members/head_char_jumin.png	battle/weishijishan.png	1	0	0	0
+100804	1008	月光与墓碑	0	1	10	1090	438	0	100804	13	狂欢过后，醉倒的众人静静躺在皎洁的月光之下，潜藏的恶魔露出獠牙，今夜这里将变成墓地。	members/head_char_jumin.png	battle/weishijishan.png	1	0	0	0
+100805	1008	星期三	1	2	5	1300	747	11001_1002_300000,11001_1001_500	100805	14	果然这是一个陷阱，赏金猎人组成的庞大组织，想将来到伟大航路的海贼们一网打尽。	members/head_char_wednesday.png	battle/weishijishan.png	1	0	0	0
+100806	1008	大闹一场	0	1	10	1140	456	0	100806	14	既然明白了阴谋，就无需留守，在伟大航路的第一站，闹个天翻地覆吧。	members/head_char_shangjinlieren1.png	battle/weishijishan.png	1	0	0	0
+100807	1008	索隆的表演	0	1	10	1170	468	0	100807	14	这似乎成了索隆的表演专场，这些三流的赏金猎人，一一倒下。	members/head_char_shangjinlieren1.png	battle/weishijishan.png	1	0	0	0
+100808	1008	以一敌百	0	1	10	1180	474	0	100808	14	1V100，完全无法进行有效的反击，完胜！	members/head_char_shangjinlieren1.png	battle/weishijishan.png	1	0	0	0
+100809	1008	无眠之夜	0	1	10	1200	480	0	100809	14	注定无法入眠的一夜，即便是巴洛克工作社的成员，也无法忘记今天的梦魇。	members/head_char_shangjinlieren1.png	battle/weishijishan.png	1	0	0	0
+100810	1008	秘密组织	1	2	5	1420	814	61001_3001004_5,11001_1001_500	100810	14	想不到这个镇的镇长也是巴洛克工作社的成员，亲自导演了今晚的闹剧。	members/head_char_mr8.png	battle/weishijishan.png	1	0	0	0
+100811	1008	身份泄露	0	1	10	1210	486	0	100811	14	新敌人切入战局，带来一个消息——Miss.Wednesday竟是阿拉巴斯坦王国公主！	members/head_char_jumin.png	battle/weishijishan.png	1	0	0	0
+100812	1008	一万公斤	1	2	5	1420	814	61001_2501001_1,11001_1001_500	100812	15	原来薇薇公主潜入工作社，是想了解敌人内部的秘密，解救王国。但是现在，秘密暴露了……	members/head_char_valentine.png	battle/weishijishan.png	1	0	0	0
+100813	1008	爆爆果实	2	4	3	1650	1200	61001_2501001_1,11001_1001_500	100813	15	受到公主忠心侍卫的嘱托，决定护送公主回国，把阻挡在眼前的敌人统统击败，履行承诺吧。	members/head_char_mr5.png	battle/weishijishan.png	1	0	0	0
+100901	1009	古老岛屿	0	1	10	1230	492	0	100901	15	这座被称为小花园的小岛，是连巴洛克工作社成员都未曾探知的岛屿，不知道里面有什么危险。	members/head_char_konglong1.png	battle/xiaohuayuan.png	1	0	0	914
+100902	1009	原始丛林	0	1	10	1230	492	0	100902	15	想不到这个岛屿上，充斥的竟然是十分古老的植物，难道这是一座远古时期遗存下来的岛屿么？	members/head_char_konglong1.png	battle/xiaohuayuan.png	1	0	0	0
+100903	1009	竞赛	0	1	10	1240	498	0	100903	15	香吉士需要准备晚餐了，去弄些猎物回来吧，比一下看谁在日落前，能弄到更多的肉！	members/head_char_konglong1.png	battle/xiaohuayuan.png	1	0	0	0
+100904	1009	狩猎开始	0	1	10	1260	504	0	100904	15	狩猎正式开始了，四处逛逛，看看有什么猎物。	members/head_char_konglong1.png	battle/xiaohuayuan.png	1	0	0	0
+100905	1009	远古恐龙	0	1	10	1330	534	0	100905	15	好多恐龙！这真是一个神奇的岛屿，一展身手吧。	members/head_char_konglong2.png	battle/xiaohuayuan.png	1	0	0	0
+100906	1009	爆炸的酒	1	2	5	1630	934	61001_3002002_3,11001_1001_500	100906	17	将随身携带的美酒赠予巨人，不料从他的肚子里传出一阵爆炸声，这下可有解释不清的误会了。	members/head_char_dongli.png	battle/xiaohuayuan.png	1	0	0	0
+100907	1009	约战	0	1	10	1480	594	0	100907	17	与愤怒的巨人经过短暂交锋，忽然传来一阵奇怪的吼叫声，原来是岛上另一个巨人的约战信号！	members/head_char_konglong2.png	battle/xiaohuayuan.png	1	0	0	0
+100908	1009	隐藏的敌人	0	1	10	1540	618	0	100908	17	巨人不顾伤势，毅然决然的奔向约战地点，到底是谁，在暗中卑鄙的炸伤了巨人大叔？！	members/head_char_konglong2.png	battle/xiaohuayuan.png	1	0	0	0
+100909	1009	汇合	0	1	10	1630	654	0	100909	17	抓紧时间与另外的船员汇合，才知道一场大战即将开始，必须尽快去阻止他们。	members/head_char_konglong2.png	battle/xiaohuayuan.png	1	0	0	0
+100910	1009	娜美失踪	0	1	10	1720	690	0	100910	17	突然发现娜美不见了，她是迷路了，还是发生了其它事情？在附近搜寻一下吧，当心那些猛兽！	members/head_char_konglong2.png	battle/xiaohuayuan.png	1	0	0	0
+100911	1009	晚了一步	0	1	10	1780	714	0	100911	17	快赶去将巨人东利受伤的事情告诉布洛基。但最终还是晚了一步，东利已经倒在了地上。	members/head_char_konglong2.png	battle/xiaohuayuan.png	1	0	0	0
+100912	1009	敌人现身	1	2	5	2170	1243	61001_1505001_1,11001_1001_500	100912	18	当布洛基以复杂的心态迎接胜利时，导致东利受伤的幕后黑手现身，又是巴洛克工作社成员！	members/head_char_mr5.png	battle/xiaohuayuan.png	1	0	0	0
+100913	1009	真相大白	0	1	10	1870	750	0	100913	18	在东利喝的美酒中加入炸药，又使用蜡烛让东利脚下打滑战败，使得知真相的布洛基悲愤莫名。	members/head_char_mr5.png	battle/xiaohuayuan.png	1	0	0	0
+100914	1009	蜡烛盛宴	2	4	3	2490	1812	61001_1502001_30,11001_1001_500	100914	19	该死的蜡烛人弄出巨大的蜡烛盛宴，在场的所有人即将变成蜡像，快去打掉南瓜头蜡烛！	members/head_char_mr3.png	battle/xiaohuayuan.png	1	0	0	0
+101001	1010	冰雪岛屿	0	1	10	1890	756	0	101001	19	前面有一座岛屿，完完全全被冰雪覆盖，应该就是伟大航路独有的四类岛屿中的冬之岛了。	members/head_char_jumin1.png	battle/dongzhidao.png	1	0	0	1015
+101002	1010	无名之国	0	1	10	1890	756	0	101002	19	还未靠岸，就遭到了岛上居民的喝止，似乎他们对于海贼抱有极大的敌意。	members/head_char_jumin1.png	battle/dongzhidao.png	1	0	0	0
+101003	1010	开枪了	0	1	10	1890	756	0	101003	19	当薇薇公主试图以和平方式登陆海岛时，岛上的居民居然开枪了！这群混蛋……	members/head_char_jumin1.png	battle/dongzhidao.png	1	0	0	0
+101004	1010	登上岛屿	0	1	10	1890	756	0	101004	19	单纯靠武力是无法解决所有问题的，惹恼了村民，娜美的病就无人医治了。	members/head_char_jumin1.png	battle/dongzhidao.png	1	0	0	0
+101005	1010	魔女传说	0	1	10	1920	768	0	101005	19	进入村子之后，得知这里唯一的医生，是一名性情古怪的医娘，要想治病只能去请她了。	members/head_char_jumin1.png	battle/dongzhidao.png	1	0	0	0
+101006	1010	磁鼓山	1	2	5	2290	1312	11001_1002_30000,11001_1001_500	101006	20	向磁鼓山进发，听说山上有很多奇异的生物，比如说……眼前的这只庞大的兔子。	members/head_char_tuzi.png	battle/dongzhidao.png	1	0	0	0
+101007	1010	攀登雪山	0	1	10	2020	810	0	101007	20	真是一座高大的山峰，一路走去，总感觉有什么东西在偷偷窥视着你们。	members/head_char_tuzi.png	battle/dongzhidao.png	1	0	0	0
+101008	1010	白色身影	0	1	10	2050	822	0	101008	20	在留心观察了许久之后，发现在白茫茫的雪原上，有一些白色的身影不断起伏，那是什么？	members/head_char_tuzi.png	battle/dongzhidao.png	1	0	0	0
+101009	1010	肉食兔	0	1	10	2100	840	0	101009	20	我的天，竟然是一群肉食兔，虽然一只兔子的攻击力并不算什么，但是这么一大群……	members/head_char_tuzi.png	battle/dongzhidao.png	1	0	0	0
+101010	1010	逃向山顶	0	1	10	2160	864	0	101010	20	经过短暂纠缠，越来越多的肉食兔正在聚集，时间紧迫，还是尽快打开一个缺口，冲到山顶。	members/head_char_tuzi.png	battle/dongzhidao.png	1	0	0	0
+101011	1010	打开大门	0	1	10	2910	1164	0	101011	20	来到山顶之后，城堡的大门紧闭，跑过去敲开大门吧。	members/head_char_tuzi.png	battle/dongzhidao.png	1	0	0	0
+101012	1010	奇怪生物	1	2	5	4560	2607	61001_3001003_5,11001_1001_500	101012	21	终于来到山顶，碰到一个似人似鹿奇怪的生物。他是吃了人人果实的驯鹿，跟随医娘学习医术。	members/head_char_qiaoba.png	battle/dongzhidao.png	1	0	0	0
+101013	1010	他回来了	0	1	10	3910	1566	0	101013	21	体力逐渐回复，娜美病情也变得稳定，但是乔巴突然紧张起来，似乎是有仇敌回来了。	members/head_char_haidao6.png	battle/dongzhidao.png	1	0	0	0
+101014	1010	神射手	1	2	5	4600	2632	41003_67_1,11001_1001_500	101014	22	原来是谋害了乔巴唯一的朋友兼养父的仇敌，原磁鼓国国王重新回到了这里。	members/head_char_jiesi.png	battle/dongzhidao.png	1	0	0	0
+101015	1010	磁鼓国王	2	4	3	5280	3840	61001_1505002_1,11001_1001_500	101015	22	这个吃生铁的家伙，不就是在船上被打飞的人么？看来有必要再一次把他打飞！	members/head_char_waboer.png	battle/dongzhidao.png	1	0	0	0
+101101	1011	炎热沙漠	0	1	10	3990	1596	0	101101	22	来到沙漠王国后，炎热天气让大家难以忍受，偏偏这时又被海军认了出来，打败他们离开这里。	members/head_char_haijun2.png	battle/shamowangguo.png	1	0	0	1115
+101102	1011	行李丢失	0	1	10	4000	1602	0	101102	22	采购完食物，薇薇公主决定穿越沙漠，说服叛军。沙漠中存在着各种危险的野兽，务必小心。	members/head_char_xiyi.png	battle/shamowangguo.png	1	0	0	0
+101103	1011	沙暴来袭	0	1	10	4030	1614	0	101103	22	因为沙漠蜥蜴的骚扰，而丢失了行李，使得前进变得更加困难。偏偏此时又遇到了巨大的沙暴。	members/head_char_xiyi.png	battle/shamowangguo.png	1	0	0	0
+101104	1011	埋葬绿洲	0	1	10	4050	1620	0	101104	22	来到尤巴，原先的绿洲已经被一片荒漠掩埋，叛军也迁移到别处，只有继续前行了。	members/head_char_xiyi.png	battle/shamowangguo.png	1	0	0	0
+101105	1011	敌人来袭	0	1	10	4120	1650	0	101105	22	为了能尽快解救这个王国，必须分头行动，你将带领伙伴们直接向雨城进发，击败克罗克达尔。	members/head_char_jumin.png	battle/shamowangguo.png	1	0	0	0
+101106	1011	夺取钥匙	1	2	5	4920	2812	11001_1002_50000,11001_1001_500	101106	23	来到克罗克达尔的赌场，却落入了陷阱，被囚禁牢笼，钥匙被大砂鳄吞掉了，击败它拿回钥匙。	members/head_char_dashae.png	battle/shamowangguo.png	1	0	0	0
+101107	1011	挣脱囚笼	0	1	10	4300	1722	0	101107	23	从牢笼中逃脱，被克罗克达尔的部下不断追击，尽快摆脱他们。	members/head_char_jumin.png	battle/shamowangguo.png	1	0	0	0
+101108	1011	路遇阻拦	0	1	10	4390	1758	0	101108	23	又一群百万长者挡在路前，没有路可以走了，只有打飞他们才行。	members/head_char_jumin.png	battle/shamowangguo.png	1	0	0	0
+101109	1011	亿万长者	0	1	10	4480	1794	0	101109	23	几名戴墨镜的家伙从侧面围了上来，看样子是更高级的打手，不过这些无法阻拦你前进的步伐。	members/head_char_yiwanzhangzhe.png	battle/shamowangguo.png	1	0	0	0
+101110	1011	冲向首都	0	1	10	4590	1836	0	101110	23	终于冲出赌场来了，要赶在克罗克达尔之前赶往首都，阻止叛军与国王军的冲突才行。	members/head_char_jumin.png	battle/shamowangguo.png	1	0	0	0
+101111	1011	分头行动	0	1	10	4800	1920	0	101111	23	面临重重阻拦，一行人只有再次分开，各自奔赴一个方向，肯定有一人会及时赶到，阻止战争。	members/head_char_jumin.png	battle/shamowangguo.png	1	0	0	0
+101112	1011	鼹鼠与棒球	1	2	5	5880	3360	61001_3002003_5,11001_1001_500	101112	24	这个一直在地下穿行的家伙是什么，鼹鼠么？还有那个拿棒球的家伙，真是一对奇怪的组合。	members/head_char_mr4.png	battle/shamowangguo.png	1	0	0	0
+101113	1011	人妖登场	1	2	5	5970	3412	41003_69_1,11001_1001_500	101113	24	这不是在船上遇到，可以模仿别人模样的有趣家伙么，想不到竟然会成为敌人！	members/head_char_mr2.png	battle/shamowangguo.png	1	0	0	0
+101114	1011	荆棘刀刃	1	2	5	6070	3472	61001_3001004_5,11001_1001_500	101114	25	这里还有一个恶魔果实能力者，竟然可以让身体的各个部分都变成尖刺，真不好对付。	members/head_char_mr1.png	battle/shamowangguo.png	1	0	0	0
+101115	1011	超越	2	4	3	7060	5139	61001_1505002_1,11001_1001_500	101115	25	薇薇赌上了自己的性命去拯救国家，作为同伴，一定要击倒眼前的罪魁祸首——克罗克达尔。	members/head_char_keluokedaer.png	battle/shamowangguo.png	1	0	0	0
+101201	1012	天国之门	0	1	10	5380	2154	0	101201	25	顺着冲上天空的水注，来到云层之上，雄伟的大门正在打开，原来真的存在空岛！	members/head_char_shengwu1.png	battle/kongdao.png	1	0	0	1215
+101202	1012	空中海洋	0	1	10	5460	2184	0	101202	25	不可思议，云彩竟然像海水一样，真是个奇妙的世界，不知道前面会碰到什么更有意思的事情。	members/head_char_shengwu1.png	battle/kongdao.png	1	0	0	0
+101203	1012	空岛特产	0	1	10	5550	2220	0	101203	25	哇！云海里竟然还有生物，好大的乌贼，可是乌贼不是生活在水里么……	members/head_char_shengwu2.png	battle/kongdao.png	1	0	0	0
+101204	1012	奇异鱼类	0	1	10	5670	2268	0	101204	25	呃……还有鱼，连鳞片都长得像羽毛，这就是罗兰度日记上提到的奇妙的空岛鱼吧。	members/head_char_shengwu2.png	battle/kongdao.png	1	0	0	0
+101205	1012	空之骑士	1	2	5	6730	3849	11001_1002_50000,11001_1001_500	101205	26	有个像牛的家伙踩着四角云冲过来了，他竟然在云上奔驰，嚷嚷着要除掉你们，是想打架么？	members/head_char_ganfuer.png	battle/kongdao.png	1	0	0	0
+101206	1012	彩虹迷雾	0	1	10	5890	2358	0	101206	26	想不到空岛上会有“神”的存在，而他派出了一群神兵，以非法入境的罪名，前来抓人。	members/head_char_shenbing1.png	battle/kongdao.png	1	0	0	0
+101207	1012	神之制裁	0	1	10	6000	2400	0	101207	26	被打败的神兵们，再次袭来，并叫嚷着会有神罚降临，真是一群恼人的家伙。	members/head_char_shenbing1.png	battle/kongdao.png	1	0	0	0
+101208	1012	活祭品	0	1	10	6120	2448	0	101208	26	不甘失败的神兵们，趁机将独自在外的娜美掳走，声称要当做祭品，献给神。	members/head_char_shenbing1.png	battle/kongdao.png	1	0	0	0
+101209	1012	目标神岛	0	1	10	6550	2622	0	101209	26	柯妮丝也被天神的惩罚轰击，一定要将她和娜美救出来，向神岛进发吧。	members/head_char_shenbing1.png	battle/kongdao.png	1	0	0	0
+101210	1012	球之试炼	1	2	5	8190	4680	0	101210	27	进入神岛森林后，将面临四大试炼，选择了球之试炼后，迎来了一个肥胖的神官。	members/head_char_shadeli.png	battle/kongdao.png	1	0	0	0
+101211	1012	遭遇战	0	1	10	7530	3012	0	101211	27	击败了球之试炼的神官，继续前进，碰到神兵长带着一群神兵前来拦截。	members/head_char_shenbingduizhang.png	battle/kongdao.png	1	0	0	0
+101212	1012	沼之试练	1	2	5	9400	5374	61001_3002003_5,11001_1001_500	101212	27	接下来碰到沼之试炼的神官，整个区域都变成了沼泽，时间已经不多，必须尽快打倒他。	members/head_char_gaidazi.png	battle/kongdao.png	1	0	0	0
+101213	1012	绳之试炼	1	2	5	10080	5760	61001_3001003_5,11001_1001_500	101213	27	留守的乔巴遭遇到神官之一修罗的袭击，立刻赶去营救他，敌人居然是掌管绳之试炼的神官。	members/head_char_xiula.png	battle/kongdao.png	1	0	0	0
+101214	1012	铁之试炼	1	2	5	10140	5794	61001_3001004_5,11001_1001_500	101214	27	击败了修拉，又遇到持有能够喷出铁云的‘云贝’，变化多端刀具的铁之试炼神官。	members/head_char_omu.png	battle/kongdao.png	1	0	0	0
+101215	1012	遗迹对决	2	4	3	11610	8445	61001_1505002_1,11001_1001_500	101215	28	终于来到神岛祭坛，见到了“神”，原来他也是一名恶魔果实能力者——响雷果实的拥有者。	members/head_char_ainilu.png	battle/kongdao.png	1	0	0	0
+101301	1013	发现岛屿	0	1	10	8760	3504	0	101301	28	整个岛屿像一个戒指，形成一个细长的圆环，其中一部分似乎还淹没在海洋中。	members/head_char_yeshou.png	battle/changhuanchangdao.png	1	0	0	1316
+101302	1013	加长生物	0	1	10	8790	3516	0	101302	28	好厉害，岛上所有的生物都是又细又长。这是腊肠狗么？	members/head_char_yeshou.png	battle/changhuanchangdao.png	1	0	0	0
+101303	1013	竹子？！	0	1	10	8820	3528	0	101303	28	好长的竹子，都已经生长到云端了，而且竟然会自己逃跑！怎么可以输给一根竹子！	members/head_char_yeshou.png	battle/changhuanchangdao.png	1	0	0	0
+101304	1013	踩高跷的人	0	1	10	8860	3546	0	101304	28	竹子断了之后，竟然出现一个白胡子老头，是竹子精灵么？	members/head_char_yeshou.png	battle/changhuanchangdao.png	1	0	0	0
+101305	1013	银狐海贼团	0	1	10	8910	3564	0	101305	28	与此同时，梅利号被另外一艘大船给包围起来，船上跳下来的海贼们，发起了抢人大作战挑战。	members/head_char_haidao4.png	battle/changhuanchangdao.png	1	0	0	0
+101306	1013	环形船赛	1	2	5	10440	5967	11001_1002_50000,11001_1001_500	101306	29	第一场比赛是环形船赛，首先划船绕岛一周到达终点的人，即获得胜利，上吧！	members/head_char_kabodi.png	battle/changhuanchangdao.png	1	0	0	0
+101307	1013	珊瑚礁迷宫	0	1	10	8980	3594	0	101307	29	这群可恶的家伙，竟然一开始就使用暴力，打了个措手不及，快追上去。	members/head_char_haidao4.png	battle/changhuanchangdao.png	1	0	0	0
+101308	1013	长峡角	0	1	10	9030	3612	0	101308	29	绕过长峡角，就完成一半的航行了，继续加油。	members/head_char_haidao4.png	battle/changhuanchangdao.png	1	0	0	0
+101309	1013	假路标	0	1	10	9060	3624	0	101309	29	前面出现了一个右转的指向标，是不是真的需要向右边转呢？	members/head_char_haidao4.png	battle/changhuanchangdao.png	1	0	0	0
+101310	1013	长竹林峡角	0	1	10	9100	3642	0	101310	29	看到长竹林峡角了，通过那里就能看到终点了。	members/head_char_haidao4.png	battle/changhuanchangdao.png	1	0	0	0
+101311	1013	胜利在望	0	1	10	9250	3702	0	101311	29	即将到达终点，胜利在望，但大家突然慢了下来，发生了什么事情？	members/head_char_haidao4.png	battle/changhuanchangdao.png	1	0	0	0
+101312	1013	第一场败北	1	2	5	10960	6267	61001_5001023_1,11001_1001_500	101312	30	太卑鄙了，竟然利用缓慢射线将大家的速度变慢，真不甘心。	members/head_char_mengda.png	battle/changhuanchangdao.png	1	0	0	0
+101313	1013	火爆斗球	1	2	5	11140	6369	61001_5001022_1,11001_1001_500	101313	30	为了营救回输掉的伙伴，第二场火爆斗球，必须要胜利！	members/head_char_hanbao.png	battle/changhuanchangdao.png	1	0	0	0
+101314	1013	暴力比赛	1	2	5	11320	6472	61001_5001021_1,11001_1001_500	101314	30	果然又是充满暴力的比赛，绝不是单纯的竞技，所以放开手脚大打一场吧。	members/head_char_bigepan.png	battle/changhuanchangdao.png	1	0	0	0
+101315	1013	反败为胜	1	2	5	11650	6660	61001_5003002_2,11001_1001_500	101315	30	对方的船员配合十分默契，各种阴谋诡计层出不穷……	members/head_char_pikelusi.png	battle/changhuanchangdao.png	1	0	0	0
+101316	1013	船长对决	2	4	3	13710	9972	61001_1502001_50,11001_1001_500	101316	31	经过千辛万苦，终于取得第二场比赛的胜利，最后一场大决战即将开始。	members/head_char_fukesi.png	battle/changhuanchangdao.png	1	0	0	0
+101401	1014	前往水都	0	1	10	10570	4230	0	101401	31	海上竟然会出现火车，太不可思议了。刚要赶过去看看这趟神奇的列车，却碰到了巨大的海怪。	members/head_char_henggang.png	battle/shuizhiqidu.png	1	0	0	1416
+101402	1014	三亿贝里	0	1	10	10890	4356	0	101402	31	携带着三亿贝里，来到水之都准备维修梅利号。可装满贝里的皮箱却被一群小偷盯上了……	members/head_char_shangjinlieren2.png	battle/shuizhiqidu.png	1	0	0	0
+101403	1014	弗兰奇一家	0	1	10	11200	4482	0	101403	31	经过询问才知道，这货小偷是当地赫赫有名的弗兰奇一家的成员，经常做些偷鸡摸狗的事情。	members/head_char_shangjinlieren2.png	battle/shuizhiqidu.png	1	0	0	0
+101404	1014	消失的皮箱	0	1	10	11250	4500	0	101404	31	沉浸在讨论如何修复梅利号的问题之中，突然发现有两箱子贝里不见了……	members/head_char_shangjinlieren2.png	battle/shuizhiqidu.png	1	0	0	0
+101405	1014	被绑架了	0	1	10	11320	4530	0	101405	31	原来乌索普被弗兰奇一家绑架了，他奋力抵抗，仍然没有夺回被抢走的贝里，还被打成了重伤。	members/head_char_shangjinlieren2.png	battle/shuizhiqidu.png	1	0	0	0
+101406	1014	改造人	1	2	5	13270	7587	11001_1002_50000,11001_1001_500	101406	32	终于抢回了贝里，这群家伙的老大弗兰奇回来后，勃然大怒，亲自前来挑战了。	members/head_char_shangjinlieren2.png	battle/shuizhiqidu.png	1	0	0	0
+101407	1014	栽赃嫁祸	0	1	10	11430	4572	0	101407	32	好不容易解决了与弗兰奇的纠纷，却遭到市政部门发出的通缉令，怎么会变成袭击市长的嫌犯？	members/head_char_gongren.png	battle/shuizhiqidu.png	1	0	0	0
+101408	1014	询问真相	0	1	10	11490	4596	0	101408	32	为了调查清楚事情的真相，洗脱自己的嫌疑，半夜悄悄闯入市长居所，当面问个清楚吧。	members/head_char_bali.png	battle/shuizhiqidu.png	1	0	0	0
+101409	1014	背叛？！	0	1	10	11550	4620	0	101409	32	好大的房子，不知不觉已经迷路了，还引来了一堆船工的追击，快跑！	members/head_char_gongren.png	battle/shuizhiqidu.png	1	0	0	0
+101410	1014	暗杀之夜	0	1	10	11580	4632	0	101410	32	在与船工纠缠的时候，突然传来巨大的响动，顺着声音前行吧，看看发生了什么事情。	members/head_char_gongren.png	battle/shuizhiqidu.png	1	0	0	0
+101411	1014	神秘组织	0	1	10	11590	4638	0	101411	32	赶到市长所在的卧室，发现了一伙披着斗篷的神秘黑衣人，或许他们就是幕后元凶，拦住他们。	members/head_char_gongren.png	battle/shuizhiqidu.png	1	0	0	0
+101412	1014	真面目	1	2	5	13540	7740	61001_5001023_1,11001_1001_500	101412	33	市长身边一直非常信任的伙伴，竟是海军政府秘密组织CP9的成员，他们导演了这次刺杀。	members/head_char_bulunuo.png	battle/shuizhiqidu.png	1	0	0	0
+101413	1014	上古兵器	1	2	5	13590	7767	61001_5001022_1,11001_1001_500	101413	33	为了拿到冥王设计图，他们花费几年时间潜藏在水之都，获得市长信任，终于在今天露出獠牙。	members/head_char_kalifa.png	battle/shuizhiqidu.png	1	0	0	0
+101414	1014	设计图	1	2	5	13740	7852	61001_5001021_1,11001_1001_500	101414	33	发现设计图是假的，推断出真正的设计图在弗兰奇那里。CP9们开始奔赴弗兰奇所在的地点。	members/head_char_kaku.png	battle/shuizhiqidu.png	1	0	0	0
+101415	1014	猫猫果实	1	2	5	13900	7947	61001_5003002_2,11001_1001_500	101415	33	得知弗兰奇是托姆的弟子，掌握着冥王设计图纸，CP9们决定将他一起带回大本营慢慢审问。	members/head_char_bulunuo.png	battle/shuizhiqidu.png	1	0	0	0
+101416	1014	劫持	2	4	3	16080	11695	61001_1502001_50,11001_1001_500	101416	34	尽管知道了对方的阴谋，也明白了罗宾的苦衷，最终还是晚了一步。	members/head_char_luqi.png	battle/shuizhiqidu.png	1	0	0	0
+101501	1015	孤身追踪	0	1	10	12190	4878	0	101501	34	在船上的香吉士，挂念着罗宾的安危，开始一个人展开了营救行动。	members/head_char_heiyi1.png	battle/moguisanjiao.png	1	0	0	1516
+101502	1015	通讯室	0	1	10	12340	4938	0	101502	34	到达通讯室，意外发现了被绑在此处的弗兰奇和乌索普，先救他们出来吧。	members/head_char_jieli.png	battle/moguisanjiao.png	1	0	0	0
+101503	1015	营救计划	0	1	10	12480	4992	0	101503	34	三人经过商议，决定先去营救罗宾，然后再想办法离开这里……	members/head_char_heiyi1.png	battle/moguisanjiao.png	1	0	0	0
+101504	1015	开始行动	0	1	10	12610	5046	0	101504	34	计划已定，大家开始分头行动，先去把敌人引过来，按照计划将他们……	members/head_char_heiyi1.png	battle/moguisanjiao.png	1	0	0	0
+101505	1015	诱敌深入	0	1	10	12760	5106	0	101505	34	越来越多的敌人发现了入侵者，开始朝着最后一节车厢奔来，将他们一网打尽吧。	members/head_char_heiyi1.png	battle/moguisanjiao.png	1	0	0	0
+101506	1015	车厢脱节	1	2	5	15040	8598	11001_1002_100000,11001_1001_500	101506	35	当所有的人赶到最后一节车厢时，抵挡住他们的首领本恩上校，就可以顺利执行计划了！	members/head_char_benen.png	battle/moguisanjiao.png	1	0	0	0
+101507	1015	敌人增援	0	1	10	13050	5220	0	101507	35	将最后一节车厢的海军们封闭在那里，并且断开与前几节车厢的连接后，可以跟他们说再见啦！	members/head_char_heiyi2.png	battle/moguisanjiao.png	1	0	0	0
+101508	1015	车厢混战1	0	1	10	13180	5274	0	101508	35	仍然还有许多海军在其他的车厢，可不能放松，继续前进吧。	members/head_char_heiyi2.png	battle/moguisanjiao.png	1	0	0	0
+101509	1015	车厢混战2	0	1	10	13330	5334	0	101509	35	果然不出所料，更多的海军开始拥过来，战局越乱越好，这样才能吸引敌人的注意力。	members/head_char_heiyi2.png	battle/moguisanjiao.png	1	0	0	0
+101510	1015	车厢混战3	0	1	10	13480	5394	0	101510	35	似乎看到下一节车厢了，摆平这些家伙，就可以通过了。	members/head_char_heiyi2.png	battle/moguisanjiao.png	1	0	0	0
+101511	1015	第五节车厢	0	1	10	13630	5454	0	101511	35	来到第五节车厢，怎么看起来像是厨房？还有个推餐车的奇怪家伙。	members/head_char_heiyi2.png	battle/moguisanjiao.png	1	0	0	0
+101512	1015	料理格斗家	1	2	5	16060	9180	61001_5001023_1,11001_1001_500	101512	35	要面条么？真是恶心的制作方法，赶紧将这个讨厌的家伙打飞吧。	members/head_char_wajie.png	battle/moguisanjiao.png	1	0	0	0
+101513	1015	海鼬尼罗	1	2	5	16380	9360	61001_5001022_1,11001_1001_500	101513	35	又来了一个家伙，貌似是名新人，并不怎么厉害的样子。	members/head_char_nailuo.png	battle/moguisanjiao.png	1	0	0	0
+101514	1015	割裂车厢	1	2	5	16690	9540	61001_5001021_1,11001_1001_500	101514	35	终于来到CP9主要成员所在的车厢，趁着他们不注意，绕到后面把车厢切断吧。	members/head_char_kaku.png	battle/moguisanjiao.png	1	0	0	0
+101515	1015	被拉回来了	1	2	5	17040	9738	61001_5003002_2,11001_1001_500	101515	35	糟糕，割裂的车厢竟然被荆棘鞭拉回来了，只有与他们正面冲突了。	members/head_char_kalifa.png	battle/moguisanjiao.png	1	0	0	0
+101516	1015	空气门	2	4	3	19840	14433	61001_1502001_50,11001_1001_500	101516	36	这家伙什么时候绕到背后的，一点感觉都没有，太危险了。不过罗宾就在眼前，一定要救她走！	members/head_char_bulunuo.png	battle/moguisanjiao.png	1	0	0	0
+101601	1016	不夜岛	0	1	10	15180	6072	0	101601	36	眼前就是司法岛了，这座被称作不夜之地的海岛，是海军秘密部队的大本营。	members/head_char_haijun3.png	battle/sifadao.png	1	0	0	1616
+101602	1016	主岛正门	0	1	10	15220	6090	0	101602	36	望着矗立在海岛前的大门，这就是通往中央广场的唯一途径，准备好战斗了么？	members/head_char_haijun3.png	battle/sifadao.png	1	0	0	0
+101603	1016	跨越栅栏	0	1	10	15250	6102	0	101603	36	好大的铁栅栏，打开一道缺口，冲进去吧。	members/head_char_haijun3.png	battle/sifadao.png	1	0	0	0
+101604	1016	主岛前门	0	1	10	15310	6126	0	101604	36	来到司法岛的前门，一群卫兵把守在次，击败他们。	members/head_char_haijun3.png	battle/sifadao.png	1	0	0	0
+101605	1016	独自突围	0	1	10	15360	6144	0	101605	36	前来的帮忙的伙伴们被阻挡在了门外，但时间紧迫，独自越过栅栏，先进去为他人开路吧。	members/head_char_haijun3.png	battle/sifadao.png	1	0	0	0
+101606	1016	巨人门卫	1	1	5	17950	10260	11001_1002_100000,11001_1001_500	101606	37	来到门前，有两个巨人挡住了去路。不要纠缠，越过他们继续前进吧。	members/head_char_kaxi.png	battle/sifadao.png	1	0	0	0
+101607	1016	进入主岛	0	1	10	15430	6174	0	101607	37	打败守卫进入了主岛，又迎来一大批CP9成员的围追堵截。	members/head_char_zhudaoshouwei.png	battle/sifadao.png	1	0	0	0
+101608	1016	勇往直前	0	1	10	15490	6198	0	101608	37	这些家伙还真是难缠，有种打不完的感觉。	members/head_char_langgoubudui.png	battle/sifadao.png	1	0	0	0
+101609	1016	冲破大门	0	1	10	15520	6210	0	101609	37	终于冲破重重险阻，成功打开了大门，后面的伙伴可以更快的冲进来了。	members/head_char_zhudaoshouwei.png	battle/sifadao.png	1	0	0	0
+101610	1016	倒戈相向	0	1	10	15900	6360	0	101610	37	跟上来的伙伴们似乎认识守门的巨人，策反他们，一起帮助进攻司法岛。	members/head_char_langgoubudui.png	battle/sifadao.png	1	0	0	0
+101611	1016	主岛法院	0	1	10	16270	6510	0	101611	37	进入主岛法院，好大的院子啊，可是之后要怎么走呢？	members/head_char_langgoubudui.png	battle/sifadao.png	1	0	0	0
+101612	1016	大法官	1	2	5	19170	10954	61001_5001023_1,11001_1001_500	101612	37	混乱引来了司法岛的大法官。好厉害，竟然长了三个脑袋！	members/head_char_basikabier.png	battle/sifadao.png	1	0	0	0
+101613	1016	一分为三	1	2	5	19360	11067	61001_5001022_1,11001_1001_500	101613	37	原来只是三个人穿着一个大袍子，装作三个头的骗子……	members/head_char_basikabier.png	battle/sifadao.png	1	0	0	0
+101614	1016	法院楼顶	1	2	5	19560	11178	61001_5001021_1,11001_1001_500	101614	38	爬上了法院的楼顶，似乎看到司法塔了，罗宾就在那里吧。	members/head_char_bulunuo.png	battle/sifadao.png	1	0	0	0
+101615	1016	奥哈拉梦魇	1	2	5	19740	11280	61001_5003002_2,11001_1001_500	101615	38	站在司法塔上的罗宾，慢慢道出了20年前政府对奥哈拉发动屠魔令的事情……	members/head_char_zhongjiang.png	battle/sifadao.png	1	0	0	0
+101616	1016	向世界宣战	2	4	3	22770	16560	61001_1502001_50,11001_1001_500	101616	39	终于了解到罗宾背负的东西，那就打掉政府旗帜，驱除纠缠着她的梦魇，向整个世界宣战吧！	members/head_char_qizhi.png	battle/sifadao.png	1	0	0	0
+101701	1017	飞向瀑布	0	1	10	17160	6864	0	101701	39	越过前面的瀑布沟壑，就可以到达司法塔了。	members/head_char_heiyi1.png	battle/zaijianmeili.png	1	0	0	1716
+101702	1017	司法塔	0	1	10	17250	6900	0	101702	39	来到司法塔下，斯潘达姆见势不妙，押着罗宾先行逃跑了，快追！	members/head_char_heiyi1.png	battle/zaijianmeili.png	1	0	0	0
+101703	1017	塔内迷宫	0	1	10	17320	6930	0	101703	39	这个塔仿佛一座巨大的迷宫，对于路痴来说，实在是……	members/head_char_heiyi1.png	battle/zaijianmeili.png	1	0	0	0
+101704	1017	上楼下楼	0	1	10	17410	6966	0	101704	39	上上下下，也不知道绕过了多少弯路，还是找不到出口。	members/head_char_heiyi1.png	battle/zaijianmeili.png	1	0	0	0
+101705	1017	兵分多路	0	1	10	17500	7002	0	101705	39	看来只有分头行动了，各自对付前方的敌人，要小心！	members/head_char_heiyi1.png	battle/zaijianmeili.png	1	0	0	0
+101706	1017	坚固大门	1	1	5	20520	11727	11001_1002_100000,11001_1001_500	101706	40	好坚固的大门，看来这里应该就是出口了，打破它！	members/head_char_damen.png	battle/zaijianmeili.png	1	0	0	0
+101707	1017	海底通道	0	1	10	17670	7068	0	101707	40	这个奇怪的通道是建在海底下的么，好厉害啊。	members/head_char_zhudaoshouwei.png	battle/zaijianmeili.png	1	0	0	0
+101708	1017	踟蹰之桥	0	1	10	17740	7098	0	101708	40	来到踟蹰之桥，又碰到之前的三头法官，真是阴魂不散。	members/head_char_basikabier.png	battle/zaijianmeili.png	1	0	0	0
+101709	1017	手抖了	0	1	10	17830	7134	0	101709	40	与此同时，押送罗宾逃走的斯潘达姆，不小心按下了发动屠魔令的按钮……	members/head_char_zhudaoshouwei.png	battle/zaijianmeili.png	1	0	0	0
+101710	1017	屠魔令发动	0	1	10	17920	7170	0	101710	40	海军本部收到了屠魔令发动的新号，开始出动大批军舰和海军向司法岛驶来。	members/head_char_langgoubudui.png	battle/zaijianmeili.png	1	0	0	0
+101711	1017	正义之门	0	1	10	18090	7236	0	101711	40	通过了正义之门，就要追上罗宾了，却迎来了CP9主力成员们的阻击。	members/head_char_langgoubudui.png	battle/zaijianmeili.png	1	0	0	0
+101712	1017	狩猎猫头鹰	1	2	5	21300	12172	61001_5001023_1,11001_1001_500	101712	40	好奇怪的家伙，嘴巴像一个拉链，好像是一头猫头鹰啊……	members/head_char_maotouying.png	battle/zaijianmeili.png	1	0	0	0
+101713	1017	生命归还	1	2	5	21510	12292	61001_5001022_1,11001_1001_500	101713	40	这个像是歌舞伎的家伙，也是CP9的成员么，真是一群古怪的组合。	members/head_char_weiqu.png	battle/zaijianmeili.png	1	0	0	0
+101714	1017	泡泡大战	1	2	5	21700	12403	61001_5001021_1,11001_1001_500	101714	40	这不是在水之七都见到的市长秘书么，竟然也成了恶魔果实能力者。	members/head_char_kalifa.png	battle/zaijianmeili.png	1	0	0	0
+101715	1017	厨师阿修罗	1	2	5	21910	12523	61001_5003002_2,11001_1001_500	101715	40	面前的这两个人，应该是里面最难缠的角色了吧，前面也已经能看到鸽子男了，找准自己的对手进攻吧。	members/head_char_jiabula.png	battle/zaijianmeili.png	1	0	0	0
+101716	1017	决战之桥	2	4	3	25240	18360	61001_1502001_50,11001_1001_500	101716	41	用尽全力击败鸽子男，身体已经动不了了，而海军的火炮已经瞄准了这里，快想办法！	members/head_char_luqi.png	battle/zaijianmeili.png	1	0	0	0
+101801	1018	魔鬼海域	0	1	10	19080	7632	0	101801	41	好大的雾气，整个海域充满着诡异的气氛，真可怕。	members/head_char_elong.png	battle/moguisanjiao.png	1	0	0	1816
+101802	1018	奇怪木桶	0	1	10	19230	7692	0	101802	41	哇，一只木桶，快捞起来，里面会不会装着财宝？	members/head_char_elong.png	battle/moguisanjiao.png	1	0	0	0
+101803	1018	信号弹？！	0	1	10	19380	7752	0	101803	41	打开木桶之后，没有美酒或者财宝，只是有一束烟花冲天而起。	members/head_char_elong.png	battle/moguisanjiao.png	1	0	0	0
+101804	1018	幽灵船	0	1	10	19540	7818	0	101804	41	好大的船，怎么会有歌声，这里有一个骷髅，而且竟然在走路，在唱歌！	members/head_char_kuloubing.png	battle/moguisanjiao.png	1	0	0	0
+101805	1018	被盯上了	0	1	10	19690	7878	0	101805	41	从这个叫布鲁克的骷髅口中得知，之前的烟花是一个陷阱，你们已经被敌人盯上了。	members/head_char_kuloubing.png	battle/moguisanjiao.png	1	0	0	0
+101806	1018	幽灵岛	1	1	5	23230	13278	11001_1002_200000,11001_1001_500	101806	42	登上面前这座被称为幽灵岛的小岛，不知道是不是真的会有幽灵……	members/head_char_diyuquan.png	battle/moguisanjiao.png	1	0	0	0
+101807	1018	幽灵马车	0	1	10	20160	8064	0	101807	42	果然有幽灵啊，竟然还是拉马车的。车上出来一个怪人。	members/head_char_jiangshi1.png	battle/moguisanjiao.png	1	0	0	0
+101808	1018	医生公馆	0	1	10	20400	8160	0	101808	42	想不到在这里竟然能碰到著名的外科医生霍古巴克，这座公馆就是他的医学实验室，只是处处透着诡异。	members/head_char_jiangshi1.png	battle/moguisanjiao.png	1	0	0	0
+101809	1018	透明骚扰	0	1	10	20650	8262	0	101809	42	突然听到一声尖叫，似乎是正在洗澡的娜美遭到了袭击！	members/head_char_jiangshi2.png	battle/moguisanjiao.png	1	0	0	0
+101810	1018	研究室	0	1	10	20850	8340	0	101810	42	为了追击透明怪人，不小心闯入了严禁入内的实验室，医生的秘密被发现了。	members/head_char_jiangshi2.png	battle/moguisanjiao.png	1	0	0	0
+101811	1018	夜袭开始	0	1	10	21040	8418	0	101811	42	一群群的僵尸与幽灵，组成庞大的军队，即将展开夜袭，赶快逃离这里。	members/head_char_jiangshi2.png	battle/moguisanjiao.png	1	0	0	0
+101812	1018	外科医生	1	2	5	24780	14160	61001_5001023_1,11001_1001_500	101812	43	原来霍古巴克医生是莫利亚手下的三怪人之一，利用高超的医术制造了僵尸大军。	members/head_char_huogubake.png	battle/moguisanjiao.png	1	0	0	0
+101813	1018	梦幻庭院	1	2	5	25020	14298	61001_5001022_1,11001_1001_500	101813	43	边打边逃，进入了一个美丽的花园，只可惜里面依旧充斥着各种怪物。	members/head_char_peiluona.png	battle/moguisanjiao.png	1	0	0	0
+101814	1018	死亡墓园	1	2	5	25260	14434	61001_5001021_1,11001_1001_500	101814	43	为了营救被掳走的娜美，来到一座墓园，发现透明人正打算与昏睡的娜美成婚，快阻止他。	members/head_char_aozi.png	battle/moguisanjiao.png	1	0	0	0
+101815	1018	魔人战士	1	2	5	25450	14547	61001_5003002_2,11001_1001_500	101815	43	击败了阿布萨罗姆，又碰到了身材巨大的魔人战士奥兹，真是个难缠的家伙。	members/head_char_aozi.png	battle/moguisanjiao.png	1	0	0	0
+101816	1018	影子集合地	2	4	3	29310	21316	61001_1502001_50,11001_1001_500	101816	44	为了夺回大家被夺取的影子，向影子集合地进发，打败月光莫利亚吧。	members/head_char_moliya.png	battle/moguisanjiao.png	1	0	0	0
+101901	1019	人鱼小姐	0	1	10	22150	8862	0	101901	44	终于再次见到了红土大陆，伟大航路的旅程已经行进了一半，大家也都有了巨大的成长，真是激动人心。	members/head_char_feiyuqishi1.png	battle/xinshijie.png	1	0	0	1916
+101902	1019	章鱼烧	0	1	10	22330	8934	0	101902	44	从海兔口中救下了一名叫做凯米的鱼人少女，盛情邀请大家前往她所在的小店品尝章鱼烧。	members/head_char_feiyuqishi1.png	battle/xinshijie.png	1	0	0	0
+101903	1019	解救人质	0	1	10	22510	9006	0	101903	44	到达章鱼烧店的时候，才发现店的老板兼主厨，已经被绑走了。	members/head_char_feiyuqishi1.png	battle/xinshijie.png	1	0	0	0
+101904	1019	是你？！	0	1	10	22680	9072	0	101904	44	前往营救章鱼烧老板时，才发现他竟然就是阿龙手下的鱼人剑客小八。	members/head_char_feiyuqishi1.png	battle/xinshijie.png	1	0	0	0
+101905	1019	章鱼小八	0	1	10	22950	9180	0	101905	44	经过一阵思想斗争，终究还是无法抵御章鱼烧的诱惑，那么化敌为友，救他出来吧。	members/head_char_feiyuqishi2.png	battle/xinshijie.png	1	0	0	0
+101906	1019	帅哥团长	1	2	5	27090	15480	11001_1002_200000,11001_1001_500	101906	45	大打出手之后，发现飞鱼骑士海贼团的团长，竟然是被误认为是香吉士，画到通缉令上的倒霉蛋。	members/head_char_dibalu.png	battle/xinshijie.png	1	0	0	0
+101907	1019	夏波蒂公园	0	1	10	23490	9396	0	101907	45	在成功解决绑架事件之后，为了将凯米送回人鱼岛，来到夏波蒂公园。	members/head_char_tianlongren1.png	battle/xinshijie.png	1	0	0	0
+101908	1019	嚣张贵族	0	1	10	23770	9510	0	101908	45	在这片岛屿上，发现了被称为贵族的天龙人，这是一群极度嚣张的家伙。	members/head_char_tianlongren1.png	battle/xinshijie.png	1	0	0	0
+101909	1019	凯米被抓	0	1	10	24000	9600	0	101909	45	一不留神，凯米被绑架了，到底是谁抓走了她？	members/head_char_tianlongren2.png	battle/xinshijie.png	1	0	0	0
+101910	1019	人贩生意	0	1	10	24220	9690	0	101910	45	经过调查发现，这座岛上盛行着人贩生意，或许他们就是凶手。	members/head_char_tianlongren2.png	battle/xinshijie.png	1	0	0	0
+101911	1019	大闹拍卖场	0	1	10	24450	9780	0	101911	45	果然在人贩拍卖场，发现了被囚禁起来当做拍卖品的凯米，救她出来吧。	members/head_char_tianlongren3.png	battle/xinshijie.png	1	0	0	0
+101912	1019	大熊？	1	3	5	28800	16458	61001_5001023_2,11001_1001_500	101912	46	在大闹拍卖场之后，再次碰到了熊，想不到竟然会追到这里来。	members/head_char_px.png	battle/xinshijie.png	1	0	0	0
+101913	1019	改造人	1	3	5	29070	16612	61001_5001022_2,11001_1001_500	101913	46	怎么会又出来一个熊？难道这些都不是本尊，而是政府制造的机器人么？	members/head_char_px.png	battle/xinshijie.png	1	0	0	0
+101914	1019	最强防御	1	3	5	29280	16732	61001_5001021_2,11001_1001_500	101914	46	在与和平主义者纠缠的过程中，又有一个拿着巨大斧头的家伙加入战局，他自称是海军中拥有最强防御的人。	members/head_char_zhantaowan.png	battle/xinshijie.png	1	0	0	0
+101915	1019	致命打击	1	3	5	29520	16869	61001_5003001_1,11001_1001_500	101915	46	这次的熊应该是本人了，他的强大毋庸置疑，尽力抵挡吧。	members/head_char_xiong.png	battle/xinshijie.png	1	0	0	0
+101916	1019	闪光人	2	4	3	33990	24720	61001_1502001_50,11001_1001_500	101916	47	想不到海军政府这次竟然派出了三大将之一的黄猿，前来执行抓捕任务，这次危险了。	members/head_char_huangyuan.png	battle/xinshijie.png	1	0	0	0
+102001	1020	飞落岛屿	0	1	10	25690	10278	0	102001	47	站起来，去岛上四处逛逛吧，先找些吃的东西填饱肚子。	members/head_char_nvzhanshi1.png	battle/nverguo.png	1	0	0	2016
+102002	1020	奇异蘑菇	0	1	10	25900	10362	0	102002	47	发现一堆奇怪的蘑菇，这下子有东西吃了……啊，为什么吃完之后浑身开始长蘑菇了，头好晕……	members/head_char_nvzhanshi1.png	battle/nverguo.png	1	0	0	0
+102003	1020	屋顶逃出	0	1	10	26100	10440	0	102003	47	醒来发现身上的蘑菇都消失了，但是却被关在了一间屋子里，外面全是女人。	members/head_char_nvzhanshi1.png	battle/nverguo.png	1	0	0	0
+102004	1020	丛林追踪	0	1	10	26410	10566	0	102004	47	不能呆在这里，还要去寻找伙伴，以及打探艾斯的消息，打破房顶逃出去吧。	members/head_char_nvzhanshi1.png	battle/nverguo.png	1	0	0	0
+102005	1020	丛林追踪2	0	1	10	26730	10692	0	102005	47	后面的女战士依旧紧追不舍，跟着你来到了丛林中。	members/head_char_nvzhanshi1.png	battle/nverguo.png	1	0	0	0
+102006	1020	政府威胁	1	2	5	31540	18027	11001_1002_200000,11001_1001_500	102006	48	与此同时，岛外似乎来了一艘海军军舰，中将鼯鼠就在上面……	members/head_char_haijun2.png	battle/nverguo.png	1	0	0	0
+102007	1020	女帝归来	0	1	10	27360	10944	0	102007	48	岛上欢声雷动，听说是她们的女王回来了，去看看吧，或许可以要一艘船出海。	members/head_char_nvzhanshi2.png	battle/nverguo.png	1	0	0	0
+102008	1020	九蛇城	0	1	10	27610	11046	0	102008	48	重新回到城中，要避开四周的女战士，悄悄接近才行。	members/head_char_nvzhanshi2.png	battle/nverguo.png	1	0	0	0
+102009	1020	入浴	0	1	10	27870	11148	0	102009	48	不好，飞过头了，竟然跌落到浴池里了。咦，那里似乎有人在洗澡……	members/head_char_nvzhanshi2.png	battle/nverguo.png	1	0	0	0
+102010	1020	背后印记	0	1	10	28120	11250	0	102010	48	背后的印记被发现之后，女人发飙了，开始指挥众人对你展开追捕。	members/head_char_nvzhanshi2.png	battle/nverguo.png	1	0	0	0
+102011	1020	重新拘捕	0	1	10	28380	11352	0	102011	48	啊，这是什么，不是铅弹呀……	members/head_char_nvzhanshi2.png	battle/nverguo.png	1	0	0	0
+102012	1020	追究责任	1	3	5	33430	19107	61001_5001023_2	102012	49	最终还是失手被擒，被一众女兵押到了广场，与这名女王大人似乎是没法沟通呢。	members/head_char_nvzhanshi2.png	battle/nverguo.png	1	0	0	0
+102013	1020	刽子手	1	3	5	34560	19749	61001_5001022_2,11001_1001_500	102013	49	要施行惩罚了，判决是——死刑，执行者竟然是一头黑色的大豹子。	members/head_char_bakoula.png	battle/nverguo.png	1	0	0	0
+102014	1020	竞技台	1	3	5	35740	20427	61001_5001021_2,11001_1001_500	102014	49	轻易解决了豹子，女王决定派出手下的两个姐妹亲自行刑。	members/head_char_boyasangdasuoniya.png	battle/nverguo.png	1	0	0	0
+102015	1020	王者资质	1	3	5	36960	21120	61001_5003001_1,11001_1001_500	102015	49	他们为什么不动了，站着挨打么？那就不客气了。	members/head_char_boyamaligelude.png	battle/nverguo.png	1	0	0	0
+102016	1020	致命之疾	2	5	3	43680	31768	61001_1502001_100,11001_1001_500	102016	50	被打出去的蛇人姐妹，后背的秘密要被发现了，现在的你会如何选择？	members/head_char_hankuke.png	battle/nverguo.png	1	0	0	0
+102101	1021	大监狱	0	1	10	33870	13548	0	102101	50	前面就是深海监狱的入口了，藏在汉库克的长袍里，一起进去吧。	members/head_char_jianyushouwei.png	battle/tuijincheng.png	1	0	0	2116
+102102	1021	正义之门	0	1	10	35030	14010	0	102102	50	大门两侧站满了卫兵，看来这里防守非常严密。	members/head_char_jianyushouwei.png	battle/tuijincheng.png	1	0	0	0
+102103	1021	检查室	0	1	10	36210	14484	0	102103	50	进入监狱里，必须先在检查室接受搜身检查，才能继续前进，看来不能继续藏下去了。	members/head_char_jianyushouwei.png	battle/tuijincheng.png	1	0	0	0
+102104	1021	蒙混过关	0	1	10	37440	14976	0	102104	50	利用汉库克的石化能力，迅速离开检查室，接下来只能孤身前进了。	members/head_char_jianyushouwei.png	battle/tuijincheng.png	1	0	0	0
+102105	1021	进入监狱	0	1	10	38720	15486	0	102105	50	终于进到牢房里，快打探艾斯的下落吧，小心那些看守监狱的狱卒。	members/head_char_nvjianyushouwei.png	battle/tuijincheng.png	1	0	0	0
+102106	1021	再遇巴基	1	2	5	46710	26692	11001_1002_200000,11001_1001_500	102106	51	来到第一层，突然发现前面有一阵骚乱，这不是巴基么，他也被关在这里？	members/head_char_lanxing.png	battle/tuijincheng.png	1	0	0	0
+102107	1021	红莲地狱	0	1	10	40410	16164	0	102107	51	与巴基一起冲开前来追捕的狱卒，他答应带你去前往下一层监狱的入口处。	members/head_char_yuzushou.png	battle/tuijincheng.png	1	0	0	0
+102108	1021	猛兽地狱	0	1	10	40790	16314	0	102108	51	来到监狱第二层，这里的守卫全是各种奇怪的猛兽，应该是政府军使用特殊的技术制造出来的。	members/head_char_yuzushou.png	battle/tuijincheng.png	1	0	0	0
+102109	1021	饥饿地狱	0	1	10	41180	16470	0	102109	51	在混乱中，从第二层跌进了第三层，竟然意外的碰到了小冯！救他出去吧。	members/head_char_yuzushou.png	battle/tuijincheng.png	1	0	0	0
+102110	1021	焦热地狱	0	1	10	41550	16620	0	102110	51	在小冯的帮助下，顺利来到第四层，这里就是署长麦哲伦的办公室了。	members/head_char_yuzushou.png	battle/tuijincheng.png	1	0	0	0
+102111	1021	狱长室	0	1	10	41940	16776	0	102111	51	在署长办公室，充斥着炎热与毒气，还有个巨大的……马桶……	members/head_char_yuzushou.png	battle/tuijincheng.png	1	0	0	0
+102112	1021	初次交锋	1	3	5	49220	28123	61001_5001023_2,11001_1001_500	102112	51	打斗声终于惊动了狱长，这个全身都是剧毒的毒毒果实能力者，是令整个监狱都为之颤抖的存在。	members/head_char_maizhelun.png	battle/tuijincheng.png	1	0	0	0
+102113	1021	打破看守室	1	3	5	49500	28287	61001_5001022_2,11001_1001_500	102113	51	经过一番苦战，败下阵来，并且身中剧毒，还好被伊万科夫以毒攻毒保住了性命，现在要重新杀回去！	members/head_char_xiniu.png	battle/tuijincheng.png	1	0	0	0
+102114	1021	冲出监狱	1	3	5	49800	28458	61001_5001021_2,11001_1001_500	102114	51	在大家的共同努力下，顺利冲出了监狱，与闻讯赶来的狱卒长展开了交锋。	members/head_char_sadi.png	battle/tuijincheng.png	1	0	0	0
+102115	1021	副监狱长	1	3	5	50070	28612	61001_5003001_1,11001_1001_500	102115	51	汉尼拔副署长也赶来了，不过怎么看这家伙都是一副不禁打的样子。	members/head_char_hanniba.png	battle/tuijincheng.png	1	0	0	0
+102116	1021	自由世界	2	5	3	57570	41869	61001_1502001_100,11001_1001_500	102116	52	再次遇到麦哲伦，阻挡他直到大家顺利离开就可以了。只是所有人都上了船，谁去打开监狱大门呢？	members/head_char_maizhelun.png	battle/tuijincheng.png	1	0	0	0
+102201	1022	驶向总部	0	1	10	43430	17370	0	102201	52	距离艾斯被处刑时间只剩不到3个小时，处刑地点海军本部玛林梵多，加速驶向海军总部吧。	members/head_char_haijun3.png	battle/haijunzongbu.png	1	0	0	2216
+102202	1022	打开正门	0	1	10	43680	17472	0	102202	52	海军总部的正门突然打开了，众多海贼一齐驶进了海军总部马林梵多。	members/head_char_haijun3.png	battle/haijunzongbu.png	1	0	0	0
+102203	1022	海贼云集	0	1	10	43940	17574	0	102203	52	同时赶来的总共有43艘海贼船，其中不乏名气显赫的大海贼。现场的气氛越来越紧张了。	members/head_char_haijun3.png	battle/haijunzongbu.png	1	0	0	0
+102204	1022	莫比迪克号	0	1	10	44970	17988	0	102204	52	正当战国疑惑之时，莫迪比克号从总部海底出现在世人眼前，白胡子海贼团登场！	members/head_char_haijun3.png	battle/haijunzongbu.png	1	0	0	0
+102205	1022	一触即发	0	1	10	46040	18414	0	102205	52	白胡子时代的主角，与海军终于开始了正面对决，大战一触即发。	members/head_char_haijun3.png	battle/haijunzongbu.png	1	0	0	0
+102206	1022	大战序幕	1	2	5	54210	30978	11001_1002_300000,11001_1001_500	102206	53	为了保证计划顺利进行，战国下令提前处决艾斯，海军中将们充当第一防线，大战一触即发。	members/head_char_zhongjiang.png	battle/haijunzongbu.png	1	0	0	0
+102207	1022	全军动员	0	1	10	46890	18756	0	102207	53	双方不约而同的发起了进攻号令，混战开始了。	members/head_char_dazuo.png	battle/haijunzongbu.png	1	0	0	0
+102208	1022	钻石巨人	0	1	10	47330	18930	0	102208	53	白胡子的第三队队长，钻石乔治挺身而出，用自己的身体挡住了敌人的犀利攻击。	members/head_char_dazuo.png	battle/haijunzongbu.png	1	0	0	0
+102209	1022	攻进港湾	0	1	10	47780	19110	0	102209	53	在双方胶着激战之时，海军大将赤犬出击，利用自己的能力熔炎击碎了冰块，并向白胡子发起挑衅。	members/head_char_dazuo.png	battle/haijunzongbu.png	1	0	0	0
+102210	1022	激战	0	1	10	48210	19284	0	102210	53	白胡子海贼团各个队长一齐发动进攻，顿时马林梵多硝烟四起。	members/head_char_dazuo.png	battle/haijunzongbu.png	1	0	0	0
+102211	1022	两路包抄	0	1	10	48420	19368	0	102211	53	奥兹冲出海贼群，向着处刑台一路奔去，用自己的巨大身躯冲开一条血路。	members/head_char_dazuo.png	battle/haijunzongbu.png	1	0	0	0
+102212	1022	突然袭击	1	3	5	56730	32418	61001_5001023_2,11001_1001_500	102212	53	顺利赶到的克罗克达尔，突然冲向了白胡子，扬言要	members/head_char_dazuo.png	battle/haijunzongbu.png	1	0	0	0
+102213	1022	武海出击	1	3	5	56970	32554	61001_5001022_2,11001_1001_500	102213	53	七武海也发起了进攻，奥兹成为众七武海的集火目标，奥兹不敌倒在了处刑台前面。	members/head_char_moliya.png	battle/haijunzongbu.png	1	0	0	0
+102214	1022	劈斩	1	3	5	57210	32692	61001_5001021_2,11001_1001_500	102214	54	王下七武海之一，被称为世界第一剑客朱洛基尔·米霍克，一刀斩向了摸底比克号…	members/head_char_yingyan.png	battle/haijunzongbu.png	1	0	0	0
+102215	1022	和平主义	1	3	5	57450	32829	61001_5003001_1,11001_1001_500	102215	54	以七武海巴索洛缪·熊为原型制造的和平主义战争机器加入战局，白胡子海贼们损失惨重。	members/head_char_px.png	battle/haijunzongbu.png	1	0	0	0
+102216	1022	正义必胜	2	5	3	65940	47956	61001_1502001_100,11001_1001_500	102216	55	七武海唐吉可德将奥兹的一只脚斩断，使奥兹倒在了处刑台前面。而艾斯却突然开口阻止你赶去救援。	members/head_char_duofolangmingge.png	battle/haijunzongbu.png	1	0	0	0
+102301	1023	包围圈	0	1	10	49670	19866	0	102301	55	看到一部分海军消失，白胡子立刻命令几位船长向两边突破，果然发现了正在悄悄进行包围的海军。	members/head_char_shaoxiao.png	battle/dingshangjuezhan.png	1	0	0	2316
+102302	1023	不祥预感	0	1	10	49880	19950	0	102302	55	尽管识破了战国的阴谋，白胡子仍然感到不安，对战国知之甚深的他绝不相信只有如此幼稚的安排。	members/head_char_shaoxiao.png	battle/dingshangjuezhan.png	1	0	0	0
+102303	1023	遗漏的人	0	1	10	50090	20034	0	102303	55	大战中，似乎少了一个人的身影，但所有人都已经无暇顾及这种事情。	members/head_char_dazuo.png	battle/dingshangjuezhan.png	1	0	0	0
+102304	1023	大圈套	0	1	10	50300	20118	0	102304	55	正当白胡子海贼们一步步逼近处刑台时，史库亚多突然来到白胡子身前……	members/head_char_dazuo.png	battle/dingshangjuezhan.png	1	0	0	0
+102305	1023	大圈套2	0	1	10	50510	20202	0	102305	55	站在高台上的战国，目不转睛的望着白胡子，似乎在等待着什么……	members/head_char_dazuo.png	battle/dingshangjuezhan.png	1	0	0	0
+102306	1023	反戈相向	1	2	5	59940	34252	11001_1002_300000,11001_1001_500	102306	56	不可思议，史库亚多竟然转身向白胡子刺去，没有任何防御，白胡子被砍伤了……	members/head_char_dazuo.png	battle/dingshangjuezhan.png	1	0	0	0
+102307	1023	血肉之路	0	1	10	52250	20898	0	102307	56	受到挑唆，仇恨冲昏头脑的史库亚多终于想明白了这是海军的诡计，但为时已晚。	members/head_char_zhongjiang.png	battle/dingshangjuezhan.png	1	0	0	0
+102308	1023	沸腾之海	0	1	10	53150	21258	0	102308	56	面对步步紧逼的海贼，赤犬利用岩浆果实的能力，将整个海面煮沸，全员必须赶上陆地才行。	members/head_char_zhongjiang.png	battle/dingshangjuezhan.png	1	0	0	0
+102309	1023	铜墙铁壁	0	1	10	54050	21618	0	102309	56	当所有人冲上陆地时，周围突然树立起坚硬的铁墙，战国的计策一环扣一环的展开了。	members/head_char_zhongjiang.png	battle/dingshangjuezhan.png	1	0	0	0
+102310	1023	飞越	0	1	10	54960	21984	0	102310	56	现在唯一的出口，只有小奥兹身躯所在的狭窄通道，踏着伙伴的身躯，冲出囚笼！	members/head_char_zhongjiang.png	battle/dingshangjuezhan.png	1	0	0	0
+102311	1023	进入广场	0	1	10	55910	22362	0	102311	56	付出巨大代价之后，所有人终于冲进了广场，距离处刑台只有一步之遥。	members/head_char_zhongjiang.png	battle/dingshangjuezhan.png	1	0	0	0
+102312	1023	处刑台	1	3	5	66330	37903	61001_5001023_1,61001_5001021_1,11001_1001_500	102312	56	冲破重重险阻，终于登上处刑台，快去救出艾斯！	members/head_char_qingzhi.png	battle/dingshangjuezhan.png	1	0	0	0
+102313	1023	碎裂的钥匙	1	3	5	67470	38554	61001_5001022_1,61001_5001021_1,11001_1001_500	102313	57	终于抢夺过钥匙来，但尚未给艾斯打开枷锁，一道闪光打碎了钥匙。	members/head_char_huangyuan.png	battle/dingshangjuezhan.png	1	0	0	0
+102314	1023	营救成功	1	3	5	68610	39207	61001_5001021_1,61001_5001023_1,11001_1001_500	102314	58	强行轰开愤怒追来的战国，总算将艾斯救下了处刑台，在即将离去时，赤犬出现在了身前。	members/head_char_fozhizhanguo.png	battle/dingshangjuezhan.png	1	0	0	0
+102315	1023	艾斯之死	1	3	5	69780	39874	61001_5003001_1	102315	59	对白胡子的不屑一顾，深深的刺伤了艾斯的心，刹那的忧郁，终于丧失了逃离的机会。	members/head_char_chiquan.png	battle/dingshangjuezhan.png	1	0	0	0
+102316	1023	白胡子时代	2	5	3	81120	58996	61001_1505003_1	102316	60	大势已去，看着艾斯倒下，众人伤心不已，白胡子也已经重伤累累，战争即将落下帷幕。	members/head_char_heihuzi.png	battle/dingshangjuezhan.png	1	0	0	0
+102401	1024	香波地岛	0	1	10	61110	24444	0	102401	60	刚到岛上，就碰到一个带草帽的家伙挑衅，快解决掉，还要赶路呢。	members/head_char_danmaluobulake.png	battle/battleBG_lawn.png	1	0	0	2416
+102402	1024	横生枝节	0	1	10	61380	24552	0	102402	60	原来这是一群冒充草帽的团伙，可是那两个人真的很像索隆和香吉士。	members/head_char_duoerdun.png	battle/battleBG_lawn.png	1	0	0	0
+102403	1024	海军追捕	0	1	10	61650	24660	0	102403	60	时隔两年，又见到和平主义者和战桃丸了，再较量一番吧。	members/head_char_zhantaowan.png	battle/battleBG_lawn.png	1	0	0	0
+102404	1024	准备起航	0	1	10	61920	24768	0	102404	60	全员到齐，谢谢大家的配合，虽然有很多话要说，不过先起航吧！	members/head_char_elong.png	battle/battleBG_lawn.png	1	0	0	0
+102405	1024	目标鱼人岛	0	1	10	62190	24876	0	102405	60	在去往鱼人岛的海底中，会经过海王兽密集的区域，要多加小心。	members/head_char_elong.png	battle/battleBG_lawn.png	1	0	0	0
+102406	1024	北海巨妖	1	2	5	72870	41640	11001_1002_300000,11001_1001_500	102406	61	真没想到北海巨妖竟然栖息在这里，驯服它让它给我们拉船。	members/head_char_shengwu1.png	battle/battleBG_lawn.png	1	0	0	0
+102407	1024	深海冒险	0	1	10	62730	25092	0	102407	61	阳光号被打飞到黑暗的海沟里了，这里似乎潜伏着更多凶猛的海王。	members/head_char_elong.png	battle/battleBG_lawn.png	1	0	0	0
+102408	1024	鱼人岛	0	1	10	63000	25200	0	102408	61	经过重重险阻，来到了鱼人岛，却被当做非法入境者了。	members/head_char_yuren2.png	battle/battleBG_lawn.png	1	0	0	0
+102409	1024	新鱼人海贼	0	1	10	63270	25308	0	102409	61	终于解决了入境问题，却被新鱼人海贼团盯上，打败这些来骚扰的小喽啰。	members/head_char_yuren2.png	battle/battleBG_lawn.png	1	0	0	0
+102410	1024	飞斧突袭	0	1	10	63540	25416	0	102410	61	你被尼普顿邀请去龙宫做客，误入硬壳塔见到了白星公主，此时一把飞斧突然袭来。	members/head_char_fandaiken.png	battle/battleBG_lawn.png	1	0	0	0
+102411	1024	海之森	0	1	10	63740	25494	0	102411	61	了解到白星的窘境，你决定带她去海之森逛逛，并保护她的安全。	members/head_char_labu2.png	battle/battleBG_lawn.png	1	0	0	0
+102412	1024	范德戴肯	1	3	5	75240	42994	61001_5001023_1,61001_5001021_1,11001_1001_500	102412	62	穷追不舍的范德戴肯九世被白星拒绝后，顿起杀意，开始疯狂进攻。	members/head_char_fandaiken.png	battle/battleBG_lawn.png	1	0	0	0
+102413	1024	大清洗	1	3	5	76130	43500	61001_5001022_1,61001_5001021_1,11001_1001_500	102413	62	趁着龙宫守卫寻找白星公主之际，霍迪琼斯侵占了龙宫，并宣称自己成为新一任国王。	members/head_char_huodiqiongsi.png	battle/battleBG_lawn.png	1	0	0	0
+102414	1024	阻挡	1	3	5	77010	44007	61001_5001021_1,61001_5001023_1,11001_1001_500	102414	62	你决定立刻回到龙宫去救人，但与你意见相左的甚平，拦在了你前面。	members/head_char_shenping.png	battle/battleBG_lawn.png	1	0	0	0
+102415	1024	广场大战	1	3	5	77900	44512	61001_5003001_1,11001_1001_500	102415	62	利用甚平的计谋，你终于在鱼人岛民众的呼唤中以英雄的身份登场，去解救国王吧！	members/head_char_huodiqiongsi.png	battle/battleBG_lawn.png	1	0	0	0
+102416	1024	诺亚方舟	2	5	3	89720	65248	61001_1505003_1,11001_1001_500	102416	63	失去控制的诺亚号正向龙宫驶去，必须阻止霍迪琼斯和范德戴肯九世的阴谋。	members/head_char_huodiqiongsi.png	battle/battleBG_lawn.png	1	0	0	0
+102501	1025	燃烧之岛	0	1	10	67820	27126	0	102501	63	作为先遣队来到岛上，发现到处都是燃烧的火焰。前面是什么，竟然是一头龙？！	members/head_char_elong.png	battle/battleBG_ice.png	1	0	0	2516
+102502	1025	雪山冒险	0	1	10	68340	27336	0	102502	63	一湖之隔，这边是炎热的地域，对面确实寒冷的冰山雪原，呼救的人应该在对面了。	members/head_char_yuzushou.png	battle/battleBG_ice.png	1	0	0	0
+102503	1025	催眠瓦斯	0	1	10	68870	27546	0	102503	63	与此同时，留在船上的人员，突然闻到奇怪的味道，不好，是毒气……	members/head_char_yuzushou.png	battle/battleBG_ice.png	1	0	0	0
+102504	1025	破墙而出	0	1	10	69390	27756	0	102504	63	在睡梦中被关到了禁闭室中，用射线轰开墙壁吧。	members/head_char_yuzushou.png	battle/battleBG_ice.png	1	0	0	0
+102505	1025	小鬼头	0	1	10	69950	27978	0	102505	63	从禁闭室中出来，发现了许多小孩儿，带他们一起逃出去吧。	members/head_char_yuzushou.png	battle/battleBG_ice.png	1	0	0	0
+102506	1025	白色追击	1	2	5	82260	47007	11001_1002_300000,11001_1001_500	102506	64	又见到白色猎人斯摩格了，真是个阴魂不散的家伙。	members/head_char_simoge.png	battle/battleBG_ice.png	1	0	0	0
+102507	1025	深河遇险	0	1	10	71060	28422	0	102507	64	另一方面，先遣小队的成员正在渡河，却遭到攻击落入水中，好大的鳄鱼！	members/head_char_dashae.png	battle/battleBG_ice.png	1	0	0	0
+102508	1025	抢夺衣物	0	1	10	71610	28644	0	102508	64	从湖水里出来之后，整个人都被冻僵了，看到敌人身上的大衣，去抢过来吧。	members/head_char_shanzei.png	battle/battleBG_ice.png	1	0	0	0
+102509	1025	身心互换	0	1	10	72170	28866	0	102509	64	来到禁区入口，发现身为现任七武海的罗也在此地，阴差阳错之下与同伴们互换了身体。	members/head_char_luo.png	battle/battleBG_ice.png	1	0	0	0
+102510	1025	雪山杀手	0	1	10	72720	29088	0	102510	64	通过茶胡子，得知我们已经被列入猎杀名单，即将遭到雪山杀手的袭击。	members/head_char_shanzei.png	battle/battleBG_ice.png	1	0	0	0
+102511	1025	药物失控	0	1	10	73290	29316	0	102511	64	潜在乔巴身体内的弗兰奇吃下了蓝波球，可是他似乎不会控制这个身体……	members/head_char_qiaoba.png	battle/bankejinqu.png	1	0	0	0
+102512	1025	结成同盟	1	3	5	86520	49440	61001_5001023_1,61001_5001021_1,11001_1001_500	102512	65	正与雪山杀手混战之际，罗突然出现重创二人，并提出与你联手的建议。	members/head_char_luo.png	battle/bankejinqu.png	1	0	0	0
+102513	1025	作战开始	1	3	5	87540	50023	61001_5001022_1,61001_5001021_1,11001_1001_500	102513	65	确定结盟之后，去寻找被带走的伙伴们，却遇到了烟鬼斯摩格。	members/head_char_simoge.png	battle/bankejinqu.png	1	0	0	0
+102514	1025	秘密约会	1	3	5	88580	50614	61001_5001021_1,61001_5001023_1,11001_1001_500	102514	65	在与海军混战之际，罗也按照原定计划，将莫纳引诱出来……	members/head_char_monai.png	battle/bankejinqu.png	1	0	0	0
+102515	1025	瓦斯果实	1	3	5	89570	51180	61001_5003001_1,11001_1001_500	102515	65	与此同时，“主人”也终于露面了，是个使用各种毒气的瓦斯果实能力者。	members/head_char_kaisa.png	battle/bankejinqu.png	1	0	0	0
+102516	1025	死亡国度	2	5	3	103170	75033	61001_1505003_1,11001_1001_500	102516	66	凯撒正将充满毒气的史莱姆进行最后的合体，成为杀戮兵器，必须阻止他。	members/head_char_kaisa.png	battle/bankejinqu.png	1	0	0	0
+102601	1026	全力进攻	0	1	10	77990	31194	0	102601	63	绝对不能让凯撒的计划成功，但是想要阻止他就要先面对他成群的手下，全力进攻吧！	members/head_char_haidao1.png	battle/bankejinqu.png	1	0	0	2616
+102602	1026	棋差一招	0	1	10	78590	31434	0	102602	63	就在快要抓到凯撒的时候，海军又来捣乱，忽然所有人都晕倒在地，这究竟是怎么一回事？	members/head_char_haijun1.png	battle/bankejinqu.png	1	0	0	0
+102603	1026	不明身影	0	1	10	79200	31680	0	102603	63	另一面，罗的心脏忽然疼了起来，从前面通道的阴影走来一个人，到底是谁？	members/head_char_haijun2.png	battle/bankejinqu.png	1	0	0	0
+102604	1026	武士躯体	0	1	10	79800	31920	0	102604	63	山治在湖底发现了武士的另一半，好像被黏在大鲨鱼的身上，把他夺过来吧！	members/head_char_konglong2.png	battle/bankejinqu.png	1	0	0	0
+102605	1026	大闹一场	0	1	10	80430	32172	0	102605	63	终于所有人都汇集到了一起，是时候让凯撒他们知道厉害了！	members/head_char_yuzushou.png	battle/bankejinqu.png	1	0	0	0
+102606	1026	A栋入口	1	2	5	94580	54044	11001_1002_300000,11001_1001_500	102606	64	又被一批凯撒的忠心手下拦住了去路，他们似乎十分信任凯撒，完全不知道自己被当做弃子	members/head_char_haidao4.png	battle/bankejinqu.png	1	0	0	0
+102607	1026	鬼竹出现	0	1	10	81690	32676	0	102607	64	突然出现的维尔戈中将打倒了达斯琪，响应女士号召的王子香吉士及时参上…	members/head_char_weierge.png	battle/bankejinqu.png	1	0	0	0
+102608	1026	鬼竹出现2	0	1	10	82340	32934	0	102608	64	面对强大的维尔戈，香吉士似乎不是对手…	members/head_char_weierge.png	battle/bankejinqu.png	1	0	0	0
+102609	1026	无空世界	0	1	10	82970	33186	0	102609	64	路飞和斯摩格一路来到凯撒的研究室，“这次绝不放过你！”拳头伴随声音冲了出去	members/head_char_yuzushou.png	battle/bankejinqu.png	1	0	0	0
+102610	1026	熊孩子	0	1	10	83600	33438	0	102610	64	没有糖吃的小孩子们变得狂暴起来，乔巴变身也阻止不了他们的狂暴…	members/head_char_jurenxiaohai2.png	battle/bankejinqu.png	1	0	0	0
+102611	1026	雪女堡垒	0	1	10	84240	33696	0	102611	64	逃跑的途中雪女莫奈追了上来，索隆出手，一刀流·大震撼！	members/head_char_monai.png	battle/bankejinqu.png	1	0	0	0
+102612	1026	逃出生天	1	3	5	100650	57515	61001_5001023_1,61001_5001021_1,11001_1001_500	102612	65	桃之助带着路飞一同从垃圾箱里飞了上来，眼前就是凯撒的手下，找他们问出凯撒的行踪吧	members/head_char_haidao4.png	battle/bankejinqu.png	1	0	0	0
+102613	1026	别想逃	1	3	5	103010	58860	61001_5001022_1,61001_5001021_1,11001_1001_500	102613	65	就在凯撒准备杀掉茶胡子的时候，路飞的拳头打飞了他所有的手下“这次你可跑不掉了！”	members/head_char_kaisa.png	battle/bankejinqu.png	1	0	0	0
+102614	1026	罗的复仇	1	3	5	105380	60215	61001_5001021_1,61001_5001023_1,11001_1001_500	102614	65	罗和斯摩格直面强大的武装色霸气使用者，同时也是小丑在海军的间谍，鬼竹维尔戈。	members/head_char_weierge.png	battle/bankejinqu.png	1	0	0	0
+102615	1026	灰熊枪	1	3	5	107900	61655	61001_5003001_1,11001_1001_500	102615	65	凯撒吸收了杀戮瓦斯，变成恐怖的死亡国度状态，却被路飞一记三档灰熊抢彻底击溃。	members/head_char_kaisa.png	battle/bankejinqu.png	1	0	0	0
+102616	1026	回收凯撒	2	5	3	129150	93929	61001_1505003_1,11001_1001_500	102616	66	多佛朗明哥派出得力干将BABY 5和巴法罗前去抢回凯撒，战斗，一触即发！	members/head_char_baby5.png	battle/bankejinqu.png	1	0	0	0
+102701	1027	逢赌必输	0	1	10	97470	38988	0	102701	63	酒馆里遇到了一个爱赌博的失明老爷爷，明明赢了却被酒保欺骗，教训教训酒保吧！	members/head_char_yuzushou.png	battle/jingjichang.png	1	0	0	2716
+102702	1027	我的刀！	0	1	10	98090	39234	0	102702	63	刚刚还戴在身上的秋水一眨眼就不见了，可恶，妖精别跑！我看到你了！	members/head_char_leiou.png	battle/jingjichang.png	1	0	0	0
+102703	1027	挑衅者	0	1	10	98690	39474	0	102703	63	得知竟技场的奖励是烧烧果实之后，路飞化名路西去参加比赛，一进去就遇到了挑衅者…	members/head_char_yuzushou.png	battle/jingjichang.png	1	0	0	0
+102704	1027	深仇大恨	0	1	10	99300	39720	0	102704	63	斗技场B区的比赛如火如荼，一位不速之客悄然来到路飞身边	members/head_char_qingjiao.png	battle/jingjichang.png	1	0	0	0
+102705	1027	斗鱼群	0	1	10	99900	39960	0	102705	63	罗，乌索普和罗宾，带着凯撒前往和小丑约定好的地点，一群斗鱼不开眼的撞了过来	members/head_char_shengwu2.png	battle/jingjichang.png	1	0	0	0
+102706	1027	这是哪里？	1	2	5	117270	67013	11001_1002_300000,11001_1001_500	102706	64	打败斗鱼来到了一片奇怪的森林，罗宾和乌索普前去侦查，却被迷昏在地	members/head_char_leiou.png	battle/jingjichang.png	1	0	0	0
+102707	1027	为了爱	0	1	10	101120	40446	0	102707	64	坠入爱河的香吉士万万没想到，怀中美女竟是多佛朗明哥手下的杀手，紫罗兰维奥莱特。	members/head_char_ziluolan.png	battle/jingjichang.png	1	0	0	0
+102708	1027	小试牛刀	0	1	10	101730	40692	0	102708	64	自以为计谋成功，却被反将一军，大将藤虎毫无顾忌，一出手就对罗和小丑展开强力攻击	members/head_char_zefa.png	battle/jingjichang.png	1	0	0	0
+102709	1027	C区激战	0	1	10	102330	40932	0	102709	64	路飞在竞技场轻松击败众人，只剩一个拥有霸王色霸气的超级海贼，八宝海军前栋梁，青椒。	members/head_char_qingjiao.png	battle/jingjichang.png	1	0	0	0
+102710	1027	C区激战2	0	1	10	102950	41178	0	102710	64	不愧是前大海贼，实力深不可测，但是两年后的路飞，有着更加强大的实力！	members/head_char_qingjiao.png	battle/jingjichang.png	1	0	0	0
+102711	1027	艺术和音乐	0	1	10	103550	41418	0	102711	64	船上的娜美一行不小心被乔拉变成了艺术品，多亏布鲁克急击败了她，使大家恢复原状	members/head_char_qiaola.png	battle/jingjichang.png	1	0	0	0
+102712	1027	火烈鸟	1	3	5	121520	69438	61001_5001023_1,61001_5001021_1,11001_1001_500	102712	65	多佛朗明哥追杀逃走的罗时发现了万里阳光号，及时赶来的香吉士又一次救了大家	members/head_char_duofolangmingge.png	battle/jingjichang.png	1	0	0	0
+102713	1027	火烈鸟2	1	3	5	122220	69840	61001_5001022_1,61001_5001021_1,11001_1001_500	102713	65	一记风来喷射万里阳光号脱离危险，罗决定独力对抗小丑	members/head_char_duofolangmingge.png	battle/jingjichang.png	1	0	0	0
+102714	1027	反击	1	3	5	122940	70253	61001_5001021_1,61001_5001023_1,11001_1001_500	102714	65	四面八方都是敌人，万里阳光号也遭到BIG MOM战舰的攻击，不能再等下去了，反击！	members/head_char_xialuotelingling.png	battle/jingjichang.png	1	0	0	0
+102715	1027	藤虎的实力	1	3	5	123650	70655	61001_5003001_1	102715	65	眼见罗被小丑踩在脚下，索隆想要上前救援，却被藤虎沉重的剑彻底压制	members/head_char_duofolangmingge.png	battle/jingjichang.png	1	0	0	0
+102716	1027	艾斯的意志	2	5	3	142110	103353	61001_1505003_1	102716	66	竞技场内，萨波穿上了路飞的装备代替路飞出战，凶险的一战，对决王牌，迪亚曼蒂！	members/head_char_diyamandi.png	battle/jingjichang.png	1	0	0	0
+102801	1028	女神动力	0	1	10	97470	38988	0	102801	63	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_yuzushou.png	battle/jingjichang.png	1	0	0	2816
+102802	1028	女神动力1	0	1	10	98090	39234	0	102802	63	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_leiou.png	battle/jingjichang.png	1	0	0	0
+102803	1028	女神动力2	0	1	10	98690	39474	0	102803	63	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_yuzushou.png	battle/jingjichang.png	1	0	0	0
+102804	1028	女神动力3	0	1	10	99300	39720	0	102804	63	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_qingjiao.png	battle/jingjichang.png	1	0	0	0
+102805	1028	女神动力4	0	1	10	99900	39960	0	102805	63	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_shengwu2.png	battle/jingjichang.png	1	0	0	0
+102806	1028	女神动力5	1	2	5	117270	67013	11001_1002_300000,11001_1001_500	102806	64	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_leiou.png	battle/jingjichang.png	1	0	0	0
+102807	1028	女神动力6	0	1	10	101120	40446	0	102807	64	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_ziluolan.png	battle/jingjichang.png	1	0	0	0
+102808	1028	女神动力7	0	1	10	101730	40692	0	102808	64	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_zefa.png	battle/jingjichang.png	1	0	0	0
+102809	1028	女神动力8	0	1	10	102330	40932	0	102809	64	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_qingjiao.png	battle/jingjichang.png	1	0	0	0
+102810	1028	女神动力9	0	1	10	102950	41178	0	102810	64	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_qingjiao.png	battle/jingjichang.png	1	0	0	0
+102811	1028	女神动力10	0	1	10	103550	41418	0	102811	64	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_qiaola.png	battle/jingjichang.png	1	0	0	0
+102812	1028	女神动力11	1	3	5	121520	69438	61001_5001023_1,61001_5001021_1,11001_1001_500	102812	65	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_duofolangmingge.png	battle/jingjichang.png	1	0	0	0
+102813	1028	女神动力12	1	3	5	122220	69840	61001_5001022_1,61001_5001021_1,11001_1001_500	102813	65	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_duofolangmingge.png	battle/jingjichang.png	1	0	0	0
+102814	1028	女神动力13	1	3	5	122940	70253	61001_5001021_1,61001_5001023_1,11001_1001_500	102814	65	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_xialuotelingling.png	battle/jingjichang.png	1	0	0	0
+102815	1028	女神动力14	1	3	5	123650	70655	61001_5003001_1	102815	65	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_duofolangmingge.png	battle/jingjichang.png	1	0	0	0
+102816	1028	女神动力15	2	5	3	142110	103353	61001_1505003_1	102816	66	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_diyamandi.png	battle/jingjichang.png	1	0	0	0
+102901	1029	女神逍遥	0	1	10	97470	38988	0	102901	63	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_yuzushou.png	battle/jingjichang.png	1	0	0	2916
+102902	1029	女神逍遥1	0	1	10	98090	39234	0	102902	63	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_leiou.png	battle/jingjichang.png	1	0	0	0
+102903	1029	女神逍遥2	0	1	10	98690	39474	0	102903	63	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_yuzushou.png	battle/jingjichang.png	1	0	0	0
+102904	1029	女神逍遥3	0	1	10	99300	39720	0	102904	63	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_qingjiao.png	battle/jingjichang.png	1	0	0	0
+102905	1029	女神逍遥4	0	1	10	99900	39960	0	102905	63	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_shengwu2.png	battle/jingjichang.png	1	0	0	0
+102906	1029	女神逍遥5	1	2	5	117270	67013	11001_1002_300000,11001_1001_500	102906	64	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_leiou.png	battle/jingjichang.png	1	0	0	0
+102907	1029	女神逍遥6	0	1	10	101120	40446	0	102907	64	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_ziluolan.png	battle/jingjichang.png	1	0	0	0
+102908	1029	女神逍遥7	0	1	10	101730	40692	0	102908	64	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_zefa.png	battle/jingjichang.png	1	0	0	0
+102909	1029	女神逍遥8	0	1	10	102330	40932	0	102909	64	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_qingjiao.png	battle/jingjichang.png	1	0	0	0
+102910	1029	女神逍遥9	0	1	10	102950	41178	0	102910	64	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_qingjiao.png	battle/jingjichang.png	1	0	0	0
+102911	1029	女神逍遥10	0	1	10	103550	41418	0	102911	64	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_qiaola.png	battle/jingjichang.png	1	0	0	0
+102912	1029	女神逍遥11	1	3	5	121520	69438	61001_5001023_1,61001_5001021_1,11001_1001_500	102912	65	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_duofolangmingge.png	battle/jingjichang.png	1	0	0	0
+102913	1029	女神逍遥12	1	3	5	122220	69840	61001_5001022_1,61001_5001021_1,11001_1001_500	102913	65	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_duofolangmingge.png	battle/jingjichang.png	1	0	0	0
+102914	1029	女神逍遥13	1	3	5	122940	70253	61001_5001021_1,61001_5001023_1,11001_1001_500	102914	65	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_xialuotelingling.png	battle/jingjichang.png	1	0	0	0
+102915	1029	女神逍遥14	1	3	5	123650	70655	61001_5003001_1	102915	65	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_duofolangmingge.png	battle/jingjichang.png	1	0	0	0
+102916	1029	女神逍遥15	2	5	3	142110	103353	61001_1505003_1	102916	66	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_diyamandi.png	battle/jingjichang.png	1	0	0	0
+103001	1030	女神海皇	0	1	10	97470	38988	0	103001	63	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_yuzushou.png	battle/jingjichang.png	1	0	0	3016
+103002	1030	女神海皇1	0	1	10	98090	39234	0	103002	63	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_leiou.png	battle/jingjichang.png	1	0	0	0
+103003	1030	女神海皇2	0	1	10	98690	39474	0	103003	63	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_yuzushou.png	battle/jingjichang.png	1	0	0	0
+103004	1030	女神海皇3	0	1	10	99300	39720	0	103004	63	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_qingjiao.png	battle/jingjichang.png	1	0	0	0
+103005	1030	女神海皇4	0	1	10	99900	39960	0	103005	63	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_shengwu2.png	battle/jingjichang.png	1	0	0	0
+103006	1030	女神海皇5	1	2	5	117270	67013	11001_1002_300000,11001_1001_500	103006	64	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_leiou.png	battle/jingjichang.png	1	0	0	0
+103007	1030	女神海皇6	0	1	10	101120	40446	0	103007	64	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_ziluolan.png	battle/jingjichang.png	1	0	0	0
+103008	1030	女神海皇7	0	1	10	101730	40692	0	103008	64	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_zefa.png	battle/jingjichang.png	1	0	0	0
+103009	1030	女神海皇8	0	1	10	102330	40932	0	103009	64	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_qingjiao.png	battle/jingjichang.png	1	0	0	0
+103010	1030	女神海皇9	0	1	10	103050	41178	0	103010	64	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_qingjiao.png	battle/jingjichang.png	1	0	0	0
+103011	1030	女神海皇10	0	1	10	103550	41418	0	103011	64	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_qiaola.png	battle/jingjichang.png	1	0	0	0
+103012	1030	女神海皇11	1	3	5	121520	69438	61001_5001023_1,61001_5001021_1,11001_1001_500	103012	65	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_duofolangmingge.png	battle/jingjichang.png	1	0	0	0
+103013	1030	女神海皇12	1	3	5	122220	69840	61001_5001022_1,61001_5001021_1,11001_1001_500	103013	65	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_duofolangmingge.png	battle/jingjichang.png	1	0	0	0
+103014	1030	女神海皇13	1	3	5	122940	70253	61001_5001021_1,61001_5001023_1,11001_1001_500	103014	65	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_xialuotelingling.png	battle/jingjichang.png	1	0	0	0
+103015	1030	女神海皇14	1	3	5	123650	70655	61001_5003001_1	103015	65	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_duofolangmingge.png	battle/jingjichang.png	1	0	0	0
+103016	1030	女神海皇15	2	5	3	142110	103353	61001_1505003_1	103016	66	测试关卡，难度上升，奖励上升，加入唯一QQ群：137300386	members/head_char_diyamandi.png	battle/jingjichang.png	1	0	0	0

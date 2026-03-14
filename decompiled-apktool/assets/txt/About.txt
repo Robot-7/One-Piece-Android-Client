@@ -1,0 +1,5 @@
+﻿id	名称	描述	icon路径
+1	服务监督受理	ts@com4loves.com	mainScene/b_star01.png
+2	服务热线	1111	mainScene/b_star01.png
+3	QQ选择	查找-找服务-输入上方的服务QQ即可寻找客服	mainScene/b_star01.png
+4	服务QQ	1111	mainScene/b_star01.png

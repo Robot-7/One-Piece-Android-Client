@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>battle4_huo (10).png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{107,383},{103,125}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{103,125}}</string>
+                <key>sourceSize</key>
+                <string>{103,125}</string>
+            </dict>
+            <key>battle4_huo (14).png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{107,256},{103,125}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{103,125}}</string>
+                <key>sourceSize</key>
+                <string>{103,125}</string>
+            </dict>
+            <key>battle4_huo (18).png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,383},{103,125}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{103,125}}</string>
+                <key>sourceSize</key>
+                <string>{103,125}</string>
+            </dict>
+            <key>battle4_huo (2).png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,256},{103,125}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{103,125}}</string>
+                <key>sourceSize</key>
+                <string>{103,125}</string>
+            </dict>
+            <key>battle4_huo (22).png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{107,129},{103,125}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{103,125}}</string>
+                <key>sourceSize</key>
+                <string>{103,125}</string>
+            </dict>
+            <key>battle4_huo (26).png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,129},{103,125}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{103,125}}</string>
+                <key>sourceSize</key>
+                <string>{103,125}</string>
+            </dict>
+            <key>battle4_huo (30).png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{107,2},{103,125}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{103,125}}</string>
+                <key>sourceSize</key>
+                <string>{103,125}</string>
+            </dict>
+            <key>battle4_huo (6).png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{103,125}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{103,125}}</string>
+                <key>sourceSize</key>
+                <string>{103,125}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>battle18_na_888_32_blz.png</string>
+            <key>size</key>
+            <string>{256,512}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:d8cc6485f0e54afcab19cfeaf5a0ed6c$</string>
+            <key>textureFileName</key>
+            <string>battle18_na_888_32_blz.png</string>
+        </dict>
+    </dict>
+</plist>

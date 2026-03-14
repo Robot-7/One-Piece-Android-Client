@@ -1,0 +1,5 @@
+﻿lv	freeTimes	totalTimes
+13	1	15
+12	1	10
+3	1	3
+0	1	1

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/bind_tip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/bt_title" android:background="@drawable/pp_title_bg" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@id/bt_back_iv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/back_margin_left" android:src="@drawable/pp_btn_back_selector" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+        <TextView android:textSize="@dimen/title_text_size" android:textColor="@android:color/white" android:id="@id/bt_title_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+    </RelativeLayout>
+    <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <RelativeLayout android:id="@id/bt_security" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="20.0dip" android:layout_below="@id/bt_title">
+                <ImageView android:id="@id/bt_warning" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/pu_warning" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+                <TextView android:textSize="@dimen/btn_text_size" android:textColor="@android:color/white" android:id="@id/bt_security_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_toRightOf="@id/bt_warning" android:layout_centerVertical="true" />
+                <TextView android:textSize="@dimen/warning_text_size" android:textColor="#ffffde00" android:id="@id/bt_security_level_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5.0dip" android:layout_toRightOf="@id/bt_security_tv" android:layout_centerVertical="true" />
+            </RelativeLayout>
+            <TextView android:textSize="@dimen/tv_text_size" android:textColor="#ffadcae2" android:gravity="center" android:id="@id/bt_tip_tv" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="20.0dip" android:layout_below="@id/bt_security" />
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="10.0dip" android:layout_marginRight="20.0dip" android:layout_below="@id/bt_tip_tv">
+                <Button android:textSize="@dimen/btn_text_size" android:textColor="@android:color/white" android:id="@id/bt_bind_btn" android:background="@drawable/pu_btn_selector" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                <Button android:textSize="@dimen/btn_text_size" android:textColor="@android:color/white" android:id="@id/bt_enter_btn" android:background="@drawable/pu_btn_selector" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" />
+            </LinearLayout>
+        </RelativeLayout>
+    </ScrollView>
+</LinearLayout>
