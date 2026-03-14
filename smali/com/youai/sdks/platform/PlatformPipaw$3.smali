@@ -105,7 +105,7 @@
 
     .prologue
     .line 255
-    const-string v2, "https://temp.ruyify.xyz/wz/appuser/Checksid.php"
+    const-string v2, "http://156.239.41.7:81/appuser/Checksid.php"
 
     .line 256
     .local v2, "UID_URL":Ljava/lang/String;
@@ -117,7 +117,7 @@
     .local v5, "client":Lorg/apache/http/client/HttpClient;
     new-instance v16, Lorg/apache/http/client/methods/HttpPost;
 
-    const-string v19, "https://temp.ruyify.xyz/wz/appuser/Checksid.php"
+    const-string v19, "http://156.239.41.7:81/appuser/Checksid.php"
 
     move-object/from16 v0, v16
 
