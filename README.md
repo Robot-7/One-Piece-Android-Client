@@ -6,11 +6,12 @@
 
 ## 目录说明
 
-- `decompiled/`：合并后的反编译目录（位于仓库根目录）
-  - 含 apktool 导出（Manifest、smali、assets、res 等）
-  - 含 jadx 导出（Java 源码 `sources/` 与资源 `resources/`）
+当前已将反编译内容直接平铺到仓库根目录，主要包括：
 
-## 反编译命令
+- apktool 导出：`AndroidManifest.xml`、`smali/`、`assets/`、`res/` 等
+- jadx 导出：`sources/`（Java 源码）、`resources/`（资源）
+
+## 反编译与合并命令
 
 ```bash
 # apktool
@@ -19,8 +20,8 @@ apktool d -f 和之国.apk -o decompiled-apktool
 # jadx
 jadx -d decompiled-jadx 和之国.apk
 
-# 合并到根目录 decompiled/
-mkdir -p decompiled
-rsync -a decompiled-apktool/ decompiled/
-rsync -a decompiled-jadx/ decompiled/
+# 合并到仓库根目录
+rsync -a decompiled-apktool/ ./
+rsync -a decompiled-jadx/ ./
+rm -rf decompiled-apktool decompiled-jadx
 ```
