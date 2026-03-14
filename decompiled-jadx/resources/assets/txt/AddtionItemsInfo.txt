@@ -1,0 +1,2 @@
+id	属性数量	属性名
+1101002	4 name	describe	icon	quality

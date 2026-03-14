@@ -1,0 +1,13 @@
+﻿NPC_ID	阶段ID	关卡名	消耗钻石	消耗战意	消耗体力	获得战功	头像路径	战斗背景
+1	1	正义之门-1	5	1	1	50	members/head_char_haijun3.png	battle/haijunzongbu.png
+2	1	正义之门-2	5	1	1	60	members/head_char_dazuo.png	battle/haijunzongbu.png
+3	1	正义之门-3	5	1	1	70	members/head_char_zhongjiang.png	battle/haijunzongbu.png
+4	1	正义之门-4	5	1	1	80	members/head_char_keluokedaer.png	battle/haijunzongbu.png
+5	2	包围壁-1	5	1	1	50	members/head_char_px.png	battle/haijunzongbu.png
+6	2	包围壁-2	5	1	1	70	members/head_char_moliya.png	battle/haijunzongbu.png
+7	2	包围壁-3	5	1	1	90	members/head_char_yingyan.png	battle/haijunzongbu.png
+8	2	包围壁-4	5	1	1	110	members/head_char_duofolangmingge.png	battle/haijunzongbu.png
+9	3	处刑台-1	5	1	1	50	members/head_char_qingzhi.png	battle/dingshangjuezhan.png
+10	3	处刑台-2	5	1	1	80	members/head_char_huangyuan.png	battle/dingshangjuezhan.png
+11	3	处刑台-3	5	1	1	110	members/head_char_fozhizhanguo.png	battle/dingshangjuezhan.png
+12	3	处刑台-4	5	1	1	140	members/head_char_heihuzi.png	battle/dingshangjuezhan.png

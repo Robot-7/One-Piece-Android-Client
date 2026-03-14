@@ -1,0 +1,5 @@
+ID	名称	部件说明	属性等级成长值		Icom图片路径	海报图片路径
+1	head	世界最强之黑刀，无上大快刀之一，漆黑的利刃，为乱刃重花丁字型。	1:10,2:10,3:10,4:10,6:10,7:10,8:10,9:10,10:10,11:10		itemposter/poster_item_haiyangjinghua.png	equipposter/poster_weapon_heidaoye.png
+2	tail	巨大的长柄薙刀，因为其主人白胡子的缘故，散发出王者霸气。	1:10,2:10,3:10,4:10,6:10,7:10,8:10,9:10,10:10,11:10		itemposter/poster_item_shentiqianghuajinghua.png	equipposter/poster_weapon_wangzhetidao.png
+3	longgu	无上大快刀之一，传说中的妖刀。只有比剑灵强大，才能驾驭，否则最终被吞噬，死于非命。	1:10,2:10,3:10,4:10,6:10,7:10,8:10,9:10,10:10,11:10		itemposter/poster_item_lianjinshi.png	equipposter/poster_weapon_chudaiguiche.png
+4	leigu	闪耀着七星光辉的圣剑，因为受到诅咒，从而成为足以毁天灭地的妖刀。	1:10,2:10,3:10,4:10,6:10,7:10,8:10,9:10,10:10,11:10		itemposter/poster_item_gaojiyaoshui.png	itemposter/poster_item_gaojiyaoshui.png	equipposter/poster_weapon_qixingjian.png

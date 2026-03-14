@@ -1,0 +1,6 @@
+礼包等级	积分	礼包id	礼包图片
+1	100	3530001	itemposter/poster_item_douniubaoxiang1.png
+2	300	3530002	itemposter/poster_item_douniubaoxiang2.png
+3	600	3530003	itemposter/poster_item_douniubaoxiang3.png
+4	1000	3530004	itemposter/poster_item_douniubaoxiang4.png
+5	1500	3530005	itemposter/poster_item_douniubaoxiang5.png

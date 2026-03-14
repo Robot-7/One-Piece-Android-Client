@@ -1,0 +1,3 @@
+﻿id	名称	描述	购买价格	价格类型	操作类型	跳转界面	按钮文本	icon路径	海报路径	原价	所属分页	购买次数	包含道具	是否是宝石	是否在包裹中显示	购买结束时间	品质	
+4002001	武道护卫幸运星	金宝箱会出现A级防具“战神头盔”。抽中“战神头盔”或活动到期，道具失效并消失	2000	2	3	none	none	itemposter/poster_item_wdxyx.png	itemposter/poster_item_wdxyx.png	0	0	0	none	0	4	0	2	
+4002002	黄金护卫幸运星	银宝箱会出现B级防具“黄金甲”。抽中“黄金甲”或活动到期，道具失效并消失	500	2	3	none	none	itemposter/poster_item_hjxyx.png	itemposter/poster_item_hjxyx.png	0	0	0	none	0	4	0	2	

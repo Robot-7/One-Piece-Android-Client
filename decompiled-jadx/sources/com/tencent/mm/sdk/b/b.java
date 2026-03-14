@@ -1,0 +1,43 @@
+package com.tencent.mm.sdk.b;
+
+import android.util.Log;
+import com.tencent.mm.sdk.b.a;
+
+/* JADX INFO: loaded from: classes.dex */
+final class b implements a.InterfaceC0004a {
+    b() {
+    }
+
+    @Override // com.tencent.mm.sdk.b.a.InterfaceC0004a
+    public final void e(String str, String str2) {
+        if (a.level <= 2) {
+            Log.i(str, str2);
+        }
+    }
+
+    @Override // com.tencent.mm.sdk.b.a.InterfaceC0004a
+    public final void f(String str, String str2) {
+        if (a.level <= 1) {
+            Log.d(str, str2);
+        }
+    }
+
+    @Override // com.tencent.mm.sdk.b.a.InterfaceC0004a
+    public final void g(String str, String str2) {
+        if (a.level <= 3) {
+            Log.w(str, str2);
+        }
+    }
+
+    @Override // com.tencent.mm.sdk.b.a.InterfaceC0004a
+    public final int h() {
+        return a.level;
+    }
+
+    @Override // com.tencent.mm.sdk.b.a.InterfaceC0004a
+    public final void h(String str, String str2) {
+        if (a.level <= 4) {
+            Log.e(str, str2);
+        }
+    }
+}

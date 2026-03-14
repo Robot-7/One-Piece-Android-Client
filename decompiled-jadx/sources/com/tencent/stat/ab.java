@@ -1,0 +1,32 @@
+package com.tencent.stat;
+
+import android.content.Context;
+
+/* JADX INFO: loaded from: classes.dex */
+final class ab implements Runnable {
+    final /* synthetic */ Context a;
+    final /* synthetic */ StatSpecifyReportedInfo b;
+    final /* synthetic */ com.tencent.stat.a.c c;
+    final /* synthetic */ int d;
+
+    ab(Context context, StatSpecifyReportedInfo statSpecifyReportedInfo, com.tencent.stat.a.c cVar, int i) {
+        this.a = context;
+        this.b = statSpecifyReportedInfo;
+        this.c = cVar;
+        this.d = i;
+    }
+
+    @Override // java.lang.Runnable
+    public void run() {
+        try {
+            com.tencent.stat.a.b bVar = new com.tencent.stat.a.b(this.a, StatServiceImpl.a(this.a, false, this.b), this.c.a, this.b);
+            bVar.b().c = this.c.c;
+            Long lValueOf = Long.valueOf(this.d);
+            bVar.a(Long.valueOf(lValueOf.longValue() <= 0 ? 1L : lValueOf.longValue()).longValue());
+            new aq(bVar).a();
+        } catch (Throwable th) {
+            StatServiceImpl.q.e(th);
+            StatServiceImpl.a(this.a, th);
+        }
+    }
+}

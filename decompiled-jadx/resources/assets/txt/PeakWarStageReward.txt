@@ -1,0 +1,4 @@
+﻿序号	对应阶段ID	物品类型	物品ID	图标路径
+1	1	61001	3500011	itemposter/poster_item_tongbaoxiang.png
+2	2	61001	3500012	itemposter/poster_item_yinbaoxiang.png
+3	3	61001	3500013	itemposter/poster_item_jinbaoxiang.png

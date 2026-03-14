@@ -1,0 +1,6 @@
+﻿ID	名称	套装说明	Icom图片路径	海报图片路径	船体动画	动画尺寸	激活条件等级
+1	皮肤名称	世界最强之黑刀，无上大快刀之一，漆黑的利刃，为乱刃重花丁字型。	equipposter/poster_weapon_heidaoye.png	equipposter/poster_weapon_heidaoye.png	Ship_A	0.6	10
+2	皮肤名称	世界最强之黑刀，无上大快刀之一，漆黑的利刃，为乱刃重花丁字型。	equipposter/poster_weapon_heidaoye.png	equipposter/poster_weapon_heidaoye.png	Ship_C	1	10
+3	皮肤名称	世界最强之黑刀，无上大快刀之一，漆黑的利刃，为乱刃重花丁字型。	equipposter/poster_weapon_heidaoye.png	equipposter/poster_weapon_heidaoye.png	Ship_D	1	10
+4	皮肤名称	世界最强之黑刀，无上大快刀之一，漆黑的利刃，为乱刃重花丁字型。	equipposter/poster_weapon_heidaoye.png	equipposter/poster_weapon_heidaoye.png	Ship_E	1	10
+5	皮肤名称	世界最强之黑刀，无上大快刀之一，漆黑的利刃，为乱刃重花丁字型。	equipposter/poster_weapon_heidaoye.png	equipposter/poster_weapon_heidaoye.png	Ship_B	1	10

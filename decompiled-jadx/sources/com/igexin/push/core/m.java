@@ -1,0 +1,31 @@
+package com.igexin.push.core;
+
+import android.content.BroadcastReceiver;
+import android.content.Context;
+import android.content.Intent;
+import android.os.Message;
+
+/* JADX INFO: loaded from: classes.dex */
+public class m extends BroadcastReceiver {
+    private static m a;
+
+    private m() {
+    }
+
+    public static m a() {
+        if (a == null) {
+            a = new m();
+        }
+        return a;
+    }
+
+    @Override // android.content.BroadcastReceiver
+    public void onReceive(Context context, Intent intent) {
+        if (f.a() != null) {
+            Message message = new Message();
+            message.what = a.e;
+            message.obj = intent;
+            f.a().a(message);
+        }
+    }
+}

@@ -1,0 +1,6 @@
+﻿id	Name	picName
+1	人物	NoticePrint/Pokedex_renwu.png
+2	装备	NoticePrint/Pokedex_daoju.png
+3	奥义	NoticePrint/Pokedex_aoyi.png
+4	恶魔果实	NoticePrint/Pokedex_emoguoshi.png
+5	宠物	NoticePrint/Pokedex_chongwu.png

@@ -1,0 +1,16 @@
+﻿ID	名称	品阶	技能说明	类型	加成属性	属性初始加成额度	属性成长幅度	Icom图片路径	海报图片路径	名字图片路径	orderId
+1	清醒拍打	1	哞哞使出全力一击,挥动鳍部向敌人造成伤害，降低敌方单位攻击力	1	2	0.05	0.025	Pet/skillposter/poster_skill_pet_qingxingpaida.png	Pet/skillposter/poster_skillinfo_pet_qingxingpaida.png	none	1
+2	粉碎撕咬	1	常年咀嚼,练就粉碎一切的力量,可轻易粉碎对手的武器,降低敌方单位攻击力	1	2	0.05	0.0125	Pet/skillposter/poster_skill_pet_fensuisiyao.png	Pet/skillposter/poster_skillinfo_pet_fensuisiyao.png	none	2
+3	正义守护	1	秉承正义的誓言,用永恒的守护及音乐鼓舞感化对手,降低敌方单位攻击力	1	2	0.05	0.0125	Pet/skillposter/poster_skill_pet_zhengyishouhu.png	Pet/skillposter/poster_skillinfo_pet_zhengyishouhu.png	none	3
+4	火箭头槌	1	模仿路飞的绝技,利用头部尖角破除对手防御，降低敌方单位防御力	1	3	0.05	0.025	Pet/skillposter/poster_skill_pet_huojiantouchui.png	Pet/skillposter/poster_skillinfo_pet_huojiantouchui.png	none	4
+5	剧毒之牙	1	卡西神天赋绝技,通过毒牙麻痹对手,降低敌方单位防御力	1	3	0.05	0.0125	Pet/skillposter/poster_skill_pet_juduzhiya.png	Pet/skillposter/poster_skillinfo_pet_juduzhiya.png	none	5
+6	全军突击	1	气势磅礴的卡鲁鸭部队,通过快如疾风的进攻粉碎敌人的意志,降低敌方单位攻击力	1	2	0.03	0.01	Pet/skillposter/poster_skill_pet_quanjuntuji.png	Pet/skillposter/poster_skillinfo_pet_quanjuntuji.png	none	6
+7	无懈可击	1	常年沉寂功夫磨练,可轻易看破对手破绽,降低敌方单位防御力	1	3	0.03	0.01	Pet/skillposter/poster_skill_pet_wuxiekeji.png	Pet/skillposter/poster_skillinfo_pet_wuxiekeji.png	none	7
+8	嗜血爪击	1	充满嗜血暴力的一击,吓破敌人的胆子,降低敌方单位意志力	1	4	0.03	0.015	Pet/skillposter/poster_skill_pet_shixiezhaoji.png	Pet/skillposter/poster_skillinfo_pet_shixiezhaoji.png	none	8
+9	噬魂缠绕	1	致命的缠绕束缚,窒息感渐渐模糊敌人的意识,降低敌方单位意志力	1	4	0.03	0.0125	Pet/skillposter/poster_skill_pet_shihunchanrao.png	Pet/skillposter/poster_skillinfo_pet_shihunchanrao.png	none	9
+10	狰狞嘶鸣	1	令人无法忍受的嘶鸣,不断刺激着敌人的神经,降低敌方单位意志力	1	4	0.03	0.01	Pet/skillposter/poster_skill_pet_zhengningsiming.png	Pet/skillposter/poster_skillinfo_pet_zhengningsiming.png	none	10
+11	进化清醒拍打	5	哞哞使出全力一击,挥动鳍部向敌人造成伤害，降低敌方单位攻击力	1	2	0.1	0.025	Pet/skillposter/poster_skillinfo_pet_S_qingxingpaida.png	Pet/skillposter/poster_skillinfo_pet_qingxingpaida.png	none	11
+12	进化粉碎撕咬	5	常年咀嚼,练就粉碎一切的力量,可轻易粉碎对手的武器,降低敌方单位攻击力	1	2	0.1	0.0125	Pet/skillposter/poster_skill_pet_S_fensuisiyao.png	Pet/skillposter/poster_skillinfo_pet_fensuisiyao.png	none	12
+13	进化正义守护	5	秉承正义的誓言,用永恒的守护及音乐鼓舞感化对手,降低敌方单位攻击力	1	2	0.1	0.0125	Pet/skillposter/poster_skill_pet_S_zhengyishouhu.png	Pet/skillposter/poster_skillinfo_pet_zhengyishouhu.png	none	13
+14	进化火箭头槌	5	模仿路飞的绝技,利用头部尖角破除对手防御，降低敌方单位防御力	1	3	0.1	0.025	Pet/skillposter/poster_skill_pet_S_huojiantouchui.png	Pet/skillposter/poster_skillinfo_pet_huojiantouchui.png	none	14
+15	进化剧毒之牙	5	卡西神天赋绝技,通过毒牙麻痹对手,降低敌方单位防御力	1	3	0.1	0.0125	Pet/skillposter/poster_skill_pet_S_juduzhiya.png	Pet/skillposter/poster_skillinfo_pet_juduzhiya.png	none	15

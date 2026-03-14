@@ -1,0 +1,12 @@
+package com.tencent.mid.api;
+
+/* JADX INFO: loaded from: classes.dex */
+public class MidConstants {
+    public static final int ERROR_ARGUMENT = -10000;
+    public static final int ERROR_HTTP = -10020;
+    public static final int ERROR_NETWORK = -10010;
+    public static final int ERROR_PERMISSIONS = -10001;
+    public static final int ERROR_SDK_LOGIC = -10030;
+    public static final int ERROR_SERVER = -10040;
+    public static final float VERSION = 2.1f;
+}
