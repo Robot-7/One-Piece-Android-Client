@@ -361,7 +361,7 @@
 
     iget-object v1, p0, Lcom/pipaw/pipawpay/PipawUserActivity;->aP:Ljava/lang/String;
 
-    const-string v2, "http://106.55.254.14:81/appuser/login.php"
+    const-string v2, "https://temp.ruyify.xyz/wz/appuser/login.php"
 
     invoke-static {v1, v2, v0}, Lcom/pipaw/a/e;->a(Ljava/lang/String;Ljava/lang/String;Ljava/util/List;)Ljava/lang/String;
 
@@ -643,7 +643,7 @@
 
     iget-object v1, p0, Lcom/pipaw/pipawpay/PipawUserActivity;->aR:Ljava/lang/String;
 
-    const-string v2, "http://106.55.254.14:81/appuser/mobilecode.php"
+    const-string v2, "https://temp.ruyify.xyz/wz/appuser/mobilecode.php"
 
     invoke-static {v1, v2, v0}, Lcom/pipaw/a/e;->a(Ljava/lang/String;Ljava/lang/String;Ljava/util/List;)Ljava/lang/String;
 
@@ -994,7 +994,7 @@
 
     iget-object v1, p0, Lcom/pipaw/pipawpay/PipawUserActivity;->aS:Ljava/lang/String;
 
-    const-string v2, "http://106.55.254.14:81/appuser/bindmobile.php"
+    const-string v2, "https://temp.ruyify.xyz/wz/appuser/bindmobile.php"
 
     invoke-static {v1, v2, v0}, Lcom/pipaw/a/e;->a(Ljava/lang/String;Ljava/lang/String;Ljava/util/List;)Ljava/lang/String;
 
@@ -1268,7 +1268,7 @@
 
     iget-object v1, p0, Lcom/pipaw/pipawpay/PipawUserActivity;->aT:Ljava/lang/String;
 
-    const-string v2, "http://106.55.254.14:81/appuser/findPassword.php"
+    const-string v2, "https://temp.ruyify.xyz/wz/appuser/findPassword.php"
 
     invoke-static {v1, v2, v0}, Lcom/pipaw/a/e;->a(Ljava/lang/String;Ljava/lang/String;Ljava/util/List;)Ljava/lang/String;
 
@@ -1531,7 +1531,7 @@
 
     iget-object v1, p0, Lcom/pipaw/pipawpay/PipawUserActivity;->aU:Ljava/lang/String;
 
-    const-string v2, "http://106.55.254.14:81/appuser/resetPassword.php"
+    const-string v2, "https://temp.ruyify.xyz/wz/appuser/resetPassword.php"
 
     invoke-static {v1, v2, v0}, Lcom/pipaw/a/e;->a(Ljava/lang/String;Ljava/lang/String;Ljava/util/List;)Ljava/lang/String;
 
@@ -1629,7 +1629,7 @@
 
     iget-object v1, p0, Lcom/pipaw/pipawpay/PipawUserActivity;->aV:Ljava/lang/String;
 
-    const-string v2, "http://106.55.254.14:81/appuser/updatePwd.php"
+    const-string v2, "https://temp.ruyify.xyz/wz/appuser/updatePwd.php"
 
     invoke-static {v1, v2, v0}, Lcom/pipaw/a/e;->a(Ljava/lang/String;Ljava/lang/String;Ljava/util/List;)Ljava/lang/String;
 
@@ -1879,7 +1879,7 @@
 
     iget-object v1, p0, Lcom/pipaw/pipawpay/PipawUserActivity;->aQ:Ljava/lang/String;
 
-    const-string v2, "http://106.55.254.14:81/appuser/register.php"
+    const-string v2, "https://temp.ruyify.xyz/wz/appuser/register.php"
 
     invoke-static {v1, v2, v0}, Lcom/pipaw/a/e;->a(Ljava/lang/String;Ljava/lang/String;Ljava/util/List;)Ljava/lang/String;
 

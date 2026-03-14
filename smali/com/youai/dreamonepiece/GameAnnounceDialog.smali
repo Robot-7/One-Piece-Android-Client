@@ -14,7 +14,7 @@
 # static fields
 .field private static final TAG:Ljava/lang/String;
 
-.field private static final mDefaultUrl:Ljava/lang/String; = "http://mxhzw.com/notice.php"
+.field private static final mDefaultUrl:Ljava/lang/String; = "https://temp.ruyify.xyz/wz/notice_android.php"
 
 .field private static mRequestUrl:Ljava/lang/String;
 
@@ -140,7 +140,7 @@
     invoke-virtual {p0}, Lcom/youai/dreamonepiece/GameAnnounceDialog;->cancel()V
 
     .line 55
-    const-string v0, "http://mxhzw.com/notice.php"
+    const-string v0, "https://temp.ruyify.xyz/wz/notice_android.php"
 
     sput-object v0, Lcom/youai/dreamonepiece/GameAnnounceDialog;->mRequestUrl:Ljava/lang/String;
 
@@ -446,7 +446,7 @@
     :cond_0
     iget-object v4, p0, Lcom/youai/dreamonepiece/GameAnnounceDialog;->mWebView:Landroid/webkit/WebView;
 
-    const-string v5, "http://mxhzw.com/notice.php"
+    const-string v5, "https://temp.ruyify.xyz/wz/notice_android.php"
 
     invoke-virtual {v4, v5}, Landroid/webkit/WebView;->loadUrl(Ljava/lang/String;)V
 
